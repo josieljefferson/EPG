@@ -5,7 +5,7 @@
     "aliases": [
       "TVClube.br",
       "TV CLUBE",
-      "tv-clube",
+      "tv-clube-hd-1",
       "TV Clube",
       "TV Clube PI",
       "TV Clube Piauí",
@@ -136,50 +136,6 @@
       "ESPN",
       "espn",
       "ESPN Brasil"
-    ]
-  },
-  "ESPN2.br": {
-    "name": "ESPN 2",
-    "tvg_name": "ESPN 2",
-    "aliases": [
-      "ESPN2.br",
-      "ESPN 2",
-      "espn-2",
-      "ESPN2",
-      "ESPN 2 Brasil"
-    ]
-  },
-  "ESPN3.br": {
-    "name": "ESPN 3",
-    "tvg_name": "ESPN 3",
-    "aliases": [
-      "ESPN3.br",
-      "ESPN 3",
-      "espn-3",
-      "ESPN3",
-      "ESPN 3 Brasil"
-    ]
-  },
-  "ESPN4.br": {
-    "name": "ESPN 4",
-    "tvg_name": "ESPN 4",
-    "aliases": [
-      "ESPN4.br",
-      "ESPN 4",
-      "espn-4",
-      "ESPN4",
-      "ESPN 4 Brasil"
-    ]
-  },
-  "ESPN5.br": {
-    "name": "ESPN 5",
-    "tvg_name": "ESPN 5",
-    "aliases": [
-      "ESPN5.br",
-      "ESPN 5",
-      "espn-5",
-      "ESPN5",
-      "ESPN 5 Brasil"
     ]
   },
   "ESPN6.br": {
@@ -435,7 +391,7 @@
     "aliases": [
       "RecordTV.br",
       "RECORD TV",
-      "record-tv",
+      "record",
       "Record",
       "Rede Record",
       "Record TV"
@@ -491,7 +447,7 @@
     "aliases": [
       "TVCultura.br",
       "TV CULTURA",
-      "tv-cultura",
+      "cultura-hd",
       "TV Cultura",
       "Cultura",
       "TV Cultura HD"
@@ -687,6 +643,62 @@
       "Globo Teresina",
       "TV Globo Teresina",
       "Rede Globo Teresina"
+    ]
+  },
+  "ESPN2.br": {
+    "name": "ESPN 2",
+    "tvg_name": "ESPN 2",
+    "aliases": [
+      "ESPN2.br",
+      "ESPN 2",
+      "ES2",
+      "ESPN2",
+      "ESPN 2 Brasil"
+    ]
+  },
+  "ESPN3.br": {
+    "name": "ESPN 3",
+    "tvg_name": "ESPN 3",
+    "aliases": [
+      "ESPN3.br",
+      "ESPN 3",
+      "ES3",
+      "ESPN3",
+      "ESPN 3 Brasil"
+    ]
+  },
+  "ESPN4.br": {
+    "name": "ESPN 4",
+    "tvg_name": "ESPN 4",
+    "aliases": [
+      "ESPN4.br",
+      "ESPN 4",
+      "ES4",
+      "ESPN4",
+      "ESPN 4 Brasil"
+    ]
+  },
+  "ESPN5.br": {
+    "name": "ESPN 5",
+    "tvg_name": "ESPN 5",
+    "aliases": [
+      "ESPN5.br",
+      "ESPN 5",
+      "ES5",
+      "ESPN5",
+      "ESPN 5 Brasil"
+    ]
+  },
+  "PremiereClubes.br": {
+    "name": "PREMIERE CLUBES",
+    "tvg_name": "PREMIERE CLUBES",
+    "aliases": [
+      "PremiereClubes.br",
+      "PREMIERE CLUBES",
+      "121",
+      "Premiere FC HD",
+      "Premiere Clubes HD",
+      "Premiere HD"
     ]
   },
   "SBTPiaui.br": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:43:43.620772-03:00",
+  "generated_at": "2026-10-07T22:41:33.280329-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -37,90 +37,104 @@
       "urls": [],
       "channel_url": "",
       "enabled": true
+    },
+    {
+      "id": "meuguia",
+      "name": "Meu Guia",
+      "priority": 4,
+      "url": "https://meuguia.tv/programacao",
+      "urls": [
+        "https://meuguia.tv",
+        "https://meuguia.tv/programacao"
+      ],
+      "channel_url": "https://meuguia.tv/programacao/canal/{slug}",
+      "enabled": true
     }
   ],
   "source_priority": [
     "mitv",
     "guiadetv",
-    "alepi"
+    "alepi",
+    "meuguia"
   ],
   "channels": {
-    "configured": 61,
-    "with_programs": 61
+    "configured": 62,
+    "with_programs": 62
   },
   "programs": {
-    "total": 3402,
+    "total": 3645,
     "by_source": {
-      "fallback": 3402
+      "fallback": 3645
     },
     "by_channel": {
       "Band.br": 17,
-      "BandNews.br": 40,
+      "BandNews.br": 36,
       "BandPiaui.br": 20,
       "BandSports.br": 23,
       "CNNBrasil.br": 23,
-      "CanalUOL.br": 113,
+      "CanalUOL.br": 106,
       "Cancaonova.br": 39,
       "DiscoveryChannel.br": 35,
       "ESPN.br": 15,
-      "ESPN2.br": 18,
-      "ESPN3.br": 150,
-      "ESPN4.br": 148,
-      "ESPN5.br": 126,
-      "ESPN6.br": 124,
-      "GETV.br": 79,
+      "ESPN2.br": 147,
+      "ESPN3.br": 164,
+      "ESPN4.br": 182,
+      "ESPN5.br": 143,
+      "ESPN6.br": 120,
+      "GETV.br": 77,
       "GloboNews.br": 15,
-      "GloboRio.br": 75,
+      "GloboRio.br": 60,
       "GloboSP.br": 24,
       "InvestigacaoDiscovery.br": 34,
       "JovemPanNews.br": 13,
       "MeioNorte.br": 19,
       "MeioNorteHD.br": 19,
       "Multishow.br": 45,
-      "NSports.br": 182,
+      "NSports.br": 174,
       "Playboy.br": 44,
       "PlayboyHD.br": 44,
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
-      "Premiere5.br": 84,
+      "Premiere5.br": 81,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereFC.br": 257,
-      "RecordNews.br": 65,
-      "RecordTV.br": 119,
+      "PremiereClubes.br": 272,
+      "PremiereFC.br": 255,
+      "RecordNews.br": 51,
+      "RecordTV.br": 25,
       "RedeGloboTeresina.br": 23,
       "RedeTV.br": 20,
       "SBT.br": 15,
-      "SBTNews.br": 74,
+      "SBTNews.br": 72,
       "SBTPiaui.br": 17,
-      "SBTRio.br": 55,
+      "SBTRio.br": 43,
       "SextremeBrazil.br": 18,
       "SexyHot.br": 32,
       "Space.br": 28,
       "SporTV.br": 20,
       "SporTV2.br": 18,
       "SporTV3.br": 15,
-      "SportyNet.br": 209,
+      "SportyNet.br": 203,
       "TNT.br": 30,
-      "TNTNovelas.br": 247,
+      "TNTNovelas.br": 235,
       "TVAlvoradaDoSul.br": 23,
       "TVAntena10.br": 19,
       "TVBrasil.br": 54,
       "TVCidadeVerde.br": 17,
-      "TVClube.br": 19,
-      "TVCultura.br": 100,
+      "TVClube.br": 23,
+      "TVCultura.br": 65,
       "VenusTV.br": 17,
       "Viva.br": 30,
-      "XSports.br": 163,
+      "XSports.br": 156,
       "sexprive-brasileirinhas.br": 35,
       "tv.assembleia.piaui.br": 80
     }
   },
   "attempts": {
-    "total": 164,
-    "successful": 122,
-    "failed": 42
+    "total": 176,
+    "successful": 124,
+    "failed": 52
   },
   "files": {
     "epg": "output/epg.xml",
@@ -137,8 +151,8 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
-      "url": "https://mi.tv/br/canais/tv-clube",
+      "programs": 23,
+      "url": "https://mi.tv/br/canais/tv-clube-hd-1",
       "error": ""
     },
     {
@@ -148,8 +162,8 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
-      "url": "https://mi.tv/br/canais/tv-clube",
+      "programs": 23,
+      "url": "https://mi.tv/br/canais/tv-clube-hd-1",
       "error": ""
     },
     {
@@ -417,160 +431,6 @@
       "error": ""
     },
     {
-      "channel_id": "ESPN2.br",
-      "channel_name": "ESPN 2",
-      "date": "2026-10-07",
-      "source": "mitv",
-      "priority": 1,
-      "success": true,
-      "programs": 18,
-      "url": "https://mi.tv/br/canais/espn-2",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN2.br",
-      "channel_name": "ESPN 2",
-      "date": "2026-10-08",
-      "source": "mitv",
-      "priority": 1,
-      "success": true,
-      "programs": 18,
-      "url": "https://mi.tv/br/canais/espn-2",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN3.br",
-      "channel_name": "ESPN 3",
-      "date": "2026-10-07",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-3",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN3.br",
-      "channel_name": "ESPN 3",
-      "date": "2026-10-07",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 150,
-      "url": "https://www.guiadetv.com/canal/espn-3",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN3.br",
-      "channel_name": "ESPN 3",
-      "date": "2026-10-08",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-3",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN3.br",
-      "channel_name": "ESPN 3",
-      "date": "2026-10-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 150,
-      "url": "https://www.guiadetv.com/canal/espn-3",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-07",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-07",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 148,
-      "url": "https://www.guiadetv.com/canal/espn-4",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-08",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 148,
-      "url": "https://www.guiadetv.com/canal/espn-4",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-07",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-5",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-07",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 126,
-      "url": "https://www.guiadetv.com/canal/espn-5",
-      "error": ""
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-08",
-      "source": "mitv",
-      "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/espn-5",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": true,
-      "programs": 126,
-      "url": "https://www.guiadetv.com/canal/espn-5",
-      "error": ""
-    },
-    {
       "channel_id": "ESPN6.br",
       "channel_name": "ESPN 6",
       "date": "2026-10-07",
@@ -588,7 +448,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 124,
+      "programs": 120,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -610,7 +470,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 124,
+      "programs": 120,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -632,7 +492,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 79,
+      "programs": 77,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -654,7 +514,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 79,
+      "programs": 77,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -676,7 +536,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 182,
+      "programs": 174,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -698,7 +558,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 182,
+      "programs": 174,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -786,7 +646,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 84,
+      "programs": 81,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -808,7 +668,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 84,
+      "programs": 81,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -874,7 +734,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 257,
+      "programs": 255,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -896,7 +756,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 257,
+      "programs": 255,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -984,7 +844,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 209,
+      "programs": 203,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1006,7 +866,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 209,
+      "programs": 203,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1028,7 +888,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 163,
+      "programs": 156,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1050,7 +910,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 163,
+      "programs": 156,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1182,7 +1042,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 75,
+      "programs": 60,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1204,7 +1064,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 75,
+      "programs": 60,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1236,20 +1096,9 @@
       "date": "2026-10-07",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/record-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RecordTV.br",
-      "channel_name": "RECORD TV",
-      "date": "2026-10-07",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 119,
-      "url": "https://www.guiadetv.com/canal/record-tv",
+      "programs": 25,
+      "url": "https://mi.tv/br/canais/record",
       "error": ""
     },
     {
@@ -1258,20 +1107,9 @@
       "date": "2026-10-08",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/record-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RecordTV.br",
-      "channel_name": "RECORD TV",
-      "date": "2026-10-08",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 119,
-      "url": "https://www.guiadetv.com/canal/record-tv",
+      "programs": 25,
+      "url": "https://mi.tv/br/canais/record",
       "error": ""
     },
     {
@@ -1336,7 +1174,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 55,
+      "programs": 43,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1358,7 +1196,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 55,
+      "programs": 43,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1390,20 +1228,9 @@
       "date": "2026-10-07",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/tv-cultura",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCultura.br",
-      "channel_name": "TV CULTURA",
-      "date": "2026-10-07",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 100,
-      "url": "https://www.guiadetv.com/canal/tv-cultura",
+      "programs": 65,
+      "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
     {
@@ -1412,20 +1239,9 @@
       "date": "2026-10-08",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
-      "url": "https://mi.tv/br/canais/tv-cultura",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCultura.br",
-      "channel_name": "TV CULTURA",
-      "date": "2026-10-08",
-      "source": "guiadetv",
-      "priority": 2,
       "success": true,
-      "programs": 100,
-      "url": "https://www.guiadetv.com/canal/tv-cultura",
+      "programs": 65,
+      "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
     {
@@ -1446,7 +1262,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 40,
+      "programs": 36,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1468,7 +1284,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 40,
+      "programs": 36,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1490,7 +1306,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 113,
+      "programs": 106,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1512,7 +1328,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 113,
+      "programs": 106,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1600,7 +1416,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 65,
+      "programs": 51,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1622,7 +1438,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 65,
+      "programs": 51,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1644,7 +1460,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 74,
+      "programs": 72,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1666,7 +1482,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 74,
+      "programs": 72,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1710,7 +1526,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 247,
+      "programs": 235,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1732,7 +1548,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 247,
+      "programs": 235,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1910,6 +1726,336 @@
       "success": true,
       "programs": 23,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES2",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 147,
+      "url": "https://meuguia.tv/programacao/canal/ES2",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES2",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES2: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN2.br",
+      "channel_name": "ESPN 2",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 147,
+      "url": "https://meuguia.tv/programacao/canal/ES2",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES3",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES3: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 164,
+      "url": "https://meuguia.tv/programacao/canal/ES3",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES3",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES3: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN3.br",
+      "channel_name": "ESPN 3",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 164,
+      "url": "https://meuguia.tv/programacao/canal/ES3",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES4",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 182,
+      "url": "https://meuguia.tv/programacao/canal/ES4",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES4",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN4.br",
+      "channel_name": "ESPN 4",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 182,
+      "url": "https://meuguia.tv/programacao/canal/ES4",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES5",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES5: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 143,
+      "url": "https://meuguia.tv/programacao/canal/ES5",
+      "error": ""
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/ES5",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/ES5: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "ESPN5.br",
+      "channel_name": "ESPN 5",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 143,
+      "url": "https://meuguia.tv/programacao/canal/ES5",
+      "error": ""
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/121",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/121: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 272,
+      "url": "https://meuguia.tv/programacao/canal/121",
+      "error": ""
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/121",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/121: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "PremiereClubes.br",
+      "channel_name": "PREMIERE CLUBES",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 272,
+      "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
     {
