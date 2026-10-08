@@ -227,58 +227,6 @@
       ]
     },
     {
-      "id": "ESPN2.br",
-      "name": "ESPN 2",
-      "slug": "espn-2",
-      "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/55279R9yfRKnzN4XUeuZ9hdd0WM61fD8rKAPD4oI.png",
-      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
-      "aliases": [
-        "ESPN2",
-        "ESPN 2",
-        "ESPN 2 Brasil"
-      ]
-    },
-    {
-      "id": "ESPN3.br",
-      "name": "ESPN 3",
-      "slug": "espn-3",
-      "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png",
-      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
-      "aliases": [
-        "ESPN3",
-        "ESPN 3",
-        "ESPN 3 Brasil"
-      ]
-    },
-    {
-      "id": "ESPN4.br",
-      "name": "ESPN 4",
-      "slug": "espn-4",
-      "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/NbCozvwgOONEXubbDHqcoBPkbBTrFcg5gA1aMA3o.png",
-      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
-      "aliases": [
-        "ESPN4",
-        "ESPN 4",
-        "ESPN 4 Brasil"
-      ]
-    },
-    {
-      "id": "ESPN5.br",
-      "name": "ESPN 5",
-      "slug": "espn-5",
-      "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/a0k3Ik9vT9eMBoIc5ufsHvbHAdqilE3qmk3rOuvS.png",
-      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
-      "aliases": [
-        "ESPN5",
-        "ESPN 5",
-        "ESPN 5 Brasil"
-      ]
-    },
-    {
       "id": "ESPN6.br",
       "name": "ESPN 6",
       "slug": "espn-6",
@@ -832,19 +780,6 @@
         "Rede Globo Teresina"
       ]
     },
-    
-    {
-      "id": "ESPN.br",
-      "name": "ESPN",
-      "slug": "ESP",
-      "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/TjGpU2fe85zIbjNbJU92iR7Uup7BnpXtKVvuAALV.png",
-      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
-      "aliases": [
-        "ESPN",
-        "ESPN Brasil"
-      ]
-    },
     {
       "id": "ESPN2.br",
       "name": "ESPN 2",
@@ -898,16 +833,16 @@
       ]
     },
     {
-      "id": "PremiereFC.br",
+      "id": "PremiereClubes.br",
       "name": "PREMIERE CLUBES",
       "slug": "121",
       "group": "Esportes",
       "logo": "https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",
       "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
       "aliases": [
-        "Premiere FC",
-        "Premiere Clubes",
-        "Premiere"
+        "Premiere FC HD",
+        "Premiere Clubes HD",
+        "Premiere HD"
       ]
     },
     {
