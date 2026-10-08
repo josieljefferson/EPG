@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T22:41:33.280329-03:00",
-  "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG-M3U/refs/heads/main/output/epg.xml.gz",
+  "generated_at": "2026-10-07T23:14:24.320101-03:00",
+  "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
     "language": "pt-BR",
@@ -58,13 +58,13 @@
     "meuguia"
   ],
   "channels": {
-    "configured": 62,
-    "with_programs": 62
+    "configured": 64,
+    "with_programs": 64
   },
   "programs": {
-    "total": 3645,
+    "total": 3943,
     "by_source": {
-      "fallback": 3645
+      "fallback": 3943
     },
     "by_channel": {
       "Band.br": 17,
@@ -72,13 +72,13 @@
       "BandPiaui.br": 20,
       "BandSports.br": 23,
       "CNNBrasil.br": 23,
-      "CanalUOL.br": 106,
+      "CanalUOL.br": 103,
       "Cancaonova.br": 39,
       "DiscoveryChannel.br": 35,
       "ESPN.br": 15,
       "ESPN2.br": 147,
-      "ESPN3.br": 164,
-      "ESPN4.br": 182,
+      "ESPN3.br": 163,
+      "ESPN4.br": 180,
       "ESPN5.br": 143,
       "ESPN6.br": 120,
       "GETV.br": 77,
@@ -101,12 +101,12 @@
       "Premiere7.br": 3,
       "PremiereClubes.br": 272,
       "PremiereFC.br": 255,
-      "RecordNews.br": 51,
+      "RecordNews.br": 48,
       "RecordTV.br": 25,
       "RedeGloboTeresina.br": 23,
       "RedeTV.br": 20,
       "SBT.br": 15,
-      "SBTNews.br": 72,
+      "SBTNews.br": 69,
       "SBTPiaui.br": 17,
       "SBTRio.br": 43,
       "SextremeBrazil.br": 18,
@@ -115,7 +115,7 @@
       "SporTV.br": 20,
       "SporTV2.br": 18,
       "SporTV3.br": 15,
-      "SportyNet.br": 203,
+      "SportyNet.br": 200,
       "TNT.br": 30,
       "TNTNovelas.br": 235,
       "TVAlvoradaDoSul.br": 23,
@@ -124,6 +124,8 @@
       "TVCidadeVerde.br": 17,
       "TVClube.br": 23,
       "TVCultura.br": 65,
+      "TVJustica.br": 151,
+      "TVSenado.br": 162,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "XSports.br": 156,
@@ -132,9 +134,9 @@
     }
   },
   "attempts": {
-    "total": 176,
-    "successful": 124,
-    "failed": 52
+    "total": 188,
+    "successful": 128,
+    "failed": 60
   },
   "files": {
     "epg": "output/epg.xml",
@@ -844,7 +846,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 203,
+      "programs": 200,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -866,7 +868,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 203,
+      "programs": 200,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1306,7 +1308,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 106,
+      "programs": 103,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1328,7 +1330,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 106,
+      "programs": 103,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1416,7 +1418,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 51,
+      "programs": 48,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1438,7 +1440,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 51,
+      "programs": 48,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1460,7 +1462,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 69,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1482,7 +1484,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 69,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1823,7 +1825,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 163,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1856,7 +1858,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 163,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1889,7 +1891,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 180,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1922,7 +1924,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 180,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2056,6 +2058,138 @@
       "success": true,
       "programs": 272,
       "url": "https://meuguia.tv/programacao/canal/121",
+      "error": ""
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/JUS",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/JUS: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 151,
+      "url": "https://meuguia.tv/programacao/canal/JUS",
+      "error": ""
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/JUS",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/JUS: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "TVJustica.br",
+      "channel_name": "TV JUSTIÇA",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 151,
+      "url": "https://meuguia.tv/programacao/canal/JUS",
+      "error": ""
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-07",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/SEN",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-07",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/SEN: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-07",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 162,
+      "url": "https://meuguia.tv/programacao/canal/SEN",
+      "error": ""
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-08",
+      "source": "mitv",
+      "priority": 1,
+      "success": false,
+      "programs": 0,
+      "url": "https://mi.tv/br/canais/SEN",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-08",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/SEN: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "TVSenado.br",
+      "channel_name": "TV SENADO",
+      "date": "2026-10-08",
+      "source": "meuguia",
+      "priority": 4,
+      "success": true,
+      "programs": 162,
+      "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
     {

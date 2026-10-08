@@ -701,6 +701,30 @@
       "Premiere HD"
     ]
   },
+  "TVJustica.br": {
+    "name": "TV JUSTIÇA",
+    "tvg_name": "TV JUSTIÇA",
+    "aliases": [
+      "TVJustica.br",
+      "TV JUSTIÇA",
+      "JUS",
+      "TV Justiça",
+      "TV JUSTIÇA HD",
+      "Justiça"
+    ]
+  },
+  "TVSenado.br": {
+    "name": "TV SENADO",
+    "tvg_name": "TV SENADO",
+    "aliases": [
+      "TVSenado.br",
+      "TV SENADO",
+      "SEN",
+      "SENADO",
+      "TV Senado",
+      "TV SENADO HD"
+    ]
+  },
   "SBTPiaui.br": {
     "name": "SBT PIAUÍ",
     "tvg_name": "SBT PIAUÍ",
