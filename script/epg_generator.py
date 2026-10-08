@@ -117,7 +117,7 @@ DEBUG_DIR = ROOT / "debug_epg"
 
 EPG_URL = (
     "https://raw.githubusercontent.com/"
-    "josieljefferson/EPG-M3U/"
+    "josieljefferson/EPG/"
     "refs/heads/main/output/epg.xml.gz"
 )
 
