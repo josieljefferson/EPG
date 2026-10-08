@@ -837,12 +837,38 @@
       "name": "PREMIERE CLUBES",
       "slug": "121",
       "group": "Esportes",
-      "logo": "https://static.guiadetv.com/channel/MEO9lxSgmC5CAwsKhTHPzZCZX9ZFE7lRFqA48ElS.png",
+      "logo": "https://cdn.mitvstatic.com/channels/br_premiere-clubes-hd_m.png",
       "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
       "aliases": [
         "Premiere FC HD",
         "Premiere Clubes HD",
         "Premiere HD"
+      ]
+    },
+    {
+      "id": "TVJustica.br",
+      "name": "TV JUSTIÇA",
+      "slug": "JUS",
+      "group": "Esportes",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-justica-1_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "TV Justiça",
+        "TV JUSTIÇA HD",
+        "Justiça"
+      ]
+    },
+    {
+      "id": "TVSenado.br",
+      "name": "TV SENADO",
+      "slug": "SEN",
+      "group": "Brasil",
+      "logo": "https://cdn.mitvstatic.com/channels/br_tv-senado-1_m.png",
+      "stream": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "aliases": [
+        "SENADO",
+        "TV Senado",
+        "TV SENADO HD"
       ]
     },
     {
