@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:08:48.917963-03:00",
+  "generated_at": "2026-10-09T17:25:41.969907-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4348,
+    "total": 4342,
     "by_source": {
-      "fallback": 4348
+      "fallback": 4342
     },
     "by_channel": {
       "Band.br": 21,
@@ -80,8 +80,8 @@
       "ESPN3.br": 212,
       "ESPN4.br": 227,
       "ESPN5.br": 121,
-      "ESPN6.br": 125,
-      "GETV.br": 102,
+      "ESPN6.br": 126,
+      "GETV.br": 100,
       "GloboNews.br": 15,
       "GloboRio.br": 90,
       "GloboSP.br": 28,
@@ -90,7 +90,7 @@
       "MeioNorte.br": 19,
       "MeioNorteHD.br": 19,
       "Multishow.br": 43,
-      "NSports.br": 178,
+      "NSports.br": 179,
       "Playboy.br": 45,
       "PlayboyHD.br": 45,
       "Premiere2.br": 3,
@@ -108,7 +108,7 @@
       "SBT.br": 19,
       "SBTNews.br": 67,
       "SBTPiaui.br": 21,
-      "SBTRio.br": 70,
+      "SBTRio.br": 66,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 30,
       "Space.br": 32,
@@ -128,7 +128,7 @@
       "TVSenado.br": 175,
       "VenusTV.br": 16,
       "Viva.br": 30,
-      "XSports.br": 171,
+      "XSports.br": 169,
       "sexprive-brasileirinhas.br": 36,
       "tv.assembleia.piaui.br": 80
     }
@@ -450,7 +450,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 125,
+      "programs": 126,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -472,7 +472,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 125,
+      "programs": 126,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -494,7 +494,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 102,
+      "programs": 100,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -516,7 +516,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 102,
+      "programs": 100,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -538,7 +538,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 178,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -560,7 +560,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 178,
+      "programs": 179,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -890,7 +890,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 171,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -912,7 +912,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 171,
+      "programs": 169,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1176,7 +1176,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 70,
+      "programs": 66,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
