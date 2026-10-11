@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:31:38.850888-03:00",
+  "generated_at": "2026-10-11T16:48:20.927208-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4043,
+    "total": 4037,
     "by_source": {
-      "fallback": 4043
+      "fallback": 4037
     },
     "by_channel": {
       "Band.br": 19,
@@ -79,7 +79,7 @@
       "ESPN2.br": 198,
       "ESPN3.br": 206,
       "ESPN4.br": 213,
-      "ESPN5.br": 186,
+      "ESPN5.br": 185,
       "ESPN6.br": 120,
       "GETV.br": 96,
       "GloboNews.br": 20,
@@ -101,7 +101,7 @@
       "Premiere7.br": 5,
       "PremiereClubes.br": 273,
       "PremiereFC.br": 246,
-      "RecordNews.br": 82,
+      "RecordNews.br": 79,
       "RecordTV.br": 19,
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 22,
@@ -128,7 +128,7 @@
       "TVSenado.br": 199,
       "VenusTV.br": 17,
       "Viva.br": 30,
-      "XSports.br": 167,
+      "XSports.br": 165,
       "sexprive-brasileirinhas.br": 27,
       "tv.assembleia.piaui.br": 80
     }
@@ -890,7 +890,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 167,
+      "programs": 165,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -912,7 +912,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 167,
+      "programs": 165,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1418,7 +1418,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 82,
+      "programs": 79,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1440,7 +1440,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 82,
+      "programs": 79,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1957,7 +1957,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 186,
+      "programs": 185,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -1990,7 +1990,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 186,
+      "programs": 185,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
