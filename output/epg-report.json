@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:33:59.322760-03:00",
+  "generated_at": "2026-10-12T19:50:34.358977-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,13 +62,13 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4146,
+    "total": 4143,
     "by_source": {
-      "fallback": 4146
+      "fallback": 4143
     },
     "by_channel": {
       "Band.br": 20,
-      "BandNews.br": 40,
+      "BandNews.br": 38,
       "BandPiaui.br": 25,
       "BandSports.br": 21,
       "CNNBrasil.br": 23,
@@ -83,7 +83,7 @@
       "ESPN6.br": 117,
       "GETV.br": 85,
       "GloboNews.br": 15,
-      "GloboRio.br": 71,
+      "GloboRio.br": 68,
       "GloboSP.br": 27,
       "InvestigacaoDiscovery.br": 31,
       "JovemPanNews.br": 13,
@@ -115,7 +115,7 @@
       "SporTV.br": 19,
       "SporTV2.br": 16,
       "SporTV3.br": 16,
-      "SportyNet.br": 185,
+      "SportyNet.br": 187,
       "TNT.br": 35,
       "TNTNovelas.br": 244,
       "TVAlvoradaDoSul.br": 26,
@@ -846,7 +846,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 185,
+      "programs": 187,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -868,7 +868,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 185,
+      "programs": 187,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -1044,7 +1044,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 71,
+      "programs": 68,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1066,7 +1066,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 71,
+      "programs": 68,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1264,7 +1264,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 40,
+      "programs": 38,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1286,7 +1286,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 40,
+      "programs": 38,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
