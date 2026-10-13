@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:41:27.376437-03:00",
+  "generated_at": "2026-10-13T18:00:14.331635-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4190,
+    "total": 4185,
     "by_source": {
-      "fallback": 4190
+      "fallback": 4185
     },
     "by_channel": {
       "Band.br": 20,
@@ -80,7 +80,7 @@
       "ESPN3.br": 185,
       "ESPN4.br": 193,
       "ESPN5.br": 164,
-      "ESPN6.br": 124,
+      "ESPN6.br": 121,
       "GETV.br": 88,
       "GloboNews.br": 14,
       "GloboRio.br": 84,
@@ -117,7 +117,7 @@
       "SporTV3.br": 16,
       "SportyNet.br": 185,
       "TNT.br": 28,
-      "TNTNovelas.br": 250,
+      "TNTNovelas.br": 248,
       "TVAlvoradaDoSul.br": 27,
       "TVAntena10.br": 22,
       "TVBrasil.br": 55,
@@ -450,7 +450,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 124,
+      "programs": 121,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -472,7 +472,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 124,
+      "programs": 121,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -1528,7 +1528,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 250,
+      "programs": 248,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1550,7 +1550,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 250,
+      "programs": 248,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
