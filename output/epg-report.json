@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:45:55.285544-03:00",
+  "generated_at": "2026-10-16T16:03:29.914965-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4421,
+    "total": 4596,
     "by_source": {
-      "fallback": 4421
+      "fallback": 4596
     },
     "by_channel": {
       "Band.br": 21,
@@ -74,7 +74,7 @@
       "CNNBrasil.br": 26,
       "CanalUOL.br": 96,
       "Cancaonova.br": 39,
-      "DiscoveryChannel.br": 27,
+      "DiscoveryChannel.br": 99,
       "ESPN.br": 18,
       "ESPN2.br": 216,
       "ESPN3.br": 221,
@@ -90,7 +90,7 @@
       "MeioNorte.br": 18,
       "MeioNorteHD.br": 18,
       "Multishow.br": 44,
-      "NSports.br": 157,
+      "NSports.br": 155,
       "Playboy.br": 44,
       "PlayboyHD.br": 44,
       "Premiere2.br": 3,
@@ -99,7 +99,7 @@
       "Premiere5.br": 61,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 284,
+      "PremiereClubes.br": 282,
       "PremiereFC.br": 284,
       "RecordNews.br": 95,
       "RecordTV.br": 30,
@@ -113,7 +113,7 @@
       "SexyHot.br": 28,
       "Space.br": 28,
       "SporTV.br": 21,
-      "SporTV2.br": 15,
+      "SporTV2.br": 122,
       "SporTV3.br": 4,
       "SportyNet.br": 181,
       "TNT.br": 31,
@@ -134,9 +134,9 @@
     }
   },
   "attempts": {
-    "total": 188,
+    "total": 192,
     "successful": 128,
-    "failed": 60
+    "failed": 64
   },
   "files": {
     "epg": "output/epg.xml",
@@ -538,7 +538,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 157,
+      "programs": 155,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -560,7 +560,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 157,
+      "programs": 155,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -790,9 +790,20 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 15,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sportv-2",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SporTV2.br",
+      "channel_name": "SPORTV 2",
+      "date": "2026-10-16",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 122,
+      "url": "https://www.guiadetv.com/canal/sportv-2",
       "error": ""
     },
     {
@@ -801,9 +812,20 @@
       "date": "2026-10-17",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 15,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sportv-2",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SporTV2.br",
+      "channel_name": "SPORTV 2",
+      "date": "2026-10-17",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 122,
+      "url": "https://www.guiadetv.com/canal/sportv-2",
       "error": ""
     },
     {
@@ -966,9 +988,20 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 27,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/discovery-channel",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "DiscoveryChannel.br",
+      "channel_name": "DISCOVERY CHANNEL",
+      "date": "2026-10-16",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 99,
+      "url": "https://www.guiadetv.com/canal/discovery-channel",
       "error": ""
     },
     {
@@ -977,9 +1010,20 @@
       "date": "2026-10-17",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 27,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/discovery-channel",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "DiscoveryChannel.br",
+      "channel_name": "DISCOVERY CHANNEL",
+      "date": "2026-10-17",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 99,
+      "url": "https://www.guiadetv.com/canal/discovery-channel",
       "error": ""
     },
     {
@@ -2023,7 +2067,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 284,
+      "programs": 282,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2056,7 +2100,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 284,
+      "programs": 282,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
