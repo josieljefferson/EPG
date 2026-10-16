@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:52:11.664509-03:00",
+  "generated_at": "2026-10-16T05:15:01.778461-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4300,
+    "total": 4739,
     "by_source": {
-      "fallback": 4300
+      "fallback": 4739
     },
     "by_channel": {
       "Band.br": 19,
@@ -76,10 +76,10 @@
       "Cancaonova.br": 37,
       "DiscoveryChannel.br": 31,
       "ESPN.br": 17,
-      "ESPN2.br": 154,
-      "ESPN3.br": 155,
-      "ESPN4.br": 167,
-      "ESPN5.br": 133,
+      "ESPN2.br": 222,
+      "ESPN3.br": 227,
+      "ESPN4.br": 257,
+      "ESPN5.br": 206,
       "ESPN6.br": 138,
       "GETV.br": 116,
       "GloboNews.br": 17,
@@ -99,7 +99,7 @@
       "Premiere5.br": 71,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 279,
+      "PremiereClubes.br": 284,
       "PremiereFC.br": 284,
       "RecordNews.br": 112,
       "RecordTV.br": 29,
@@ -113,7 +113,7 @@
       "SexyHot.br": 34,
       "Space.br": 28,
       "SporTV.br": 21,
-      "SporTV2.br": 12,
+      "SporTV2.br": 141,
       "SporTV3.br": 15,
       "SportyNet.br": 194,
       "TNT.br": 33,
@@ -124,8 +124,8 @@
       "TVCidadeVerde.br": 21,
       "TVClube.br": 28,
       "TVCultura.br": 64,
-      "TVJustica.br": 150,
-      "TVSenado.br": 164,
+      "TVJustica.br": 151,
+      "TVSenado.br": 165,
       "VenusTV.br": 17,
       "Viva.br": 31,
       "XSports.br": 169,
@@ -134,9 +134,9 @@
     }
   },
   "attempts": {
-    "total": 188,
+    "total": 189,
     "successful": 128,
-    "failed": 60
+    "failed": 61
   },
   "files": {
     "epg": "output/epg.xml",
@@ -790,9 +790,20 @@
       "date": "2026-10-16",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 12,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/sportv-2",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "SporTV2.br",
+      "channel_name": "SPORTV 2",
+      "date": "2026-10-16",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 141,
+      "url": "https://www.guiadetv.com/canal/sportv-2",
       "error": ""
     },
     {
@@ -1759,7 +1770,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 154,
+      "programs": 222,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1792,7 +1803,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 154,
+      "programs": 222,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1825,7 +1836,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 155,
+      "programs": 227,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1869,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 155,
+      "programs": 227,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1891,7 +1902,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 167,
+      "programs": 257,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1924,7 +1935,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 167,
+      "programs": 257,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1957,7 +1968,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 133,
+      "programs": 206,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -1990,7 +2001,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 133,
+      "programs": 206,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2023,7 +2034,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 279,
+      "programs": 284,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2056,7 +2067,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 279,
+      "programs": 284,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2089,7 +2100,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2122,7 +2133,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2155,7 +2166,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 165,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2188,7 +2199,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 165,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
