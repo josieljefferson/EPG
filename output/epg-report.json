@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:07:39.763657-03:00",
+  "generated_at": "2026-10-18T10:07:14.061159-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,81 +62,81 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4338,
+    "total": 4188,
     "by_source": {
-      "fallback": 4338
+      "fallback": 4188
     },
     "by_channel": {
-      "Band.br": 24,
-      "BandNews.br": 79,
+      "Band.br": 20,
+      "BandNews.br": 71,
       "BandPiaui.br": 23,
-      "BandSports.br": 26,
-      "CNNBrasil.br": 22,
-      "CanalUOL.br": 61,
-      "Cancaonova.br": 34,
-      "DiscoveryChannel.br": 35,
-      "ESPN.br": 17,
-      "ESPN2.br": 202,
-      "ESPN3.br": 219,
-      "ESPN4.br": 246,
-      "ESPN5.br": 193,
-      "ESPN6.br": 136,
-      "GETV.br": 121,
+      "BandSports.br": 20,
+      "CNNBrasil.br": 19,
+      "CanalUOL.br": 54,
+      "Cancaonova.br": 31,
+      "DiscoveryChannel.br": 27,
+      "ESPN.br": 16,
+      "ESPN2.br": 198,
+      "ESPN3.br": 217,
+      "ESPN4.br": 244,
+      "ESPN5.br": 190,
+      "ESPN6.br": 134,
+      "GETV.br": 119,
       "GloboNews.br": 20,
-      "GloboRio.br": 93,
-      "GloboSP.br": 26,
-      "InvestigacaoDiscovery.br": 36,
-      "JovemPanNews.br": 18,
+      "GloboRio.br": 87,
+      "GloboSP.br": 17,
+      "InvestigacaoDiscovery.br": 34,
+      "JovemPanNews.br": 17,
       "MeioNorte.br": 16,
-      "MeioNorteHD.br": 19,
-      "Multishow.br": 43,
-      "NSports.br": 179,
-      "Playboy.br": 41,
-      "PlayboyHD.br": 41,
+      "MeioNorteHD.br": 16,
+      "Multishow.br": 46,
+      "NSports.br": 177,
+      "Playboy.br": 42,
+      "PlayboyHD.br": 42,
       "Premiere2.br": 5,
-      "Premiere3.br": 4,
-      "Premiere4.br": 3,
-      "Premiere5.br": 58,
-      "Premiere6.br": 4,
-      "Premiere7.br": 4,
+      "Premiere3.br": 53,
+      "Premiere4.br": 5,
+      "Premiere5.br": 50,
+      "Premiere6.br": 6,
+      "Premiere7.br": 3,
       "PremiereClubes.br": 260,
       "PremiereFC.br": 273,
-      "RecordNews.br": 96,
-      "RecordTV.br": 23,
-      "RedeGloboTeresina.br": 25,
-      "RedeTV.br": 27,
-      "SBT.br": 19,
-      "SBTNews.br": 56,
-      "SBTPiaui.br": 20,
-      "SBTRio.br": 77,
-      "SextremeBrazil.br": 21,
-      "SexyHot.br": 34,
-      "Space.br": 20,
-      "SporTV.br": 22,
-      "SporTV2.br": 12,
-      "SporTV3.br": 11,
+      "RecordNews.br": 89,
+      "RecordTV.br": 19,
+      "RedeGloboTeresina.br": 17,
+      "RedeTV.br": 22,
+      "SBT.br": 13,
+      "SBTNews.br": 51,
+      "SBTPiaui.br": 12,
+      "SBTRio.br": 60,
+      "SextremeBrazil.br": 19,
+      "SexyHot.br": 30,
+      "Space.br": 22,
+      "SporTV.br": 30,
+      "SporTV2.br": 11,
+      "SporTV3.br": 15,
       "SportyNet.br": 191,
-      "TNT.br": 26,
-      "TNTNovelas.br": 260,
-      "TVAlvoradaDoSul.br": 25,
-      "TVAntena10.br": 17,
-      "TVBrasil.br": 46,
-      "TVCidadeVerde.br": 20,
-      "TVClube.br": 25,
-      "TVCultura.br": 60,
-      "TVJustica.br": 150,
-      "TVSenado.br": 153,
+      "TNT.br": 29,
+      "TNTNovelas.br": 258,
+      "TVAlvoradaDoSul.br": 17,
+      "TVAntena10.br": 15,
+      "TVBrasil.br": 29,
+      "TVCidadeVerde.br": 12,
+      "TVClube.br": 17,
+      "TVCultura.br": 29,
+      "TVJustica.br": 151,
+      "TVSenado.br": 151,
       "VenusTV.br": 17,
-      "Viva.br": 29,
-      "XSports.br": 170,
-      "sexprive-brasileirinhas.br": 25,
+      "Viva.br": 30,
+      "XSports.br": 173,
+      "sexprive-brasileirinhas.br": 27,
       "tv.assembleia.piaui.br": 80
     }
   },
   "attempts": {
-    "total": 188,
+    "total": 190,
     "successful": 128,
-    "failed": 60
+    "failed": 62
   },
   "files": {
     "epg": "output/epg.xml",
@@ -153,7 +153,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-clube-hd-1",
       "error": ""
     },
@@ -164,7 +164,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-clube-hd-1",
       "error": ""
     },
@@ -175,7 +175,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 34,
+      "programs": 31,
       "url": "https://mi.tv/br/canais/canc-o-nova",
       "error": ""
     },
@@ -186,7 +186,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 34,
+      "programs": 31,
       "url": "https://mi.tv/br/canais/canc-o-nova",
       "error": ""
     },
@@ -219,7 +219,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 12,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
       "error": ""
     },
@@ -230,7 +230,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 12,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
       "error": ""
     },
@@ -241,7 +241,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 15,
       "url": "https://mi.tv/br/canais/tv-antena-10-hd",
       "error": ""
     },
@@ -252,7 +252,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 15,
       "url": "https://mi.tv/br/canais/tv-antena-10-hd",
       "error": ""
     },
@@ -263,7 +263,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 34,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/sexy-hot",
       "error": ""
     },
@@ -274,7 +274,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 34,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/sexy-hot",
       "error": ""
     },
@@ -285,7 +285,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 27,
       "url": "https://mi.tv/br/canais/sexprive-brasileirinhas",
       "error": ""
     },
@@ -296,7 +296,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 27,
       "url": "https://mi.tv/br/canais/sexprive-brasileirinhas",
       "error": ""
     },
@@ -307,7 +307,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 21,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/sextreme-brazil",
       "error": ""
     },
@@ -318,7 +318,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 21,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/sextreme-brazil",
       "error": ""
     },
@@ -395,7 +395,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
@@ -406,7 +406,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/bandsports",
       "error": ""
     },
@@ -417,7 +417,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/espn",
       "error": ""
     },
@@ -428,7 +428,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/espn",
       "error": ""
     },
@@ -450,7 +450,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 136,
+      "programs": 134,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -472,7 +472,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 136,
+      "programs": 134,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -494,7 +494,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 121,
+      "programs": 119,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -516,7 +516,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 121,
+      "programs": 119,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -538,7 +538,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 177,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -560,7 +560,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 179,
+      "programs": 177,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -592,9 +592,20 @@
       "date": "2026-10-18",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 4,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-3",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere3.br",
+      "channel_name": "PREMIERE 3",
+      "date": "2026-10-18",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 53,
+      "url": "https://www.guiadetv.com/canal/premiere-3",
       "error": ""
     },
     {
@@ -603,9 +614,20 @@
       "date": "2026-10-19",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 4,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-3",
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere3.br",
+      "channel_name": "PREMIERE 3",
+      "date": "2026-10-19",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": true,
+      "programs": 53,
+      "url": "https://www.guiadetv.com/canal/premiere-3",
       "error": ""
     },
     {
@@ -615,7 +637,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 3,
+      "programs": 5,
       "url": "https://mi.tv/br/canais/premiere-4",
       "error": ""
     },
@@ -626,7 +648,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 3,
+      "programs": 5,
       "url": "https://mi.tv/br/canais/premiere-4",
       "error": ""
     },
@@ -648,7 +670,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 58,
+      "programs": 50,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -670,7 +692,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 58,
+      "programs": 50,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -681,7 +703,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 4,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/premiere-6",
       "error": ""
     },
@@ -692,7 +714,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 4,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/premiere-6",
       "error": ""
     },
@@ -703,7 +725,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 4,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-7",
       "error": ""
     },
@@ -714,7 +736,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 4,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-7",
       "error": ""
     },
@@ -769,7 +791,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/sportv",
       "error": ""
     },
@@ -780,7 +802,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/sportv",
       "error": ""
     },
@@ -791,7 +813,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 12,
+      "programs": 11,
       "url": "https://mi.tv/br/canais/sportv-2",
       "error": ""
     },
@@ -802,7 +824,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 12,
+      "programs": 11,
       "url": "https://mi.tv/br/canais/sportv-2",
       "error": ""
     },
@@ -813,7 +835,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 11,
+      "programs": 15,
       "url": "https://mi.tv/br/canais/sportv-3",
       "error": ""
     },
@@ -824,7 +846,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 11,
+      "programs": 15,
       "url": "https://mi.tv/br/canais/sportv-3",
       "error": ""
     },
@@ -890,7 +912,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 173,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -912,7 +934,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 170,
+      "programs": 173,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -923,7 +945,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/space",
       "error": ""
     },
@@ -934,7 +956,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/space",
       "error": ""
     },
@@ -945,7 +967,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -956,7 +978,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -967,7 +989,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 35,
+      "programs": 27,
       "url": "https://mi.tv/br/canais/discovery-channel",
       "error": ""
     },
@@ -978,7 +1000,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 35,
+      "programs": 27,
       "url": "https://mi.tv/br/canais/discovery-channel",
       "error": ""
     },
@@ -989,7 +1011,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 36,
+      "programs": 34,
       "url": "https://mi.tv/br/canais/investigacao-discovery",
       "error": ""
     },
@@ -1000,7 +1022,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 36,
+      "programs": 34,
       "url": "https://mi.tv/br/canais/investigacao-discovery",
       "error": ""
     },
@@ -1011,7 +1033,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 24,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/band",
       "error": ""
     },
@@ -1022,7 +1044,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 24,
+      "programs": 20,
       "url": "https://mi.tv/br/canais/band",
       "error": ""
     },
@@ -1044,7 +1066,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 93,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1066,7 +1088,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 93,
+      "programs": 87,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1077,7 +1099,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/globo-sp",
       "error": ""
     },
@@ -1088,7 +1110,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 26,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/globo-sp",
       "error": ""
     },
@@ -1099,7 +1121,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 23,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/record",
       "error": ""
     },
@@ -1110,7 +1132,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 23,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/record",
       "error": ""
     },
@@ -1121,7 +1143,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/rede-tv",
       "error": ""
     },
@@ -1132,7 +1154,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 22,
       "url": "https://mi.tv/br/canais/rede-tv",
       "error": ""
     },
@@ -1143,7 +1165,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/sbt",
       "error": ""
     },
@@ -1154,7 +1176,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/sbt",
       "error": ""
     },
@@ -1176,7 +1198,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 77,
+      "programs": 60,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1198,7 +1220,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 77,
+      "programs": 60,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1209,7 +1231,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 46,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/tv-brasil",
       "error": ""
     },
@@ -1220,7 +1242,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 46,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/tv-brasil",
       "error": ""
     },
@@ -1231,7 +1253,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 60,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1242,7 +1264,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 60,
+      "programs": 29,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1264,7 +1286,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 79,
+      "programs": 71,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1286,7 +1308,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 79,
+      "programs": 71,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1308,7 +1330,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 61,
+      "programs": 54,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1330,7 +1352,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 61,
+      "programs": 54,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1341,7 +1363,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/cnn",
       "error": ""
     },
@@ -1352,7 +1374,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 22,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/cnn",
       "error": ""
     },
@@ -1385,7 +1407,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 18,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1396,7 +1418,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 18,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1418,7 +1440,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 96,
+      "programs": 89,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1440,7 +1462,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 96,
+      "programs": 89,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1462,7 +1484,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 56,
+      "programs": 51,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1484,7 +1506,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 56,
+      "programs": 51,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1495,7 +1517,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 43,
+      "programs": 46,
       "url": "https://mi.tv/br/canais/multishow-hd",
       "error": ""
     },
@@ -1506,7 +1528,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 43,
+      "programs": 46,
       "url": "https://mi.tv/br/canais/multishow-hd",
       "error": ""
     },
@@ -1528,7 +1550,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 260,
+      "programs": 258,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1550,7 +1572,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 260,
+      "programs": 258,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1561,7 +1583,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 29,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/viva",
       "error": ""
     },
@@ -1572,7 +1594,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 29,
+      "programs": 30,
       "url": "https://mi.tv/br/canais/viva",
       "error": ""
     },
@@ -1583,7 +1605,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
       "error": ""
     },
@@ -1594,7 +1616,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
       "error": ""
     },
@@ -1627,7 +1649,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -1638,7 +1660,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 19,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -1649,7 +1671,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 41,
+      "programs": 42,
       "url": "https://mi.tv/br/canais/playboy",
       "error": ""
     },
@@ -1660,7 +1682,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 41,
+      "programs": 42,
       "url": "https://mi.tv/br/canais/playboy",
       "error": ""
     },
@@ -1671,7 +1693,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 41,
+      "programs": 42,
       "url": "https://mi.tv/br/canais/playboy-hd",
       "error": ""
     },
@@ -1682,7 +1704,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 41,
+      "programs": 42,
       "url": "https://mi.tv/br/canais/playboy-hd",
       "error": ""
     },
@@ -1715,7 +1737,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
       "error": ""
     },
@@ -1726,7 +1748,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 25,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
       "error": ""
     },
@@ -1759,7 +1781,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 198,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1792,7 +1814,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 198,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1825,7 +1847,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 219,
+      "programs": 217,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1880,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 219,
+      "programs": 217,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1891,7 +1913,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 246,
+      "programs": 244,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1924,7 +1946,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 246,
+      "programs": 244,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1957,7 +1979,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 193,
+      "programs": 190,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -1990,7 +2012,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 193,
+      "programs": 190,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2089,7 +2111,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2122,7 +2144,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2155,7 +2177,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 153,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2188,7 +2210,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 153,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2199,7 +2221,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 12,
       "url": "https://mi.tv/br/canais/sbt-piaui",
       "error": ""
     },
@@ -2210,7 +2232,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 20,
+      "programs": 12,
       "url": "https://mi.tv/br/canais/sbt-piaui",
       "error": ""
     }
