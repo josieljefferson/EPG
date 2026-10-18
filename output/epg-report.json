@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:54:38.628286-03:00",
+  "generated_at": "2026-10-18T15:11:34.758460-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,23 +62,23 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4037,
+    "total": 4031,
     "by_source": {
-      "fallback": 4037
+      "fallback": 4031
     },
     "by_channel": {
       "Band.br": 20,
-      "BandNews.br": 59,
+      "BandNews.br": 56,
       "BandPiaui.br": 23,
       "BandSports.br": 20,
       "CNNBrasil.br": 19,
-      "CanalUOL.br": 47,
+      "CanalUOL.br": 46,
       "Cancaonova.br": 31,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 16,
       "ESPN2.br": 196,
       "ESPN3.br": 212,
-      "ESPN4.br": 239,
+      "ESPN4.br": 240,
       "ESPN5.br": 188,
       "ESPN6.br": 131,
       "GETV.br": 112,
@@ -106,7 +106,7 @@
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 22,
       "SBT.br": 13,
-      "SBTNews.br": 45,
+      "SBTNews.br": 42,
       "SBTPiaui.br": 12,
       "SBTRio.br": 53,
       "SextremeBrazil.br": 19,
@@ -1264,7 +1264,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 59,
+      "programs": 56,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1286,7 +1286,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 59,
+      "programs": 56,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1308,7 +1308,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 47,
+      "programs": 46,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1330,7 +1330,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 47,
+      "programs": 46,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1462,7 +1462,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 45,
+      "programs": 42,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1484,7 +1484,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 45,
+      "programs": 42,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1891,7 +1891,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 239,
+      "programs": 240,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1924,7 +1924,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 239,
+      "programs": 240,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
