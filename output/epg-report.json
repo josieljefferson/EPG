@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:42:19.206067-03:00",
+  "generated_at": "2026-10-19T21:14:27.985074-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,81 +62,81 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4174,
+    "total": 1885,
     "by_source": {
-      "fallback": 4174
+      "fallback": 1885
     },
     "by_channel": {
       "Band.br": 20,
-      "BandNews.br": 42,
+      "BandNews.br": 1,
       "BandPiaui.br": 25,
       "BandSports.br": 22,
       "CNNBrasil.br": 25,
-      "CanalUOL.br": 129,
+      "CanalUOL.br": 120,
       "Cancaonova.br": 40,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 16,
-      "ESPN2.br": 189,
-      "ESPN3.br": 202,
-      "ESPN4.br": 228,
-      "ESPN5.br": 174,
-      "ESPN6.br": 126,
-      "GETV.br": 110,
+      "ESPN2.br": 183,
+      "ESPN3.br": 201,
+      "ESPN4.br": 1,
+      "ESPN5.br": 1,
+      "ESPN6.br": 1,
+      "GETV.br": 1,
       "GloboNews.br": 15,
-      "GloboRio.br": 72,
+      "GloboRio.br": 1,
       "GloboSP.br": 25,
       "InvestigacaoDiscovery.br": 38,
       "JovemPanNews.br": 13,
       "MeioNorte.br": 22,
       "MeioNorteHD.br": 22,
       "Multishow.br": 42,
-      "NSports.br": 154,
+      "NSports.br": 1,
       "Playboy.br": 41,
       "PlayboyHD.br": 41,
       "Premiere2.br": 3,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
-      "Premiere5.br": 31,
+      "Premiere5.br": 1,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 258,
-      "PremiereFC.br": 269,
-      "RecordNews.br": 67,
+      "PremiereClubes.br": 1,
+      "PremiereFC.br": 1,
+      "RecordNews.br": 53,
       "RecordTV.br": 30,
       "RedeGloboTeresina.br": 24,
       "RedeTV.br": 24,
       "SBT.br": 19,
-      "SBTNews.br": 57,
+      "SBTNews.br": 53,
       "SBTPiaui.br": 21,
-      "SBTRio.br": 64,
+      "SBTRio.br": 1,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 32,
       "Space.br": 25,
       "SporTV.br": 21,
       "SporTV2.br": 16,
       "SporTV3.br": 11,
-      "SportyNet.br": 182,
+      "SportyNet.br": 1,
       "TNT.br": 33,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 246,
       "TVAlvoradaDoSul.br": 24,
       "TVAntena10.br": 22,
       "TVBrasil.br": 51,
       "TVCidadeVerde.br": 21,
       "TVClube.br": 24,
       "TVCultura.br": 65,
-      "TVJustica.br": 154,
-      "TVSenado.br": 148,
+      "TVJustica.br": 1,
+      "TVSenado.br": 1,
       "VenusTV.br": 16,
       "Viva.br": 30,
-      "XSports.br": 167,
+      "XSports.br": 1,
       "sexprive-brasileirinhas.br": 34,
-      "tv.assembleia.piaui.br": 80
+      "tv.assembleia.piaui.br": 1
     }
   },
   "attempts": {
-    "total": 188,
+    "total": 176,
     "successful": 128,
-    "failed": 60
+    "failed": 48
   },
   "files": {
     "epg": "output/epg.xml",
@@ -339,20 +339,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-assembleia-pi: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "tv.assembleia.piaui.br",
-      "channel_name": "TV ASSEMBLEIA PI",
-      "date": "2026-10-19",
-      "source": "alepi",
-      "priority": 3,
       "success": true,
-      "programs": 80,
-      "url": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/tv-assembleia-pi",
       "error": ""
     },
     {
@@ -372,20 +361,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-assembleia-pi: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "tv.assembleia.piaui.br",
-      "channel_name": "TV ASSEMBLEIA PI",
-      "date": "2026-10-20",
-      "source": "alepi",
-      "priority": 3,
       "success": true,
-      "programs": 80,
-      "url": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/tv-assembleia-pi",
       "error": ""
     },
     {
@@ -450,7 +428,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 126,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -472,7 +450,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 126,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/espn-6",
       "error": ""
     },
@@ -494,7 +472,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 110,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -516,7 +494,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 110,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/ge-tv",
       "error": ""
     },
@@ -538,7 +516,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 154,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -560,7 +538,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 154,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/nsports",
       "error": ""
     },
@@ -648,7 +626,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 31,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -670,7 +648,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 31,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/premiere-5",
       "error": ""
     },
@@ -736,7 +714,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 269,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -758,7 +736,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 269,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/premiere-fc",
       "error": ""
     },
@@ -846,7 +824,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 182,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -868,7 +846,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 182,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/sportynet",
       "error": ""
     },
@@ -890,7 +868,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 167,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -912,7 +890,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 167,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/xsports",
       "error": ""
     },
@@ -1044,7 +1022,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1066,7 +1044,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 72,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/globo-rio-de-janeiro",
       "error": ""
     },
@@ -1176,7 +1154,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 64,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1198,7 +1176,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 64,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/sbt-rio-de-janeiro",
       "error": ""
     },
@@ -1264,7 +1242,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 42,
+      "programs": 1,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1286,7 +1264,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 42,
+      "programs": 36,
       "url": "https://www.guiadetv.com/canal/bandnews",
       "error": ""
     },
@@ -1308,7 +1286,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 129,
+      "programs": 120,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1330,7 +1308,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 129,
+      "programs": 120,
       "url": "https://www.guiadetv.com/canal/canal-uol",
       "error": ""
     },
@@ -1418,7 +1396,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 67,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1440,7 +1418,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 67,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1462,7 +1440,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 57,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1484,7 +1462,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 57,
+      "programs": 53,
       "url": "https://www.guiadetv.com/canal/sbt-news",
       "error": ""
     },
@@ -1528,7 +1506,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 246,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1550,7 +1528,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 246,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1759,7 +1737,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 189,
+      "programs": 183,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1792,7 +1770,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 189,
+      "programs": 183,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1825,7 +1803,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 201,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1836,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 201,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1879,20 +1857,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ES4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-19",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 228,
-      "url": "https://meuguia.tv/programacao/canal/ES4",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/ES4",
       "error": ""
     },
     {
@@ -1912,20 +1879,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ES4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "ESPN4.br",
-      "channel_name": "ESPN 4",
-      "date": "2026-10-20",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 228,
-      "url": "https://meuguia.tv/programacao/canal/ES4",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/ES4",
       "error": ""
     },
     {
@@ -1945,20 +1901,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ES5: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-19",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 174,
-      "url": "https://meuguia.tv/programacao/canal/ES5",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/ES5",
       "error": ""
     },
     {
@@ -1978,20 +1923,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ES5: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "ESPN5.br",
-      "channel_name": "ESPN 5",
-      "date": "2026-10-20",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 174,
-      "url": "https://meuguia.tv/programacao/canal/ES5",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/ES5",
       "error": ""
     },
     {
@@ -2011,20 +1945,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/121: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "PremiereClubes.br",
-      "channel_name": "PREMIERE CLUBES",
-      "date": "2026-10-19",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 258,
-      "url": "https://meuguia.tv/programacao/canal/121",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/121",
       "error": ""
     },
     {
@@ -2044,20 +1967,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/121: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "PremiereClubes.br",
-      "channel_name": "PREMIERE CLUBES",
-      "date": "2026-10-20",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 258,
-      "url": "https://meuguia.tv/programacao/canal/121",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/121",
       "error": ""
     },
     {
@@ -2077,20 +1989,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/JUS: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVJustica.br",
-      "channel_name": "TV JUSTIÇA",
-      "date": "2026-10-19",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 154,
-      "url": "https://meuguia.tv/programacao/canal/JUS",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/JUS",
       "error": ""
     },
     {
@@ -2110,20 +2011,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/JUS: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVJustica.br",
-      "channel_name": "TV JUSTIÇA",
-      "date": "2026-10-20",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 154,
-      "url": "https://meuguia.tv/programacao/canal/JUS",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/JUS",
       "error": ""
     },
     {
@@ -2143,20 +2033,9 @@
       "date": "2026-10-19",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/SEN: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVSenado.br",
-      "channel_name": "TV SENADO",
-      "date": "2026-10-19",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 148,
-      "url": "https://meuguia.tv/programacao/canal/SEN",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/SEN",
       "error": ""
     },
     {
@@ -2176,20 +2055,9 @@
       "date": "2026-10-20",
       "source": "guiadetv",
       "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/SEN: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVSenado.br",
-      "channel_name": "TV SENADO",
-      "date": "2026-10-20",
-      "source": "meuguia",
-      "priority": 4,
       "success": true,
-      "programs": 148,
-      "url": "https://meuguia.tv/programacao/canal/SEN",
+      "programs": 1,
+      "url": "https://www.guiadetv.com/canal/SEN",
       "error": ""
     },
     {
