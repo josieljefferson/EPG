@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:17:06.127189-03:00",
+  "generated_at": "2026-10-21T16:34:17.405599-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4185,
+    "total": 4183,
     "by_source": {
-      "fallback": 4185
+      "fallback": 4183
     },
     "by_channel": {
       "Band.br": 19,
@@ -77,7 +77,7 @@
       "DiscoveryChannel.br": 36,
       "ESPN.br": 16,
       "ESPN2.br": 173,
-      "ESPN3.br": 188,
+      "ESPN3.br": 187,
       "ESPN4.br": 209,
       "ESPN5.br": 148,
       "ESPN6.br": 124,
@@ -117,7 +117,7 @@
       "SporTV3.br": 6,
       "SportyNet.br": 188,
       "TNT.br": 28,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 257,
       "TVAlvoradaDoSul.br": 25,
       "TVAntena10.br": 22,
       "TVBrasil.br": 57,
@@ -1528,7 +1528,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1550,7 +1550,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 257,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1825,7 +1825,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 188,
+      "programs": 187,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1858,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 188,
+      "programs": 187,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
