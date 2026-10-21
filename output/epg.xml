@@ -278,10 +278,10 @@
     <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021000000 -0300" stop="20261021003000 -0300">
-    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021000000 -0300" stop="20261021003000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021000000 -0300" stop="20261021003000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Bragantino Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -344,7 +344,7 @@
     <title lang="pt-BR">Evento Variedades/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261021000000 -0300" stop="20261021010400 -0300">
-    <title lang="pt-BR">Evento Variedades/Diversos Publicidade: Descobrir mais Canais TV Filmes TV Séries TV Esportes TV Infantil TV Documentários TV Notícias TV TV aberta T</title>
+    <title lang="pt-BR">Evento Variedades/Diversos Publicidade: Descobrir mais Direitos Laborais Guia TV Programação TV Filmes TV Séries TV Esportes TV Infantil TV Documentá</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021000000 -0300" stop="20261021012000 -0300">
     <title lang="pt-BR">Senadoc: Chega de Fiu Fiu Documentário/Diversos --&gt; --&gt;</title>
@@ -494,13 +494,13 @@
     <title lang="pt-BR">1h A Promessa Teresa conta a Jana suas suspeitas sobre Petra. Blanca pressiona Manuel a tomar uma decisão.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021001000 -0300" stop="20261021004000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021001000 -0300" stop="20261021004000 -0300">
     <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021001000 -0300" stop="20261021004000 -0300">
-    <title lang="pt-BR">VT - Santos x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021001000 -0300" stop="20261021004000 -0300">
     <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
@@ -599,7 +599,7 @@
     <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021003000 -0300" stop="20261021010000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021003000 -0300" stop="20261021010000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Bahia Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -722,7 +722,10 @@
     <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021004000 -0300" stop="20261021011000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021004000 -0300" stop="20261021011000 -0300">
+    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021004000 -0300" stop="20261021011000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Bragantino Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -735,9 +738,6 @@
   </programme>
   <programme channel="PremiereFC.br" start="20261021004000 -0300" stop="20261021011000 -0300">
     <title lang="pt-BR">30min VT - Mirassol x Botafogo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super B</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021004000 -0300" stop="20261021013000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 28ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261021004000 -0300" stop="20261021031000 -0300">
     <title lang="pt-BR">Yentl Musical / 1983 / 6.6 Yentl é uma jovem judia que decide se passar por homem para estudar o Talmud, um privilégio masculino. Entretanto, as surp</title>
@@ -767,7 +767,7 @@
     <title lang="pt-BR">1h The Noite com Danilo Gentili Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261021004500 -0300" stop="20261021014500 -0300">
-    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. 55 min restantes googletag.cmd.push(function() { googletag.d</title>
+    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. 37 min restantes googletag.cmd.push(function() { googletag.d</title>
   </programme>
   <programme channel="RecordTV.br" start="20261021004500 -0300" stop="20261021020000 -0300">
     <title lang="pt-BR">Fala que Eu te Escuto Talk Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir</title>
@@ -806,7 +806,7 @@
     <title lang="pt-BR">F1: The Inside Line Esporte/Automobilismo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021010000 -0300" stop="20261021013000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021010000 -0300" stop="20261021013000 -0300">
     <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
@@ -1049,7 +1049,7 @@
     <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021011000 -0300" stop="20261021014000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Vitória Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021011000 -0300" stop="20261021014000 -0300">
     <title lang="pt-BR">30min VT - Mirassol x Botafogo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super B</title>
@@ -1059,6 +1059,9 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021011000 -0300" stop="20261021020000 -0300">
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 28ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021011000 -0300" stop="20261021020000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021011000 -0300" stop="20261021020000 -0300">
     <title lang="pt-BR">50min Giro Da Rodada - Brasileirão - 28ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -1214,13 +1217,10 @@
     <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021013000 -0300" stop="20261021020000 -0300">
-    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021013000 -0300" stop="20261021020000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021013000 -0300" stop="20261021020000 -0300">
     <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021013000 -0300" stop="20261021020000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021013000 -0300" stop="20261021020000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Bragantino Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -1415,7 +1415,7 @@
     <title lang="pt-BR">Jazz Sinfônica Brasil Espetáculo/Musical --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021014000 -0300" stop="20261021021000 -0300">
-    <title lang="pt-BR">VT - Bahia x Remo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021014000 -0300" stop="20261021021000 -0300">
     <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
@@ -1431,9 +1431,6 @@
   </programme>
   <programme channel="RecordNews.br" start="20261021014000 -0300" stop="20261021034000 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261021014000 -0300" stop="20261021052000 -0300">
-    <title lang="pt-BR">–</title>
   </programme>
   <programme channel="GETV.br" start="20261021014000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -1466,16 +1463,19 @@
     <title lang="pt-BR">Senadoc: Índio Cidadão? Documentário/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="SBT.br" start="20261021014500 -0300" stop="20261021024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 49 min restantes googletag.cmd.</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 31 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261021014500 -0300" stop="20261021024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 40 min restantes googletag.cmd.</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 22 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261021014500 -0300" stop="20261021024500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 55 min restantes googletag.cmd.</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 37 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="XSports.br" start="20261021014500 -0300" stop="20261021024500 -0300">
     <title lang="pt-BR">VT - Bayern De Munique x Rb Leipzig Futebol alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</title>
+  </programme>
+  <programme channel="XSports.br" start="20261021014500 -0300" stop="20261021024500 -0300">
+    <title lang="pt-BR">VT - Krasnodar x Zenit Krasnodar e Zenit jogam pela Primeira Liga Russa. Guia de notícias do mundo do entretenimento: descubra tudo o que rola no mun</title>
   </programme>
   <programme channel="XSports.br" start="20261021014500 -0300" stop="20261021033000 -0300">
     <title lang="pt-BR">VT - Dynamo de Moscou x CSKA Dynamo de Moscou e CSKA jogam pela Primeira Liga Russa.</title>
@@ -1508,7 +1508,7 @@
     <title lang="pt-BR">VT - Cruzeiro x Bolívar Cruzeiro e Bolívar jogam pela 2ª rodada da fase de grupos da Libertadores Feminina, no Casa Blanca, em Quito, Equador.</title>
   </programme>
   <programme channel="XSports.br" start="20261021014500 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">VT - Krasnodar x Zenit Krasnodar e Zenit jogam pela Primeira Liga Russa.</title>
+    <title lang="pt-BR">VT - Krasnodar x Zenit No ar Krasnodar e Zenit jogam pela Primeira Liga Russa.</title>
   </programme>
   <programme channel="XSports.br" start="20261021014500 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">VT - Lorient x Monaco Lorient e Monaco jogam no Campeonato Francês.</title>
@@ -1784,16 +1784,13 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021020000 -0300" stop="20261021023000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021020000 -0300" stop="20261021023000 -0300">
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021020000 -0300" stop="20261021023000 -0300">
     <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021020000 -0300" stop="20261021023000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Internacional x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021020000 -0300" stop="20261021023000 -0300">
     <title lang="pt-BR">30min VT - Botafogo x Chapecoense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -2011,14 +2008,14 @@
   <programme channel="PremiereClubes.br" start="20261021021000 -0300" stop="20261021024000 -0300">
     <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021021000 -0300" stop="20261021024000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021021000 -0300" stop="20261021024000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Bahia Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021021000 -0300" stop="20261021024000 -0300">
     <title lang="pt-BR">30min VT - São Paulo x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Br</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021021000 -0300" stop="20261021030000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 27ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="XSports.br" start="20261021021000 -0300" stop="20261021123000 -0300">
     <title lang="pt-BR">Programação do Canal Sinopse não Disponível.</title>
@@ -2129,10 +2126,7 @@
     <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021023000 -0300" stop="20261021030000 -0300">
-    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021023000 -0300" stop="20261021030000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Vitória x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021023000 -0300" stop="20261021030000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -2378,6 +2372,9 @@
     <title lang="pt-BR">Chapolin Temporada 1 Episódio 100 - Cleópatra Chapolin conta a história de Cleópatra, a famosa rainha do Egito, que vai receber a visita do imperador</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021024000 -0300" stop="20261021031000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021024000 -0300" stop="20261021031000 -0300">
     <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021024000 -0300" stop="20261021031000 -0300">
@@ -2477,10 +2474,10 @@
     <title lang="pt-BR">Roberto D'Avila Interview Roberto D'Avila recebe personalidades para conversar sobre política, economia e cultura.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021030000 -0300" stop="20261021033000 -0300">
-    <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021030000 -0300" stop="20261021033000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Palmeiras x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021030000 -0300" stop="20261021033000 -0300">
     <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
@@ -2596,8 +2593,11 @@
   <programme channel="SporTV2.br" start="20261021030000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">Praia Clube x Pinheiros Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</title>
   </programme>
-  <programme channel="XSports.br" start="20261021030000 -0300" stop="20261021050000 -0300">
+  <programme channel="XSports.br" start="20261021030000 -0300" stop="20261021051500 -0300">
     <title lang="pt-BR">"}],"name":"Xsports"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('(pre</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261021053000 -0300">
+    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
   </programme>
   <programme channel="GETV.br" start="20261021030000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">3h NFL: Houston Texans x Jacksonville Jaguars Houston Texans e Jacksonville Jaguars jogam pela 6ª rodada da fase Regular da NFL, no Wembley, em Londr</title>
@@ -2930,6 +2930,9 @@
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T10:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">","name":"Fala Brasil","startDate":"2026-10-21T09:</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">","name":"Zapping","startDate":"2026-10-21T07:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
@@ -2937,6 +2940,9 @@
   </programme>
   <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T09:</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T10:</title>
   </programme>
   <programme channel="SBTNews.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">","name":"Esquenta News","startDate":"2026-10-21T23:</title>
@@ -3017,7 +3023,7 @@
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T06:</title>
   </programme>
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
-    <title lang="pt-BR">","name":"Bundesliga Clubs","startDate":"2026-10-21T05:</title>
+    <title lang="pt-BR">","name":"Central Xsports","startDate":"2026-10-21T19:</title>
   </programme>
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">","name":"Horário Político Obrigatório","startDate":"2026-10-21T13:</title>
@@ -3035,9 +3041,6 @@
     <title lang="pt-BR">","name":"WTCS - Mundial de Triatlo: Etapa de Weihai","startDate":"2026-10-21T07:</title>
   </programme>
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
-    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T07:</title>
-  </programme>
-  <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T09:</title>
   </programme>
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
@@ -3051,9 +3054,6 @@
   </programme>
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T19:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022014000 -0300">
-    <title lang="pt-BR">"}],"name":"Record News"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.matchMedia('</title>
   </programme>
   <programme channel="SBTRio.br" start="20261021030000 -0300" stop="20261022014500 -0300">
     <title lang="pt-BR">"}],"name":"SBT Rio de Janeiro"} (function () { try { var salvo = localStorage.getItem('tema'); var escuro = salvo ? salvo === 'escuro' : window.match</title>
@@ -3251,9 +3251,6 @@
     <title lang="pt-BR">","name":"Hora News","startDate":"2026-10-21T08:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022030000 -0300">
-    <title lang="pt-BR">","name":"Link Record News","startDate":"2026-10-21T01:</title>
-  </programme>
-  <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022030000 -0300">
     <title lang="pt-BR">","name":"Nosso Tempo","startDate":"2026-10-21T06:</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021030000 -0300" stop="20261022030000 -0300">
@@ -3409,6 +3406,9 @@
   <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022030000 -0300">
     <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T16:</title>
   </programme>
+  <programme channel="XSports.br" start="20261021030000 -0300" stop="20261022030000 -0300">
+    <title lang="pt-BR">"},{"@type":"BroadcastEvent","endDate":"2026-10-21T20:</title>
+  </programme>
   <programme channel="Space.br" start="20261021030100 -0300" stop="20261021034400 -0300">
     <title lang="pt-BR">CSI: Miami Temporada 3 Episódio 23 - Whacked When a condemned ax-murderer on death row appeals for his life, the team must investigate.</title>
   </programme>
@@ -3429,6 +3429,9 @@
   </programme>
   <programme channel="MeioNorteHD.br" start="20261021031000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">Lost Temporada 5 Episódio 10 - Nossa Versão de Você Um sobrevivente se comporta de forma desonesta, se importando apenas com ele mesmo e acaba pondo</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021031000 -0300" stop="20261021040000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 28ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021031000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">50min Giro Da Rodada - Brasileirão - 28ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -3518,13 +3521,16 @@
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021040000 -0300">
-    <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021040000 -0300">
+    <title lang="pt-BR">VT - Vasco x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021033000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">30min VT - Botafogo x Chapecoense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -3552,9 +3558,6 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021033000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">Em Discussão Variedades/Debate --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261021033000 -0300" stop="20261021040000 -0300">
-    <title lang="pt-BR">Em Discussão Variedades/Debate Publicidade: Descobrir mais TV aberta TV cabo EPG TV Ver Programas TV Assinatura TV Explorar Filmes Filmes Ver Vídeos</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021033000 -0300" stop="20261021040000 -0300">
     <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo --&gt; --&gt;</title>
@@ -3585,12 +3588,6 @@
   </programme>
   <programme channel="ESPN6.br" start="20261021033000 -0300" stop="20261021043000 -0300">
     <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021043000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021033000 -0300" stop="20261021043000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021033000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">MotoGP: GP da Malásia: Sprint - Ao Vivo Esporte/Motociclismo --&gt; --&gt;</title>
@@ -3697,9 +3694,6 @@
   <programme channel="RecordNews.br" start="20261021034000 -0300" stop="20261021052000 -0300">
     <title lang="pt-BR">Link Record News As principais notícias do dia, com participação do público por meio das redes sociais.</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261021034000 -0300" stop="20261021052000 -0300">
-    <title lang="pt-BR">Link Record News No ar As principais notícias do dia, com participação do público por meio das redes sociais.</title>
-  </programme>
   <programme channel="PremiereFC.br" start="20261021034000 -0300" stop="20261021221000 -0300">
     <title lang="pt-BR">Cruzeiro x Remo Ao vivo Cruzeiro e Remo jogam pela 32ª rodada do Segundo Turno do Brasileirão, no Mineirão, em Belo Horizonte (MG). Acesse o canal 25</title>
   </programme>
@@ -3719,7 +3713,7 @@
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="SporTV3.br" start="20261021035500 -0300" stop="20261021045500 -0300">
-    <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. 1 hora 51 min restantes g</title>
+    <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. 1 hora 33 min restantes g</title>
   </programme>
   <programme channel="SporTV3.br" start="20261021035500 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">Etapa de Peniche, Portugal WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</title>
@@ -3735,6 +3729,12 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021040000 -0300" stop="20261021043000 -0300">
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021040000 -0300" stop="20261021043000 -0300">
+    <title lang="pt-BR">VT - Cruzeiro x Remo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021040000 -0300" stop="20261021043000 -0300">
+    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021040000 -0300" stop="20261021043000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -3772,20 +3772,23 @@
   <programme channel="TVSenado.br" start="20261021040000 -0300" stop="20261021043000 -0300">
     <title lang="pt-BR">TV Senado Live Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
+  <programme channel="TVSenado.br" start="20261021040000 -0300" stop="20261021043000 -0300">
+    <title lang="pt-BR">TV Senado Live Variedades/Entrevista Publicidade: Descobrir mais Canais TV Documentários TV Notícias TV TV aberta TV cabo EPG TV Ver Programas TV Ass</title>
+  </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261021040000 -0300" stop="20261021043000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
   </programme>
   <programme channel="Band.br" start="20261021040000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 2 horas 49 min restantes</title>
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 2 horas 32 min restantes</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261021040000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 2 horas 55 min restantes</title>
+    <title lang="pt-BR">Igreja Universal do Reino de Deus Religious Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus. 2 horas 37 min restantes</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261021040000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 47 min rest</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 29 min rest</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261021040000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">Rosário da Madrugada Religious Momento de oração e preces dedicado à Virgem Maria. 55 min restantes googletag.cmd.push(function() { googletag.display</title>
+    <title lang="pt-BR">Rosário da Madrugada Religious Momento de oração e preces dedicado à Virgem Maria. 37 min restantes googletag.cmd.push(function() { googletag.display</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021040000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">VT - Extreme H: Copa do Mundo de Extreme H: Dia 2 Esporte/Automobilismo --&gt; --&gt;</title>
@@ -3803,7 +3806,7 @@
     <title lang="pt-BR">2h Com o PREMIERE dá jogo! Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante! Guia de notícias do mundo do entretenimento: descubra tudo o</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021040000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021040000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 31ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -3851,7 +3854,7 @@
     <title lang="pt-BR">VT - ATP 500: Basel Esporte/Tênis Masculino --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021040000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">VT - ATP Masters 1000: Xangai Esporte/Tênis NO AR --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - ATP Masters 1000: Xangai: Alejandro Davidovich Fokina x Rafael Jodar Esporte/Tênis NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021040000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">VT - NBB: Bauru x Mogi Esporte/Basquete --&gt; --&gt;</title>
@@ -3947,10 +3950,10 @@
     <title lang="pt-BR">As Taras de Mari Adults only / 2022 Mari é muito curiosa e adora explorar novos fetiches, mas também é bem desastrada e acaba se atrapalhando em todo</title>
   </programme>
   <programme channel="Playboy.br" start="20261021040600 -0300" stop="20261021050600 -0300">
-    <title lang="pt-BR">Swing Temporada 3 Episódio 4 - Jenny &amp; Jesse Jenny e Jesse estão prontos para explorar todas as suas fantasias na mansão. 45 min restantes googletag.</title>
+    <title lang="pt-BR">Swing Temporada 3 Episódio 4 - Jenny &amp; Jesse Jenny e Jesse estão prontos para explorar todas as suas fantasias na mansão. 28 min restantes googletag.</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261021040600 -0300" stop="20261021050600 -0300">
-    <title lang="pt-BR">Swing Temporada 3 Episódio 4 - Jenny &amp; Jesse Jenny e Jesse estão prontos para explorar todas as suas fantasias na mansão. 45 min restantes googletag.</title>
+    <title lang="pt-BR">Swing Temporada 3 Episódio 4 - Jenny &amp; Jesse Jenny e Jesse estão prontos para explorar todas as suas fantasias na mansão. 27 min restantes googletag.</title>
   </programme>
   <programme channel="TNTNovelas.br" start="20261021040800 -0300" stop="20261021045300 -0300">
     <title lang="pt-BR">45min Força de Mulher Irin finalmente conta tudo o que sabe para Hatice, mas não está segura se ela acreditará.</title>
@@ -4013,13 +4016,13 @@
     <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021043000 -0300" stop="20261021050000 -0300">
+    <title lang="pt-BR">VT - Cruzeiro x Remo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021043000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021043000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021043000 -0300" stop="20261021050000 -0300">
-    <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021043000 -0300" stop="20261021050000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -4072,17 +4075,20 @@
   <programme channel="NSports.br" start="20261021043000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">1h Podcast Sport Insider - Chico Pedrotti Sport Insider é o programa de entrevistas sobre negócios do esporte do Sport Insider, produzido em parceria</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021043000 -0300" stop="20261021053000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021043000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 31ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261021043000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">Todas Gulosas Adults only Mulheres cheias de tesão mal podem ver um homem bem-dotado que já caem de boca no prazer total. 55 min restantes googletag.</title>
+    <title lang="pt-BR">Todas Gulosas Adults only Mulheres cheias de tesão mal podem ver um homem bem-dotado que já caem de boca no prazer total. 37 min restantes googletag.</title>
   </programme>
   <programme channel="BandSports.br" start="20261021043000 -0300" stop="20261021054500 -0300">
-    <title lang="pt-BR">Etapa de Cascavel - Corrida 2 AMG Cup Brasil Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil. 39 min rest</title>
+    <title lang="pt-BR">Etapa de Cascavel - Corrida 2 AMG Cup Brasil Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil. 21 min rest</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261021043000 -0300" stop="20261021055900 -0300">
-    <title lang="pt-BR">Clientes Satisfeitos Adults only / 2022 Belas mulheres de negócios sabem que a melhor maneira de manter um cliente é deixá-lo satisfeito. 54 min rest</title>
+    <title lang="pt-BR">Clientes Satisfeitos Adults only / 2022 Belas mulheres de negócios sabem que a melhor maneira de manter um cliente é deixá-lo satisfeito. 36 min rest</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021043000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">MotoGP: GP da Austrália: Sprint Esporte/Motociclismo --&gt; --&gt;</title>
@@ -4100,7 +4106,7 @@
     <title lang="pt-BR">2h VT - PSV x Feyenoord A liga de futebol mais importante dos Países Baixos é disputadíssima e serve como um trampolim para jovens promessas do mundo</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021043000 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">VT - ESPN Knockout: PFL Chicago Esporte/Luta Publicidade: Descobrir mais Treinos Desporto Esporte Esportivo Sport Notícias Desporto Sportscenter Ver</title>
+    <title lang="pt-BR">VT - ESPN Knockout: PFL Chicago Esporte/Luta Publicidade: Descobrir mais Esportivo Treinos Desporto Sport Esporte Ver Programas TV Sportscenter Notíc</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021043000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">VT - MLB World Series, Jogo 3 Esporte/Beisebol --&gt; --&gt;</title>
@@ -4145,22 +4151,16 @@
     <title lang="pt-BR">46min Iludida Aras quer voltar ao lugar do acidente para tentar lembrar mais de si mesmo. Enquanto isso, Asya tenta descobrir mais sobre a chave que</title>
   </programme>
   <programme channel="SexyHot.br" start="20261021045400 -0300" stop="20261021055400 -0300">
-    <title lang="pt-BR">Carona do Amor Adults only / 2019 Marcela e Carol queriam curtir a praia e descolaram uma carona com dois belos rapazes em uma Kombi. 55 min restante</title>
+    <title lang="pt-BR">Carona do Amor Adults only / 2019 Marcela e Carol queriam curtir a praia e descolaram uma carona com dois belos rapazes em uma Kombi. 37 min restante</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261021045600 -0300" stop="20261021051800 -0300">
     <title lang="pt-BR">Sinais de um Psicopata Temporada 5 Episódio 8 - Mulheres Primeiro Um casal de idosos desaparece em um domingo à tarde, mas uma pessoa sabe que seus c</title>
   </programme>
   <programme channel="TNT.br" start="20261021045700 -0300" stop="20261021053100 -0300">
-    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects. 21 min</title>
+    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects. 4 min r</title>
   </programme>
   <programme channel="SportyNet.br" start="20261021045900 -0300" stop="20261021055200 -0300">
     <title lang="pt-BR">53min VT - Ferroviária x Inter de Limeira Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</title>
-  </programme>
-  <programme channel="XSports.br" start="20261021050000 -0300" stop="20261021051500 -0300">
-    <title lang="pt-BR">–</title>
-  </programme>
-  <programme channel="XSports.br" start="20261021050000 -0300" stop="20261021051500 -0300">
-    <title lang="pt-BR">15min Bundesliga Clubs No ar Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de</title>
   </programme>
   <programme channel="XSports.br" start="20261021050000 -0300" stop="20261021051500 -0300">
     <title lang="pt-BR">15min Bundesliga Clubs Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada</title>
@@ -4184,22 +4184,16 @@
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol NO AR --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">–</title>
@@ -4220,7 +4214,7 @@
     <title lang="pt-BR">30min VT - Vasco x Remo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasilei</title>
   </programme>
   <programme channel="SporTV.br" start="20261021050000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">Remo x Bragantino Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro. 21 min re</title>
+    <title lang="pt-BR">Remo x Bragantino Campeonato Brasileiro Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro. 3 min res</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">Brasil Visto de Cima Temporada 4 Episódio 29 - Os Encantos do Arquipélago de Marajó Conheça Marajó, no extremo norte do Pará, a maior ilha flúvio-mar</title>
@@ -4239,9 +4233,6 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261021050000 -0300" stop="20261021053000 -0300">
-    <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021050000 -0300" stop="20261021053000 -0300">
     <title lang="pt-BR">Que Brasil é Este? Variedades/Entrevista --&gt; --&gt;</title>
@@ -4286,13 +4277,16 @@
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
   <programme channel="GloboNews.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. 47 min restantes googletag.cmd.push(function() { g</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. 29 min restantes googletag.cmd.push(function() { g</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 1 hora 47 min restantes googletag.cmd.pu</title>
+    <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 1 hora 29 min restantes Sobre mi.tv A mi</title>
   </programme>
   <programme channel="Premiere6.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 52 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 34 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021050000 -0300" stop="20261021060000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 32ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021050000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 32ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -4301,19 +4295,16 @@
     <title lang="pt-BR">30min VT - Fluminense x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super B</title>
   </programme>
   <programme channel="RecordTV.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços. 1 hora 49 min restantes googletag.cmd.push(f</title>
+    <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços. 1 hora 31 min restantes googletag.cmd.push(f</title>
   </programme>
   <programme channel="RedeTV.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. 3 horas 29 min restantes googletag.cmd.</title>
+    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. 3 horas 11 min restantes googletag.cmd.</title>
   </programme>
   <programme channel="SporTV2.br" start="20261021050000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">Sesc-RJ Flamengo x Paulistano Barueri Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileira</title>
   </programme>
   <programme channel="TVCultura.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. 1 hora 18 min restantes googletag.cmd.pu</title>
-  </programme>
-  <programme channel="XSports.br" start="20261021050000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">15min Bundesliga Clubs Série apresenta os 18 clubes da Bundesliga em episódios de 12 min, com foco na história, identidade, estádio e cidade de cada</title>
+    <title lang="pt-BR">Jornal da Cultura News As principais notícias do Brasil e do mundo, sempre com comentários de especialistas. 1 hora restantes googletag.cmd.push(func</title>
   </programme>
   <programme channel="ESPN6.br" start="20261021050000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">–</title>
@@ -4369,14 +4360,14 @@
   <programme channel="TNTNovelas.br" start="20261021051500 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">45min Será Isso Amor? Serkan tem uma conversa muito importante com sua mãe. Aydan tenta encontrar uma secretária adequada para Alptekin, e Engin deci</title>
   </programme>
+  <programme channel="XSports.br" start="20261021051500 -0300" stop="20261021070000 -0300">
+    <title lang="pt-BR">–</title>
+  </programme>
   <programme channel="NSports.br" start="20261021051500 -0300" stop="20261022014500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
   <programme channel="XSports.br" start="20261021051500 -0300" stop="20261022014500 -0300">
     <title lang="pt-BR">Programação</title>
-  </programme>
-  <programme channel="XSports.br" start="20261021051500 -0300" stop="20261022050000 -0300">
-    <title lang="pt-BR">Hoje Amanhã 23 out 24 out 25 out 26 out 27 out 28 out Quarta-feira, 21 de outubro</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261021051800 -0300" stop="20261021061800 -0300">
     <title lang="pt-BR">Sinais de um Psicopata Temporada 5 Episódio 2 - Morte na Estrada Um acidente em uma rodovia da Dakota do Norte mata um passageiro, mas o motorista es</title>
@@ -4396,9 +4387,6 @@
   <programme channel="GETV.br" start="20261021052000 -0300" stop="20261022014000 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
-  <programme channel="RecordNews.br" start="20261021052000 -0300" stop="20261022014000 -0300">
-    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
-  </programme>
   <programme channel="Multishow.br" start="20261021052500 -0300" stop="20261021055900 -0300">
     <title lang="pt-BR">Nesse Canto Eu Conto Temporada 2 Episódio 5 - Luedji Luna Sandy canta e conversa com Luedji Luna, que compartilha sua trajetória de vida e carreira.</title>
   </programme>
@@ -4409,7 +4397,13 @@
     <title lang="pt-BR">15min BJJ Cria Steven Ortiz é atleta da AOJ, academia liderada pelos irmãos Guilherme Mendes e Rafael Mendes.</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021053000 -0300" stop="20261021054500 -0300">
+    <title lang="pt-BR">–</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261021053000 -0300" stop="20261021054500 -0300">
     <title lang="pt-BR">15min Hora News Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</title>
+  </programme>
+  <programme channel="RecordNews.br" start="20261021053000 -0300" stop="20261021054500 -0300">
+    <title lang="pt-BR">15min Hora News No ar Acompanhe as principais notícias do Brasil e do mundo e comece a semana bem informado.</title>
   </programme>
   <programme channel="ESPN2.br" start="20261021053000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">F1: The Inside Line Esporte/Automobilismo --&gt; --&gt;</title>
@@ -4433,13 +4427,16 @@
     <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021053000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021053000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021053000 -0300" stop="20261021060000 -0300">
-    <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol NO AR --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021053000 -0300" stop="20261021060000 -0300">
+    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021053000 -0300" stop="20261021060000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021053000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -4464,6 +4461,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021053000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">Assunto de Estado: Eleições Variedades/Política --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261021053000 -0300" stop="20261021060000 -0300">
+    <title lang="pt-BR">Assunto de Estado: Eleições Variedades/Política NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021053000 -0300" stop="20261021060000 -0300">
     <title lang="pt-BR">Em Discussão Variedades/Debate --&gt; --&gt;</title>
@@ -4549,6 +4549,9 @@
   <programme channel="GETV.br" start="20261021054500 -0300" stop="20261022011500 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
+  <programme channel="RecordNews.br" start="20261021054500 -0300" stop="20261022052000 -0300">
+    <title lang="pt-BR">A Record News é um canal de televisão voltado para a transmissão de notícias 24 horas por dia. Com uma programação dedicada ao jornalismo, o canal of</title>
+  </programme>
   <programme channel="TNT.br" start="20261021054600 -0300" stop="20261021064600 -0300">
     <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects. googlet</title>
   </programme>
@@ -4622,16 +4625,19 @@
     <title lang="pt-BR">Tô de Graça Temporada 3 Episódio 8 - Fruto Proibido Briti interpreta mal o jeito carinhoso da cunhada Sonaira e resolve investir nessa paixão.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
+    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
+    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
     <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021060000 -0300" stop="20261021063000 -0300">
-    <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021060000 -0300" stop="20261021063000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -4712,7 +4718,7 @@
     <title lang="pt-BR">Sportscenter Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN2.br" start="20261021060000 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">Sportscenter Jornalismo/Esportivo Publicidade: Descobrir mais Ver Jogos da NFL Futebol Americano Notícias Desporto Canais em Direto Bolas de Futebol</title>
+    <title lang="pt-BR">Sportscenter Jornalismo/Esportivo Publicidade: Descobrir mais Futebol Americano Ver Jogos da NFL Notícias Desporto Canais em Direto Bolas de Futebol</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021060000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">VT - NFL: Cincinnati Bengals x Baltimore Ravens Esporte/Futebol Americano --&gt; --&gt;</title>
@@ -4761,9 +4767,6 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021060000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">Senadoc Acervo: Princesa do Sertão - 1ª Parte Documentário/Diversos --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261021060000 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">Senadoc Acervo: Princesa do Sertão - 1ª Parte Documentário/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021060000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">Senadoc Acervo: Princesa do Sertão - 2ª Parte Documentário/Diversos --&gt; --&gt;</title>
@@ -4994,13 +4997,16 @@
     <title lang="pt-BR">O Dono do Lar Temporada 3 Episódio 18 - Se Melhorar Estraga Américo está se sentindo desprezado pela mulher, que não o procura mais. Para compensar,</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
+    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021063000 -0300" stop="20261021070000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
@@ -5153,22 +5159,19 @@
     <title lang="pt-BR">30min Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
-    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
-    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
     <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021070000 -0300" stop="20261021073000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021070000 -0300" stop="20261021073000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Coritiba Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
@@ -5193,6 +5196,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021070000 -0300" stop="20261021073000 -0300">
     <title lang="pt-BR">Tela Brasil: Coleções - Casas Brasileiras - Casa Amazonense Documentário/Diversos --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261021070000 -0300" stop="20261021073000 -0300">
+    <title lang="pt-BR">Tela Brasil: Coleções - Casas Brasileiras - Casa Amazonense Documentário/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021070000 -0300" stop="20261021073000 -0300">
     <title lang="pt-BR">Tela Brasil: Coleções - Casas Brasileiras - Casa Cearense Documentário/Diversos --&gt; --&gt;</title>
@@ -5347,6 +5353,9 @@
   <programme channel="ESPN6.br" start="20261021070000 -0300" stop="20261022050000 -0300">
     <title lang="pt-BR">A ESPN 6 antigo ESPN Extra é um canal de televisão dedicado a esportes e transmissões ao vivo. Com uma programação abrangente, o canal oferece cobert</title>
   </programme>
+  <programme channel="XSports.br" start="20261021070000 -0300" stop="20261022051500 -0300">
+    <title lang="pt-BR">Hoje Amanhã 23 out 24 out 25 out 26 out 27 out 28 out Quarta-feira, 21 de outubro</title>
+  </programme>
   <programme channel="TVBrasil.br" start="20261021070500 -0300" stop="20261021071000 -0300">
     <title lang="pt-BR">Lia, Pedro e o Minimundo Adventure Lia é uma menina curiosa que mora no coração do Pantanal brasileiro. Pedro, primo de Lia, vem da cidade grande par</title>
   </programme>
@@ -5426,16 +5435,19 @@
     <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021073000 -0300" stop="20261021080000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021073000 -0300" stop="20261021080000 -0300">
     <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021073000 -0300" stop="20261021080000 -0300">
-    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021073000 -0300" stop="20261021080000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021073000 -0300" stop="20261021080000 -0300">
-    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021073000 -0300" stop="20261021080000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -5507,7 +5519,7 @@
     <title lang="pt-BR">O...s e Sexo a Três Loucos na Faculdade Adults only Estudantes universitários ficam selvagens e se soltam. Trios, quartetos ou sexo enquanto seus col</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021073000 -0300" stop="20261021093000 -0300">
-    <title lang="pt-BR">VT - NBA: Golden State Warriors x Los Angeles Lakers Esporte/Basquete Publicidade: Descobrir mais Sport Esportivo Futebol Jogos da NFL Canais TV NFL</title>
+    <title lang="pt-BR">VT - NBA: Golden State Warriors x Los Angeles Lakers Esporte/Basquete Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021073000 -0300" stop="20261021093000 -0300">
     <title lang="pt-BR">VT - NBB: Flamengo x Botafogo Esporte/Basquete --&gt; --&gt;</title>
@@ -5621,22 +5633,22 @@
     <title lang="pt-BR">F1: The Inside Line Esporte/Automobilismo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
-    <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
+    <title lang="pt-BR">VT - Fluminense x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021080000 -0300" stop="20261021083000 -0300">
-    <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol Publicidade: Descobrir mais Futebol Esporte Treinos Desporto (adsbygoogle = window.adsbygoogle || []).push({}); --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">30min VT - Bahia x Flamengo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bras</title>
@@ -5664,9 +5676,6 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">Cidadania Variedades/Entrevista --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261021080000 -0300" stop="20261021083000 -0300">
-    <title lang="pt-BR">Cidadania Variedades/Entrevista Publicidade: Descobrir mais Infantil TV Documentários TV Notícias TV (adsbygoogle = window.adsbygoogle || []).push({}</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021080000 -0300" stop="20261021083000 -0300">
     <title lang="pt-BR">Em Discussão Variedades/Debate --&gt; --&gt;</title>
@@ -5858,16 +5867,22 @@
     <title lang="pt-BR">Show da Rodada da Premier League Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
-    <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bahia x Flamengo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
+    <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
     <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021083000 -0300" stop="20261021090000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021083000 -0300" stop="20261021090000 -0300">
     <title lang="pt-BR">30min VT - Bahia x Flamengo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bras</title>
@@ -5891,10 +5906,10 @@
     <title lang="pt-BR">Senado Notícias: Boletim Jornalismo/Político --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021083000 -0300" stop="20261021090000 -0300">
-    <title lang="pt-BR">Senado Notícias Revista Jornalismo/Político --&gt; --&gt;</title>
+    <title lang="pt-BR">Senado Notícias: Boletim Jornalismo/Político Publicidade: Descobrir mais Ver Vídeos Grade horários Ouvir Rádio (adsbygoogle = window.adsbygoogle || [</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021083000 -0300" stop="20261021090000 -0300">
-    <title lang="pt-BR">Senado Notícias Revista Jornalismo/Político Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+    <title lang="pt-BR">Senado Notícias Revista Jornalismo/Político --&gt; --&gt;</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261021083000 -0300" stop="20261021090000 -0300">
     <title lang="pt-BR">Porn Stars Adults only Acompanhe filmes para lá de salientes com as maiores estrelas da pornografia.</title>
@@ -6080,10 +6095,16 @@
     <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021090000 -0300" stop="20261021093000 -0300">
-    <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021090000 -0300" stop="20261021093000 -0300">
+    <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021090000 -0300" stop="20261021093000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021090000 -0300" stop="20261021093000 -0300">
+    <title lang="pt-BR">VT - Remo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021090000 -0300" stop="20261021093000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -6102,6 +6123,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261021090000 -0300" stop="20261021093000 -0300">
     <title lang="pt-BR">Ecosenado Variedades/Ecologia --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261021090000 -0300" stop="20261021093000 -0300">
+    <title lang="pt-BR">Ecosenado Variedades/Ecologia Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021090000 -0300" stop="20261021093000 -0300">
     <title lang="pt-BR">TV Senado Live Variedades/Entrevista --&gt; --&gt;</title>
@@ -6129,9 +6153,6 @@
   </programme>
   <programme channel="ESPN4.br" start="20261021090000 -0300" stop="20261021100000 -0300">
     <title lang="pt-BR">Especial Rally dos Sertões: Cada Qual No Seu Tempo Documentário/Esportivo --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021090000 -0300" stop="20261021100000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="RecordNews.br" start="20261021090000 -0300" stop="20261021100000 -0300">
     <title lang="pt-BR">1h Fala Brasil Com credibilidade e dinamismo, o telejornal busca trazer em primeira mão as notícias do dia.</title>
@@ -6332,6 +6353,9 @@
     <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021093000 -0300" stop="20261021100000 -0300">
+    <title lang="pt-BR">VT - Corinthians x Vitória Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021093000 -0300" stop="20261021100000 -0300">
     <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021093000 -0300" stop="20261021100000 -0300">
@@ -6359,7 +6383,10 @@
     <title lang="pt-BR">- CINE KIDS</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021093000 -0300" stop="20261021103000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021093000 -0300" stop="20261021103000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021093000 -0300" stop="20261021103000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -6506,9 +6533,6 @@
     <title lang="pt-BR">Show da Rodada da Premier League Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021100000 -0300" stop="20261021103000 -0300">
-    <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021100000 -0300" stop="20261021103000 -0300">
     <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021100000 -0300" stop="20261021103000 -0300">
@@ -6562,6 +6586,9 @@
   <programme channel="ESPN5.br" start="20261021100000 -0300" stop="20261021110000 -0300">
     <title lang="pt-BR">ESPN League Esporte/Diversos --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021100000 -0300" stop="20261021110000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021100000 -0300" stop="20261021110000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 31ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
@@ -6614,7 +6641,7 @@
     <title lang="pt-BR">Justiça Agora Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261021100000 -0300" stop="20261021140000 -0300">
-    <title lang="pt-BR">Justiça Agora Jornalismo/Informativo Publicidade: Descobrir mais Ouvir Rádio Rádio Justiça Apoio em Tribunal (adsbygoogle = window.adsbygoogle || [])</title>
+    <title lang="pt-BR">Justiça Agora Jornalismo/Informativo Publicidade: Descobrir mais TV cabo EPG TV Ver Guia TV (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --</title>
   </programme>
   <programme channel="TVJustica.br" start="20261021100000 -0300" stop="20261021140000 -0300">
     <title lang="pt-BR">Sessão do TSE Jornalismo/Político --&gt; --&gt;</title>
@@ -6743,13 +6770,13 @@
     <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021103000 -0300" stop="20261021110000 -0300">
-    <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021103000 -0300" stop="20261021110000 -0300">
-    <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021103000 -0300" stop="20261021110000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021103000 -0300" stop="20261021110000 -0300">
+    <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021103000 -0300" stop="20261021110000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -6932,10 +6959,13 @@
     <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021110000 -0300" stop="20261021113000 -0300">
-    <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021110000 -0300" stop="20261021113000 -0300">
-    <title lang="pt-BR">VT - Vitória x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021110000 -0300" stop="20261021113000 -0300">
+    <title lang="pt-BR">VT - Vasco x Remo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021110000 -0300" stop="20261021113000 -0300">
     <title lang="pt-BR">30min VT - Bahia x Mirassol Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bras</title>
@@ -7121,16 +7151,19 @@
     <title lang="pt-BR">30min Acelerados Senhoras e senhores, afivelem bem os cintos e segurem-se nas poltronas, porque hoje o chão do Velocitta vai tremer!</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021113000 -0300" stop="20261021120000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021113000 -0300" stop="20261021120000 -0300">
     <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021113000 -0300" stop="20261021120000 -0300">
     <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021113000 -0300" stop="20261021120000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021113000 -0300" stop="20261021120000 -0300">
-    <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021113000 -0300" stop="20261021120000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -7199,7 +7232,7 @@
     <title lang="pt-BR">VT - Estudiantes x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021113000 -0300" stop="20261021133000 -0300">
-    <title lang="pt-BR">VT - Nottingham Forest x Arsenal Esporte/Futebol Publicidade: Descobrir mais Transmissões ao vivo Treinos Desporto Esporte (adsbygoogle = window.adsb</title>
+    <title lang="pt-BR">VT - Nottingham Forest x Arsenal Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021113000 -0300" stop="20261021133000 -0300">
     <title lang="pt-BR">VT - Bolton Wanderers x Middlesbrough Esporte/Futebol --&gt; --&gt;</title>
@@ -7211,7 +7244,7 @@
     <title lang="pt-BR">VT - Goiás x Náutico Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021113000 -0300" stop="20261021133000 -0300">
-    <title lang="pt-BR">VT - Groningen x Ajax Esporte/Futebol Publicidade: Descobrir mais Notícias Desporto Canais em Direto Transmissão de NFL Futebol Americano Ver Jogos d</title>
+    <title lang="pt-BR">VT - Groningen x Ajax Esporte/Futebol Publicidade: Descobrir mais Transmissão de desporto Guia TV Transmissão desportiva Jogos de futebol Programação</title>
   </programme>
   <programme channel="GETV.br" start="20261021113000 -0300" stop="20261021133000 -0300">
     <title lang="pt-BR">2h VT - Flamengo x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Br</title>
@@ -7235,7 +7268,7 @@
     <title lang="pt-BR">VT - NHL: Montreal Canadiens x Washington Capitals Esporte/Hóquei --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021113000 -0300" stop="20261021140000 -0300">
-    <title lang="pt-BR">VT - NHL: Tampa Bay Lightning x Vegas Golden Knights Esporte/Hóquei Publicidade: Descobrir mais Bolas de Futebol Futebol Canais TV (adsbygoogle = win</title>
+    <title lang="pt-BR">VT - NHL: Tampa Bay Lightning x Vegas Golden Knights Esporte/Hóquei Publicidade: Descobrir mais Notícias TV TV aberta TV cabo (adsbygoogle = window.a</title>
   </programme>
   <programme channel="SportyNet.br" start="20261021113200 -0300" stop="20261022015500 -0300">
     <title lang="pt-BR">Programação</title>
@@ -7328,19 +7361,22 @@
     <title lang="pt-BR">30min Acelerados Hoje temos Volta Rápida com um velho conhecido da casa: Mitsubishi Lancer Evolution X, a última geração do saudoso sedã esportivo ma</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Santos Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
     <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
     <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
-    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021120000 -0300" stop="20261021123000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021120000 -0300" stop="20261021123000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Santos Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -7529,7 +7565,7 @@
     <title lang="pt-BR">Show da Rodada da Premier League Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021123000 -0300" stop="20261021130000 -0300">
-    <title lang="pt-BR">Destaques da Conmebol Libertadores Jornalismo/Esportivo Publicidade: Descobrir mais Esportivo Bolas de Futebol Futebol (adsbygoogle = window.adsbygoo</title>
+    <title lang="pt-BR">Destaques da Conmebol Libertadores Jornalismo/Esportivo Publicidade: Descobrir mais Ver Jogos Basebol Transmissão de MLB Artigos de beisebol (adsbygo</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021123000 -0300" stop="20261021130000 -0300">
     <title lang="pt-BR">Show da Rodada do Italiano Jornalismo/Esportivo --&gt; --&gt;</title>
@@ -7538,13 +7574,16 @@
     <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021123000 -0300" stop="20261021130000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021123000 -0300" stop="20261021130000 -0300">
+    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021123000 -0300" stop="20261021130000 -0300">
+    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021123000 -0300" stop="20261021130000 -0300">
     <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021123000 -0300" stop="20261021130000 -0300">
-    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021123000 -0300" stop="20261021130000 -0300">
     <title lang="pt-BR">30min VT - Bahia x Mirassol Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bras</title>
@@ -7769,16 +7808,19 @@
     <title lang="pt-BR">Destaques da Conmebol Libertadores Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
     <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
+    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
+    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
     <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021130000 -0300" stop="20261021133000 -0300">
+    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021130000 -0300" stop="20261021133000 -0300">
     <title lang="pt-BR">30min VT - Chapecoense x Athletico-PR Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o</title>
@@ -8012,16 +8054,19 @@
     <title lang="pt-BR">Sportscenter Abre o Jogo: NFL - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
+    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
+    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
     <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
     <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021133000 -0300" stop="20261021140000 -0300">
     <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
@@ -8246,16 +8291,19 @@
     <title lang="pt-BR">30min Joga com Elas Entrevista Série especial de entrevistas com as jogadoras que vão participar das quartas de final da Copa do Brasil aqui na N Spo</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021140000 -0300" stop="20261021143000 -0300">
-    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bahia x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021140000 -0300" stop="20261021143000 -0300">
-    <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021140000 -0300" stop="20261021143000 -0300">
+    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021140000 -0300" stop="20261021143000 -0300">
     <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021140000 -0300" stop="20261021143000 -0300">
-    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021140000 -0300" stop="20261021143000 -0300">
     <title lang="pt-BR">30min VT - Bahia x Mirassol Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Bras</title>
@@ -8485,6 +8533,9 @@
   <programme channel="ESPN4.br" start="20261021142000 -0300" stop="20261021163000 -0300">
     <title lang="pt-BR">Milan x Bologna - Ao Vivo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261021142000 -0300" stop="20261021163000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="TNTNovelas.br" start="20261021142000 -0300" stop="20261022010300 -0300">
     <title lang="pt-BR">Programação</title>
   </programme>
@@ -8516,7 +8567,13 @@
     <title lang="pt-BR">30min NBA Action Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021143000 -0300" stop="20261021150000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021143000 -0300" stop="20261021150000 -0300">
+    <title lang="pt-BR">VT - Chapecoense x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021143000 -0300" stop="20261021150000 -0300">
+    <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021143000 -0300" stop="20261021150000 -0300">
     <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
@@ -8572,9 +8629,6 @@
   <programme channel="GETV.br" start="20261021143000 -0300" stop="20261021153000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
-  <programme channel="PremiereClubes.br" start="20261021143000 -0300" stop="20261021153000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
-  </programme>
   <programme channel="SBTRio.br" start="20261021143000 -0300" stop="20261021153000 -0300">
     <title lang="pt-BR">1h A Desalmada Fernanda é uma mulher em busca de vingança depois de ser vítima da crueldade de um homem que a feriu física e emocionalmente na sua no</title>
   </programme>
@@ -8601,6 +8655,9 @@
   </programme>
   <programme channel="ESPN3.br" start="20261021143000 -0300" stop="20261021164500 -0300">
     <title lang="pt-BR">Chelsea x Roma - Ao Vivo Esporte/Futebol Feminino --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261021143000 -0300" stop="20261021164500 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021143000 -0300" stop="20261021164500 -0300">
     <title lang="pt-BR">Austria Wien x Juventus - Ao Vivo Esporte/Futebol Feminino --&gt; --&gt;</title>
@@ -8693,10 +8750,13 @@
     <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021150000 -0300" stop="20261021153000 -0300">
+    <title lang="pt-BR">VT - Bragantino x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021150000 -0300" stop="20261021153000 -0300">
     <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021150000 -0300" stop="20261021153000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021150000 -0300" stop="20261021153000 -0300">
     <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
@@ -8769,6 +8829,9 @@
   </programme>
   <programme channel="ESPN6.br" start="20261021150000 -0300" stop="20261021160000 -0300">
     <title lang="pt-BR">1h VT - NFL: Buffalo Bills x Las Vegas Raiders Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo.</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021150000 -0300" stop="20261021160000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021150000 -0300" stop="20261021160000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -8921,16 +8984,7 @@
     <title lang="pt-BR">30min Joga com Elas Revista semanal de futebol feminino com análise da rodada, debate sobre os principais assuntos da modalidade, informações e servi</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021160000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021160000 -0300">
-    <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021160000 -0300">
     <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021160000 -0300">
-    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol Publicidade: Descobrir mais Produtos Flamengo Canais em Direto Produtos Esporte Clube Bahia Produtos Club A</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021160000 -0300">
     <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
@@ -8961,6 +9015,9 @@
   </programme>
   <programme channel="ESPN6.br" start="20261021153000 -0300" stop="20261021163000 -0300">
     <title lang="pt-BR">1h Especial Rally dos Sertões: Cada Qual No Seu Tempo Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futeb</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021153000 -0300" stop="20261021163000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 30ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021153000 -0300" stop="20261021163000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 30ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -9149,6 +9206,9 @@
     <title lang="pt-BR">30min Show da Rodada da EFL Assista a todos os destaques de todas as partidas da rodada da 2ª Divisão do futebol da Inglaterra.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021160000 -0300" stop="20261021163000 -0300">
+    <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021160000 -0300" stop="20261021163000 -0300">
     <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021160000 -0300" stop="20261021163000 -0300">
@@ -9158,7 +9218,7 @@
     <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021160000 -0300" stop="20261021163000 -0300">
-    <title lang="pt-BR">VT - Vitória x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021160000 -0300" stop="20261021163000 -0300">
     <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -9204,9 +9264,6 @@
   </programme>
   <programme channel="NSports.br" start="20261021160000 -0300" stop="20261021170000 -0300">
     <title lang="pt-BR">1h Deu Jogo Deu Jogo é o programa diário e ao vivo da N Sports que transforma as principais notícias do esporte em informação, debate e muita resenha</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021160000 -0300" stop="20261021170000 -0300">
-    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 28ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021160000 -0300" stop="20261021170000 -0300">
     <title lang="pt-BR">Habitar/Habitat Séries/Documentário --&gt; --&gt;</title>
@@ -9356,10 +9413,13 @@
     <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021163000 -0300" stop="20261021170000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021163000 -0300" stop="20261021170000 -0300">
     <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021163000 -0300" stop="20261021170000 -0300">
+    <title lang="pt-BR">VT - Vitória x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021163000 -0300" stop="20261021170000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Atlético-MG Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o</title>
@@ -9398,7 +9458,7 @@
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021163000 -0300" stop="20261021173000 -0300">
-    <title lang="pt-BR">VT - Bahia x Vitória Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">Premiere Retrô Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021163000 -0300" stop="20261021173000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -9572,7 +9632,10 @@
     <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021170000 -0300" stop="20261021173000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Vasco Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021170000 -0300" stop="20261021173000 -0300">
+    <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021170000 -0300" stop="20261021173000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
@@ -9618,9 +9681,6 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021170000 -0300" stop="20261021180000 -0300">
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021170000 -0300" stop="20261021180000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021170000 -0300" stop="20261021180000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
@@ -9782,13 +9842,13 @@
     <title lang="pt-BR">Show da Rodada do Italiano Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021180000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Fluminense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021180000 -0300">
     <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021180000 -0300">
     <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021180000 -0300">
+    <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021180000 -0300">
     <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
@@ -9831,6 +9891,12 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021183000 -0300">
     <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021183000 -0300">
+    <title lang="pt-BR">Pré-Hora: Palmeiras x Bragantino - Ao Vivo Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021173000 -0300" stop="20261021183000 -0300">
+    <title lang="pt-BR">Premiere Retrô Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021173000 -0300" stop="20261021183000 -0300">
     <title lang="pt-BR">1h Pré-Hora: Palmeiras x Bragantino Ao vivo Palmeiras e Bragantino jogam pela 32ª rodada do Segundo Turno do Brasileirão, na Arena Barueri, em Baruer</title>
@@ -9995,7 +10061,7 @@
     <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021180000 -0300" stop="20261021183000 -0300">
-    <title lang="pt-BR">VT - Chapecoense x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021180000 -0300" stop="20261021183000 -0300">
     <title lang="pt-BR">VT - Vitória x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
@@ -10156,9 +10222,6 @@
   <programme channel="ESPN5.br" start="20261021180000 -0300" stop="20261021203000 -0300">
     <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Phoenix Esporte/Automobilismo --&gt; --&gt;</title>
   </programme>
-  <programme channel="PremiereClubes.br" start="20261021180000 -0300" stop="20261021204000 -0300">
-    <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
-  </programme>
   <programme channel="GETV.br" start="20261021180000 -0300" stop="20261021210000 -0300">
     <title lang="pt-BR">3h NFL: Los Angeles Chargers x Kansas City Chiefs Los Angeles Chargers e Kansas City Chiefs jogam pela 6ª rodada da fase Regular da NFL, no Arrowhead</title>
   </programme>
@@ -10298,6 +10361,9 @@
     <title lang="pt-BR">Destaques da Conmebol Sulamericana Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021190000 -0300">
+    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021190000 -0300">
     <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021190000 -0300">
@@ -10342,9 +10408,6 @@
   <programme channel="ESPN3.br" start="20261021183000 -0300" stop="20261021193000 -0300">
     <title lang="pt-BR">DTM: Destaques da Etapa de Hockenheim-ALE Esporte/Automobilismo --&gt; --&gt;</title>
   </programme>
-  <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021193000 -0300">
-    <title lang="pt-BR">VT - Internacional x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
   <programme channel="TVCultura.br" start="20261021183000 -0300" stop="20261021193000 -0300">
     <title lang="pt-BR">Antimatéria - Energia Geek Temporada 1 Episódio 338 Cultura pop, animes, games, filmes e séries tokusatsu.</title>
   </programme>
@@ -10372,8 +10435,17 @@
   <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021204000 -0300">
     <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021204000 -0300">
+    <title lang="pt-BR">Palmeiras x Bragantino - Ao Vivo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
   <programme channel="Premiere6.br" start="20261021183000 -0300" stop="20261021210000 -0300">
     <title lang="pt-BR">Com Denilson É Show! Soccer Bom humor, resenha e análises sobre o futebol brasileiro.</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021221000 -0300">
+    <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021183000 -0300" stop="20261021221000 -0300">
+    <title lang="pt-BR">Cruzeiro x Remo - Ao Vivo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021183000 -0300" stop="20261022021000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -10494,6 +10566,9 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021190000 -0300" stop="20261021193000 -0300">
     <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021190000 -0300" stop="20261021193000 -0300">
+    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021190000 -0300" stop="20261021193000 -0300">
     <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol --&gt; --&gt;</title>
@@ -10736,6 +10811,9 @@
     <title lang="pt-BR">30min Show da Rodada do Italiano O melhor resumo dos gols da Série A italiana logo depois de cada partida.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021193000 -0300" stop="20261021200000 -0300">
+    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021193000 -0300" stop="20261021200000 -0300">
     <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021193000 -0300" stop="20261021200000 -0300">
@@ -10815,9 +10893,6 @@
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261021193000 -0300" stop="20261021213000 -0300">
     <title lang="pt-BR">- CINE ALEPI - FAROESTE</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021193000 -0300" stop="20261021221000 -0300">
-    <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN6.br" start="20261021193000 -0300" stop="20261022013000 -0300">
     <title lang="pt-BR">Programação</title>
@@ -10948,6 +11023,9 @@
   <programme channel="ESPN2.br" start="20261021200000 -0300" stop="20261021201200 -0300">
     <title lang="pt-BR">NBA - Ao Vivo Esporte/Diversos --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN2.br" start="20261021200000 -0300" stop="20261021201200 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN2.br" start="20261021200000 -0300" stop="20261021202000 -0300">
     <title lang="pt-BR">Sportscenter Abre o Jogo - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
@@ -10971,6 +11049,9 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021200000 -0300" stop="20261021203000 -0300">
     <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021200000 -0300" stop="20261021203000 -0300">
+    <title lang="pt-BR">VT - Palmeiras x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021200000 -0300" stop="20261021203000 -0300">
     <title lang="pt-BR">30min VT - Atlético-MG x Chapecoense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o S</title>
@@ -11107,6 +11188,9 @@
   <programme channel="PremiereClubes.br" start="20261021200000 -0300" stop="20261021221000 -0300">
     <title lang="pt-BR">Aquecimento sportv - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021200000 -0300" stop="20261021221000 -0300">
+    <title lang="pt-BR">Flamengo x Atlético-MG - Ao Vivo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN3.br" start="20261021200000 -0300" stop="20261021223000 -0300">
     <title lang="pt-BR">NHL: Montreal Canadiens x Winnipeg Jets - Ao Vivo Esporte/Hóquei --&gt; --&gt;</title>
   </programme>
@@ -11154,6 +11238,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261021201200 -0300" stop="20261021223500 -0300">
     <title lang="pt-BR">NBA: Philadelphia 76ers x Indiana Pacers - Ao Vivo Esporte/Basquete --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261021201200 -0300" stop="20261021223500 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261021201500 -0300" stop="20261021203000 -0300">
     <title lang="pt-BR">Momento ESPN Documentário/Esportivo --&gt; --&gt;</title>
@@ -11268,6 +11355,9 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021203000 -0300" stop="20261021210000 -0300">
     <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021203000 -0300" stop="20261021210000 -0300">
+    <title lang="pt-BR">VT - Fluminense x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021203000 -0300" stop="20261021210000 -0300">
     <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
@@ -11423,10 +11513,7 @@
     <title lang="pt-BR">20min Programação do Canal Sinopse não Disponível.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021204000 -0300" stop="20261021211000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021204000 -0300" stop="20261021211000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Bragantino x Mirassol Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021204000 -0300" stop="20261021211000 -0300">
     <title lang="pt-BR">30min VT - Bragantino x Mirassol Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
@@ -11644,6 +11731,9 @@
   <programme channel="ESPN4.br" start="20261021210000 -0300" stop="20261021220000 -0300">
     <title lang="pt-BR">Programação ESPN Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||functio</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021210000 -0300" stop="20261021220000 -0300">
+    <title lang="pt-BR">Giro Da Rodada - Brasileirão - 29ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021210000 -0300" stop="20261021220000 -0300">
     <title lang="pt-BR">1h Giro Da Rodada - Brasileirão - 29ª Rodada Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</title>
   </programme>
@@ -11734,6 +11824,9 @@
   <programme channel="ESPN4.br" start="20261021210000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">MLB: World Series - Ao Vivo Esporte/Beisebol quinta-feira, 29/10 --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261021210000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos quarta-feira, 4/11 --&gt; --&gt;</title>
+  </programme>
   <programme channel="Premiere5.br" start="20261021210000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">3h Santos x Bahia Ao vivo Santos e Bahia jogam pela 32ª rodada do Segundo Turno do Brasileirão, na Vila Belmiro, em Santos (SP). Acesse o canal 250 e</title>
   </programme>
@@ -11780,10 +11873,7 @@
     <title lang="pt-BR">CSI Investigação Criminal Temporada 5 Episódio 4 - Pés de Galinha Duas mulheres são achadas mortas, com lesões em suas peles, levando a equipe a susp</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021211000 -0300" stop="20261021214000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021211000 -0300" stop="20261021214000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Internacional x Corinthians Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021211000 -0300" stop="20261021214000 -0300">
     <title lang="pt-BR">30min VT - Internacional x Corinthians Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o</title>
@@ -11948,6 +12038,9 @@
     <title lang="pt-BR">Comissão Variedades/Política quarta-feira, 28/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021213000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">Comissão Variedades/Política quarta-feira, 4/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261021213000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">Comissão Variedades/Política quinta-feira, 22/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261021213000 -0300" stop="20261022000000 -0300">
@@ -12008,10 +12101,7 @@
     <title lang="pt-BR">Pelados e Condenados Temporada 2 Episódio 4 - Sem Nada por Baixo A expressão "sem nada por baixo" tem muitos significados, especialmente quando se tr</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021214000 -0300" stop="20261021221000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021214000 -0300" stop="20261021221000 -0300">
-    <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Remo x Grêmio Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021214000 -0300" stop="20261021221000 -0300">
     <title lang="pt-BR">30min VT - Remo x Grêmio Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasile</title>
@@ -12071,6 +12161,9 @@
     <title lang="pt-BR">Inside Serie A Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021220000 -0300" stop="20261021223000 -0300">
+    <title lang="pt-BR">VT - Cruzeiro x Remo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021220000 -0300" stop="20261021223000 -0300">
     <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021220000 -0300" stop="20261021223000 -0300">
@@ -12078,9 +12171,6 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261021220000 -0300" stop="20261021223000 -0300">
     <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021220000 -0300" stop="20261021223000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021220000 -0300" stop="20261021223000 -0300">
     <title lang="pt-BR">30min VT - Cruzeiro x Remo Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasi</title>
@@ -12133,17 +12223,20 @@
   <programme channel="CanalUOL.br" start="20261021220000 -0300" stop="20261021230000 -0300">
     <title lang="pt-BR">1h Na Pilha Com Tati Bernardi - Nova Temporada - Estreia Quer conhecer alguém de verdade? Descubra o que a pessoa lê (ou já deixou de ler). Neste pro</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261021220000 -0300" stop="20261021230000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||functio</title>
+  </programme>
   <programme channel="Premiere2.br" start="20261021220000 -0300" stop="20261021230000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 52 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 35 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="Premiere3.br" start="20261021220000 -0300" stop="20261021230000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 52 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 34 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="Premiere4.br" start="20261021220000 -0300" stop="20261021230000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 52 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 34 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="Premiere7.br" start="20261021220000 -0300" stop="20261021230000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 52 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 34 min restantes googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); })</title>
   </programme>
   <programme channel="SBTNews.br" start="20261021220000 -0300" stop="20261021230000 -0300">
     <title lang="pt-BR">1h Esquenta News - Reprise Esquenta News, dedicado à análise aprofundada dos principais acontecimentos políticos da semana.</title>
@@ -12263,13 +12356,10 @@
     <title lang="pt-BR">Painel Agro Agriculture O projeto Painel Agro surgiu como uma alternativa às palestras, uma vez que se tem mais interação e discussão com os convidad</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021221000 -0300" stop="20261021224000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021221000 -0300" stop="20261021224000 -0300">
     <title lang="pt-BR">VT - Corinthians x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021221000 -0300" stop="20261021224000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Vitória x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021221000 -0300" stop="20261021224000 -0300">
     <title lang="pt-BR">30min VT - Corinthians x Fluminense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Su</title>
@@ -12278,7 +12368,7 @@
     <title lang="pt-BR">30min VT - Vitória x Chapecoense Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021221000 -0300" stop="20261021231000 -0300">
-    <title lang="pt-BR">VT - Coritiba x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">Premiere Retrô Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021221000 -0300" stop="20261021231000 -0300">
     <title lang="pt-BR">1h Premiere Retrô Sinopse não disponível.</title>
@@ -12332,7 +12422,13 @@
     <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021223000 -0300" stop="20261021230000 -0300">
+    <title lang="pt-BR">VT - Atlético-MG x Bragantino Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021223000 -0300" stop="20261021230000 -0300">
     <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021223000 -0300" stop="20261021230000 -0300">
+    <title lang="pt-BR">VT - Internacional x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021223000 -0300" stop="20261021230000 -0300">
     <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
@@ -12370,9 +12466,6 @@
   <programme channel="DiscoveryChannel.br" start="20261021223000 -0300" stop="20261021232900 -0300">
     <title lang="pt-BR">Naked and Afraid Brazil Temporada 4 Episódio 2 - Sob Pressão O calor castiga de dia e predadores rondam à noite. A falta de proteínas pesa e a conviv</title>
   </programme>
-  <programme channel="ESPN2.br" start="20261021223000 -0300" stop="20261021233000 -0300">
-    <title lang="pt-BR">VT - ATP 500: Basel Esporte/Tênis Masculino meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r</title>
-  </programme>
   <programme channel="ESPN4.br" start="20261021223000 -0300" stop="20261021233000 -0300">
     <title lang="pt-BR">Especial Rally dos Sertões: Cada Qual No Seu Tempo Documentário/Esportivo --&gt; --&gt;</title>
   </programme>
@@ -12405,6 +12498,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261021223000 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">VT - ATP 500: Basel Esporte/Tênis Masculino quarta-feira, 28/10 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261021223000 -0300" stop="20261022003000 -0300">
+    <title lang="pt-BR">VT - ATP 500: Basel Esporte/Tênis Masculino quarta-feira, 4/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261021223000 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">VT - Inter de Milão x Fiorentina Esporte/Futebol segunda-feira, 2/11 --&gt; --&gt;</title>
@@ -12460,6 +12556,9 @@
   <programme channel="XSports.br" start="20261021223500 -0300" stop="20261021233000 -0300">
     <title lang="pt-BR">55min VT - Al Nassr x Neom Al Nassr e Neom jogam pela Liga Saudita.</title>
   </programme>
+  <programme channel="ESPN2.br" start="20261021223500 -0300" stop="20261021233500 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||functio</title>
+  </programme>
   <programme channel="JovemPanNews.br" start="20261021223500 -0300" stop="20261021235000 -0300">
     <title lang="pt-BR">Isso Não É um Talk Show News Atração mistura entrevistas, música, esquetes de comédia e comentários ácidos, rompendo com o formato tradicional de pro</title>
   </programme>
@@ -12479,10 +12578,7 @@
     <title lang="pt-BR">46min Será Isso Amor? Serkan busca formas de se desculpar com Eda. Ferit e Selin tomam uma decisão muito importante, enquanto Aytan e Eda bolam um no</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021224000 -0300" stop="20261021231000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021224000 -0300" stop="20261021231000 -0300">
-    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Cruzeiro x São Paulo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021224000 -0300" stop="20261021231000 -0300">
     <title lang="pt-BR">VT - Vitória x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
@@ -12565,6 +12661,9 @@
   <programme channel="PremiereClubes.br" start="20261021230000 -0300" stop="20261021233000 -0300">
     <title lang="pt-BR">VT - Atlético-MG x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021230000 -0300" stop="20261021233000 -0300">
+    <title lang="pt-BR">VT - Vitória x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021230000 -0300" stop="20261021233000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Bahia Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super</title>
   </programme>
@@ -12608,10 +12707,10 @@
     <title lang="pt-BR">Mundo F Jornalismo/Esportivo domingo, 1/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021230000 -0300" stop="20261022000000 -0300">
-    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Talladega Esporte/Automobilismo meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['Googl</title>
+    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Talladega Esporte/Automobilismo quarta-feira, 28/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021230000 -0300" stop="20261022000000 -0300">
-    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Talladega Esporte/Automobilismo quarta-feira, 28/10 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Talladega Esporte/Automobilismo quarta-feira, 4/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261021230000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">VT - Nascar Cup Series: Play-offs: GP de Talladega Esporte/Automobilismo segunda-feira, 2/11 --&gt; --&gt;</title>
@@ -12621,6 +12720,9 @@
   </programme>
   <programme channel="ESPN5.br" start="20261021230000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">VT - NFL: Dallas Cowboys x Philadelphia Eagles Esporte/Futebol Americano sexta-feira, 30/10 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN5.br" start="20261021230000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">VT - PSV x Feyenoord Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||func</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021230000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 28ª Rodada Jornalismo/Esportivo sexta-feira, 23/10 --&gt; --&gt;</title>
@@ -12719,16 +12821,13 @@
     <title lang="pt-BR">28min Show da Série A Sinopse não disponível.</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021231000 -0300" stop="20261021234000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021231000 -0300" stop="20261021234000 -0300">
-    <title lang="pt-BR">VT - Coritiba x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021231000 -0300" stop="20261021234000 -0300">
     <title lang="pt-BR">VT - Grêmio x Palmeiras Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021231000 -0300" stop="20261021234000 -0300">
-    <title lang="pt-BR">VT - Remo x Santos Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Santos x Flamengo Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021231000 -0300" stop="20261021234000 -0300">
+    <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021231000 -0300" stop="20261021234000 -0300">
     <title lang="pt-BR">30min VT - Grêmio x Palmeiras Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Br</title>
@@ -12845,6 +12944,9 @@
     <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol quarta-feira, 28/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol quarta-feira, 4/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol quinta-feira, 22/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022000000 -0300">
@@ -12864,6 +12966,9 @@
   </programme>
   <programme channel="TVJustica.br" start="20261021233000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">Evento Variedades/Diversos quarta-feira, 28/10 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVJustica.br" start="20261021233000 -0300" stop="20261022000000 -0300">
+    <title lang="pt-BR">Evento Variedades/Diversos quarta-feira, 4/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261021233000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">Evento Variedades/Diversos quinta-feira, 22/10 --&gt; --&gt;</title>
@@ -12889,6 +12994,12 @@
   <programme channel="TVJustica.br" start="20261021233000 -0300" stop="20261022000000 -0300">
     <title lang="pt-BR">Evento Variedades/Diversos terça-feira, 3/11 --&gt; --&gt;</title>
   </programme>
+  <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022001000 -0300">
+    <title lang="pt-BR">VT - Palmeiras x Bragantino Esporte/Futebol segunda-feira, 2/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022001000 -0300">
+    <title lang="pt-BR">VT - Palmeiras x Bragantino Esporte/Futebol segunda-feira, 26/10 --&gt; --&gt;</title>
+  </programme>
   <programme channel="PremiereFC.br" start="20261021233000 -0300" stop="20261022001000 -0300">
     <title lang="pt-BR">40min VT - Palmeiras x Bragantino Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Supe</title>
   </programme>
@@ -12910,9 +13021,6 @@
   <programme channel="ESPN2.br" start="20261021233000 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">VT - NFL: Los Angeles Rams x Las Vegas Raiders Esporte/Futebol Americano sexta-feira, 30/10 --&gt; --&gt;</title>
   </programme>
-  <programme channel="ESPN3.br" start="20261021233000 -0300" stop="20261022003000 -0300">
-    <title lang="pt-BR">Programação ESPN Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||functio</title>
-  </programme>
   <programme channel="ESPN6.br" start="20261021233000 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">1h Bola da Vez O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às pergunt</title>
   </programme>
@@ -12920,7 +13028,7 @@
     <title lang="pt-BR">1h Tropa GE TV Ao vivo O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, traz</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021233000 -0300" stop="20261022003000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Botafogo Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||</title>
+    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||f</title>
   </programme>
   <programme channel="RedeTV.br" start="20261021233000 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">O Grande Vencedor Variety Dois participantes apaixonados pelo mesmo destino competem pela viagem dos sonhos em provas que misturam conhecimento, agil</title>
@@ -12955,6 +13063,9 @@
   <programme channel="ESPN3.br" start="20261021233000 -0300" stop="20261022020000 -0300">
     <title lang="pt-BR">NHL: Buffalo Sabres x San Jose Sharks - Ao Vivo Esporte/Hóquei quarta-feira, 28/10 --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261021233000 -0300" stop="20261022020000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos quarta-feira, 4/11 --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN4.br" start="20261021233500 -0300" stop="20261022003000 -0300">
     <title lang="pt-BR">Moto 2: GP da Austrália: Classificação - Ao Vivo Esporte/Motociclismo sábado, 24/10 --&gt; --&gt;</title>
   </programme>
@@ -12974,28 +13085,22 @@
     <title lang="pt-BR">Todo Mundo Odeia o Chris Temporada 4 Episódio 13 - Todo Mundo Odeia Identidades Falsas Chris e Greg percebem que precisam arranjar identidades falsas</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol segunda-feira, 2/11 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol domingo, 1/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - Athletico-PR x Bahia Esporte/Futebol segunda-feira, 26/10 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Athletico-PR x Atlético-MG Esporte/Futebol domingo, 25/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x São Paulo Esporte/Futebol sábado, 24/10 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol sábado, 24/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x São Paulo Esporte/Futebol sábado, 31/10 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Flamengo x Bragantino Esporte/Futebol sábado, 31/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
     <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol terça-feira, 27/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
     <title lang="pt-BR">VT - São Paulo x Internacional Esporte/Futebol terça-feira, 3/11 --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol domingo, 1/11 --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261021234000 -0300" stop="20261022001000 -0300">
-    <title lang="pt-BR">VT - São Paulo x Santos Esporte/Futebol domingo, 25/10 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereFC.br" start="20261021234000 -0300" stop="20261022001000 -0300">
     <title lang="pt-BR">30min VT - Athletico-PR x Atlético-MG Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o</title>
