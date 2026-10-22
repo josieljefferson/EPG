@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:20:36.149331-03:00",
+  "generated_at": "2026-10-22T16:37:40.278923-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4208,
+    "total": 4206,
     "by_source": {
-      "fallback": 4208
+      "fallback": 4206
     },
     "by_channel": {
       "Band.br": 19,
@@ -77,7 +77,7 @@
       "DiscoveryChannel.br": 32,
       "ESPN.br": 15,
       "ESPN2.br": 160,
-      "ESPN3.br": 172,
+      "ESPN3.br": 171,
       "ESPN4.br": 199,
       "ESPN5.br": 136,
       "ESPN6.br": 130,
@@ -99,7 +99,7 @@
       "Premiere5.br": 64,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 314,
+      "PremiereClubes.br": 313,
       "PremiereFC.br": 292,
       "RecordNews.br": 84,
       "RecordTV.br": 29,
@@ -1825,7 +1825,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 172,
+      "programs": 171,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1858,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 172,
+      "programs": 171,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2023,7 +2023,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 314,
+      "programs": 313,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2056,7 +2056,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 314,
+      "programs": 313,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
