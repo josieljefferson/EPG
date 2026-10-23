@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:18:05.444159-03:00",
+  "generated_at": "2026-10-23T05:36:42.442166-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 64
   },
   "programs": {
-    "total": 4321,
+    "total": 4618,
     "by_source": {
-      "fallback": 4321
+      "fallback": 4618
     },
     "by_channel": {
       "Band.br": 19,
@@ -76,10 +76,10 @@
       "Cancaonova.br": 37,
       "DiscoveryChannel.br": 32,
       "ESPN.br": 15,
-      "ESPN2.br": 151,
-      "ESPN3.br": 164,
-      "ESPN4.br": 191,
-      "ESPN5.br": 129,
+      "ESPN2.br": 214,
+      "ESPN3.br": 214,
+      "ESPN4.br": 268,
+      "ESPN5.br": 212,
       "ESPN6.br": 136,
       "GETV.br": 118,
       "GloboNews.br": 13,
@@ -101,7 +101,7 @@
       "Premiere7.br": 3,
       "PremiereClubes.br": 294,
       "PremiereFC.br": 291,
-      "RecordNews.br": 106,
+      "RecordNews.br": 107,
       "RecordTV.br": 29,
       "RedeGloboTeresina.br": 25,
       "RedeTV.br": 24,
@@ -117,15 +117,15 @@
       "SporTV3.br": 12,
       "SportyNet.br": 208,
       "TNT.br": 28,
-      "TNTNovelas.br": 258,
+      "TNTNovelas.br": 259,
       "TVAlvoradaDoSul.br": 25,
       "TVAntena10.br": 21,
       "TVBrasil.br": 55,
       "TVCidadeVerde.br": 21,
       "TVClube.br": 25,
       "TVCultura.br": 65,
-      "TVJustica.br": 150,
-      "TVSenado.br": 148,
+      "TVJustica.br": 151,
+      "TVSenado.br": 169,
       "VenusTV.br": 17,
       "Viva.br": 31,
       "XSports.br": 176,
@@ -1418,7 +1418,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 106,
+      "programs": 107,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1440,7 +1440,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 106,
+      "programs": 107,
       "url": "https://www.guiadetv.com/canal/record-news",
       "error": ""
     },
@@ -1528,7 +1528,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 259,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1550,7 +1550,7 @@
       "source": "guiadetv",
       "priority": 2,
       "success": true,
-      "programs": 258,
+      "programs": 259,
       "url": "https://www.guiadetv.com/canal/tnt-novelas",
       "error": ""
     },
@@ -1759,7 +1759,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 214,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1792,7 +1792,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 214,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1825,7 +1825,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 214,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1858,7 +1858,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 164,
+      "programs": 214,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -1891,7 +1891,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 268,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1924,7 +1924,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 268,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -1957,7 +1957,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 129,
+      "programs": 212,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -1990,7 +1990,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 129,
+      "programs": 212,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2089,7 +2089,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2122,7 +2122,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2155,7 +2155,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 148,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2188,7 +2188,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 148,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
