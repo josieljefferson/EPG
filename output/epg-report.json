@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:14:56.503879-03:00",
+  "generated_at": "2026-10-27T17:39:58.522115-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 49
+    "with_programs": 50
   },
   "programs": {
-    "total": 2353,
+    "total": 2376,
     "by_source": {
-      "fallback": 2353
+      "fallback": 2376
     },
     "by_channel": {
       "Band.br": 18,
@@ -94,6 +94,7 @@
       "Premiere7.br": 3,
       "PremiereClubes.br": 267,
       "RecordTV.br": 25,
+      "RedeGloboTeresina.br": 23,
       "RedeTV.br": 20,
       "SBT.br": 16,
       "SBTPiaui.br": 18,
@@ -119,9 +120,9 @@
     }
   },
   "attempts": {
-    "total": 220,
-    "successful": 98,
-    "failed": 122
+    "total": 216,
+    "successful": 100,
+    "failed": 116
   },
   "files": {
     "epg": "output/epg.xml",
@@ -2007,32 +2008,10 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 23,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RedeGloboTeresina.br",
-      "channel_name": "REDE GLOBO TERESINA",
-      "date": "2026-10-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/rede-globo-teresina: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "RedeGloboTeresina.br",
-      "channel_name": "REDE GLOBO TERESINA",
-      "date": "2026-10-27",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/rede-globo-teresina: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "RedeGloboTeresina.br",
@@ -2040,32 +2019,10 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 23,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "RedeGloboTeresina.br",
-      "channel_name": "REDE GLOBO TERESINA",
-      "date": "2026-10-28",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/rede-globo-teresina: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "RedeGloboTeresina.br",
-      "channel_name": "REDE GLOBO TERESINA",
-      "date": "2026-10-28",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/rede-globo-teresina: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "ESPN2.br",
