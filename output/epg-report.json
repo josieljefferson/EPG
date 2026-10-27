@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:23:27.652900-03:00",
+  "generated_at": "2026-10-27T17:14:56.503879-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 50
+    "with_programs": 49
   },
   "programs": {
-    "total": 2381,
+    "total": 2353,
     "by_source": {
-      "fallback": 2381
+      "fallback": 2353
     },
     "by_channel": {
       "Band.br": 18,
@@ -74,10 +74,10 @@
       "Cancaonova.br": 38,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 16,
-      "ESPN2.br": 175,
-      "ESPN3.br": 175,
-      "ESPN4.br": 238,
-      "ESPN5.br": 176,
+      "ESPN2.br": 174,
+      "ESPN3.br": 172,
+      "ESPN4.br": 236,
+      "ESPN5.br": 172,
       "GloboNews.br": 13,
       "GloboSP.br": 24,
       "InvestigacaoDiscovery.br": 38,
@@ -94,7 +94,6 @@
       "Premiere7.br": 3,
       "PremiereClubes.br": 267,
       "RecordTV.br": 25,
-      "RedeGloboTeresina.br": 23,
       "RedeTV.br": 20,
       "SBT.br": 16,
       "SBTPiaui.br": 18,
@@ -104,7 +103,7 @@
       "SporTV.br": 8,
       "SporTV2.br": 14,
       "SporTV3.br": 15,
-      "TNT.br": 27,
+      "TNT.br": 31,
       "TVAlvoradaDoSul.br": 23,
       "TVAntena10.br": 18,
       "TVBrasil.br": 54,
@@ -112,7 +111,7 @@
       "TVClube.br": 23,
       "TVCultura.br": 67,
       "TVJustica.br": 151,
-      "TVSenado.br": 150,
+      "TVSenado.br": 151,
       "VenusTV.br": 17,
       "Viva.br": 31,
       "sexprive-brasileirinhas.br": 35,
@@ -120,9 +119,9 @@
     }
   },
   "attempts": {
-    "total": 216,
-    "successful": 100,
-    "failed": 116
+    "total": 220,
+    "successful": 98,
+    "failed": 122
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1085,7 +1084,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 31,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -1096,7 +1095,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 27,
+      "programs": 31,
       "url": "https://mi.tv/br/canais/tnt",
       "error": ""
     },
@@ -2008,10 +2007,32 @@
       "date": "2026-10-27",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 23,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "RedeGloboTeresina.br",
+      "channel_name": "REDE GLOBO TERESINA",
+      "date": "2026-10-27",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/rede-globo-teresina: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "RedeGloboTeresina.br",
+      "channel_name": "REDE GLOBO TERESINA",
+      "date": "2026-10-27",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/rede-globo-teresina: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "RedeGloboTeresina.br",
@@ -2019,10 +2040,32 @@
       "date": "2026-10-28",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 23,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/rede-globo-teresina",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "RedeGloboTeresina.br",
+      "channel_name": "REDE GLOBO TERESINA",
+      "date": "2026-10-28",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/rede-globo-teresina: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "RedeGloboTeresina.br",
+      "channel_name": "REDE GLOBO TERESINA",
+      "date": "2026-10-28",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/rede-globo-teresina: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "ESPN2.br",
@@ -2053,7 +2096,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 174,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2086,7 +2129,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 174,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2119,7 +2162,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 172,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2152,7 +2195,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 172,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2185,7 +2228,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 238,
+      "programs": 236,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2218,7 +2261,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 238,
+      "programs": 236,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2251,7 +2294,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 176,
+      "programs": 172,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2327,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 176,
+      "programs": 172,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2449,7 +2492,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2482,7 +2525,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
