@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:17:48.693444-03:00",
+  "generated_at": "2026-10-31T16:42:24.970103-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 50
   },
   "programs": {
-    "total": 2511,
+    "total": 2510,
     "by_source": {
-      "fallback": 2511
+      "fallback": 2510
     },
     "by_channel": {
       "Band.br": 23,
@@ -77,7 +77,7 @@
       "ESPN2.br": 174,
       "ESPN3.br": 194,
       "ESPN4.br": 251,
-      "ESPN5.br": 210,
+      "ESPN5.br": 209,
       "GloboNews.br": 22,
       "GloboSP.br": 23,
       "InvestigacaoDiscovery.br": 34,
@@ -2251,7 +2251,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2284,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
