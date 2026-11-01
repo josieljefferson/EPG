@@ -337,9 +337,6 @@
   <programme channel="TVSenado.br" start="20261101000000 -0300" stop="20261101013300 -0300">
     <title lang="pt-BR">Senadoc: Crônica da Demolição Documentário/Diversos --&gt; --&gt;</title>
   </programme>
-  <programme channel="TVSenado.br" start="20261101000000 -0300" stop="20261101013300 -0300">
-    <title lang="pt-BR">Senadoc: Crônica da Demolição Documentário/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
-  </programme>
   <programme channel="BandSports.br" start="20261101000000 -0300" stop="20261101014500 -0300">
     <title lang="pt-BR">Lokomotiv Moscou x Spartak Moscou Campeonato Russo Acompanhe as emoções da elite do futebol masculino da Rússia.</title>
   </programme>
@@ -362,7 +359,7 @@
     <title lang="pt-BR">VT - Juventus x OL Lyonnes Esporte/Futebol Feminino --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101000000 -0300" stop="20261101020000 -0300">
-    <title lang="pt-BR">VT - Newcastle x Everton Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Newcastle x Everton Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101000000 -0300" stop="20261101020000 -0300">
     <title lang="pt-BR">VT - Paris FC x Arsenal Esporte/Futebol Feminino --&gt; --&gt;</title>
@@ -381,6 +378,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261101000000 -0300" stop="20261101023000 -0300">
     <title lang="pt-BR">NBA: San Antonio Spurs x Portland Trail Blazers - Ao Vivo Esporte/Basquete --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261101000000 -0300" stop="20261101023000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101000000 -0300" stop="20261101023000 -0300">
     <title lang="pt-BR">NBA: Miami Heat x Los Angeles Lakers - Ao Vivo Esporte/Basquete --&gt; --&gt;</title>
@@ -533,7 +533,7 @@
     <title lang="pt-BR">CSI: Miami Temporada 9 Episódio 13 - Last Stand The murderer of Horatio's wife returns to take control of Miami, causing crime and chaos to explode a</title>
   </programme>
   <programme channel="SBT.br" start="20261101004500 -0300" stop="20261101014500 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. Sobre mi.tv A mi.tv é um guia d</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. googletag.cmd.push(function() {</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261101004500 -0300" stop="20261101014500 -0300">
     <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. Sobre mi.tv A mi.tv é um guia d</title>
@@ -680,7 +680,7 @@
     <title lang="pt-BR">NFL - Ao Vivo Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261101011500 -0300" stop="20261101021500 -0300">
-    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de</title>
+    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. googletag.cmd.push(function() { googletag.display('div-gpt-a</title>
   </programme>
   <programme channel="RecordTV.br" start="20261101011500 -0300" stop="20261101024000 -0300">
     <title lang="pt-BR">Prosperidade com Deus Religious Atração produzida pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</title>
@@ -801,6 +801,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261101013300 -0300" stop="20261101023300 -0300">
     <title lang="pt-BR">Senadoc: Cleo Documentário/Diversos --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261101013300 -0300" stop="20261101023300 -0300">
+    <title lang="pt-BR">Senadoc: Cleo Documentário/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101013800 -0300" stop="20261101023000 -0300">
     <title lang="pt-BR">Jazz Sinfônica Brasil Espetáculo/Musical --&gt; --&gt;</title>
@@ -1043,7 +1046,7 @@
     <title lang="pt-BR">ESPN League Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="Premiere4.br" start="20261101023000 -0300" stop="20261101033000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101023000 -0300" stop="20261101034500 -0300">
     <title lang="pt-BR">Moto 3: GP da Malásia Esporte/Motociclismo --&gt; --&gt;</title>
@@ -1274,7 +1277,7 @@
     <title lang="pt-BR">Desaparecidos - Mistério em Maui Special Quando Charli Scott, uma jovem grávida de 27 anos, desaparece em 9 de fevereiro em Maui, sua família e a com</title>
   </programme>
   <programme channel="SporTV3.br" start="20261101032500 -0300" stop="20261101042500 -0300">
-    <title lang="pt-BR">Etapa das Filipinas WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. Sobre mi.tv A mi.tv é um guia de</title>
+    <title lang="pt-BR">Etapa das Filipinas WSL Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade. googletag.cmd.push(function() {</title>
   </programme>
   <programme channel="VenusTV.br" start="20261101032500 -0300" stop="20261101045600 -0300">
     <title lang="pt-BR">Entre Nós 2 Adults only Mulheres lindas e sensuais agradam a todos os gostos e vontades.</title>
@@ -1341,6 +1344,9 @@
   </programme>
   <programme channel="ESPN3.br" start="20261101033000 -0300" stop="20261101043000 -0300">
     <title lang="pt-BR">Golfe: Abu Dhabi Aldar Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261101033000 -0300" stop="20261101043000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101033000 -0300" stop="20261101043000 -0300">
     <title lang="pt-BR">Sportscenter Americano - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
@@ -1618,9 +1624,6 @@
   <programme channel="TVSenado.br" start="20261101043000 -0300" stop="20261101050000 -0300">
     <title lang="pt-BR">TV Senado Live Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
-  <programme channel="TVSenado.br" start="20261101043000 -0300" stop="20261101050000 -0300">
-    <title lang="pt-BR">TV Senado Live Variedades/Entrevista Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
-  </programme>
   <programme channel="BandSports.br" start="20261101043000 -0300" stop="20261101053000 -0300">
     <title lang="pt-BR">SFT SFT Todas as emoções das lutas de artes marciais mistas promovidas pela organização brasileira SFT.</title>
   </programme>
@@ -1629,6 +1632,9 @@
   </programme>
   <programme channel="ESPN3.br" start="20261101043000 -0300" stop="20261101053000 -0300">
     <title lang="pt-BR">Golfe: Abu Dhabi Aldar Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261101043000 -0300" stop="20261101053000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101043000 -0300" stop="20261101053000 -0300">
     <title lang="pt-BR">UEFA Nations League Match Night Highlights Esporte/Futebol --&gt; --&gt;</title>
@@ -1661,7 +1667,7 @@
     <title lang="pt-BR">VT - ATP 1000: Paris Esporte/Tênis --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101043000 -0300" stop="20261101063000 -0300">
-    <title lang="pt-BR">VT - Chelsea x Manchester United Esporte/Futebol Publicidade: Descobrir mais Eventos Esportivos Futebol Canais TV Bilhetes Corridas Ver Jogos da NFL</title>
+    <title lang="pt-BR">VT - Chelsea x Manchester United Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101043000 -0300" stop="20261101063000 -0300">
     <title lang="pt-BR">VT - Benfica x Austria Wien Esporte/Futebol Feminino --&gt; --&gt;</title>
@@ -1739,13 +1745,16 @@
     <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101050000 -0300" stop="20261101053000 -0300">
+    <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261101050000 -0300" stop="20261101053000 -0300">
     <title lang="pt-BR">Que Brasil é Este? Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101050000 -0300" stop="20261101053000 -0300">
     <title lang="pt-BR">TV Senado Live Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261101050000 -0300" stop="20261101060000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. Sobre mi.tv</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. googletag.c</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261101050000 -0300" stop="20261101060000 -0300">
     <title lang="pt-BR">Luz para os Meus Passos Special Baseada na "Lectio Divina", obra apresenta lições que devem ser feitas a cada dia. googletag.cmd.push(function() { go</title>
@@ -1763,16 +1772,16 @@
     <title lang="pt-BR">Golfe: DP World Tour Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
   </programme>
   <programme channel="GloboNews.br" start="20261101050000 -0300" stop="20261101060000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. Sobre mi.tv A mi.tv é um guia de TV inteligente, c</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 5 Horas News Os principais fatos que acontecem no Brasil e no mundo. googletag.cmd.push(function() { googletag.display(</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261101050000 -0300" stop="20261101060000 -0300">
-    <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. Sobre mi.tv A mi.tv é um guia de TV inte</title>
+    <title lang="pt-BR">Jornal da Manhã - 1ª Edição News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. googletag.cmd.push(function() { googleta</title>
   </programme>
   <programme channel="RecordTV.br" start="20261101050000 -0300" stop="20261101060000 -0300">
-    <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços. Sobre mi.tv A mi.tv é um guia de TV intelige</title>
+    <title lang="pt-BR">Balanço Geral Manhã News O programa apresenta reportagens exclusivas, denúncias e prestação de serviços. googletag.cmd.push(function() { googletag.di</title>
   </programme>
   <programme channel="RedeTV.br" start="20261101050000 -0300" stop="20261101060000 -0300">
-    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. Sobre mi.tv A mi.tv é um guia de TV int</title>
+    <title lang="pt-BR">Igreja Internacional da Graça de Deus Religious Acompanhe a programação da Igreja Universal da Graça de Deus. googletag.cmd.push(function() { googlet</title>
   </programme>
   <programme channel="TVCultura.br" start="20261101050000 -0300" stop="20261101060000 -0300">
     <title lang="pt-BR">Balaio Music Pai e filho são os anfitriões desse verdadeiro balaio de sonoridades, ritmos e parcerias repleto de encontros. Cada papo, conversa, entr</title>
@@ -1808,7 +1817,7 @@
     <title lang="pt-BR">VT - Venezia x Udinese Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="SporTV2.br" start="20261101050000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">Praia Clube x Paulistano Barueri Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 1</title>
+    <title lang="pt-BR">Praia Clube x Paulistano Barueri Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 07</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101050000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Maratona de Nova Iorque Esporte/Diversos --&gt; --&gt;</title>
@@ -1825,14 +1834,11 @@
   <programme channel="Viva.br" start="20261101051400 -0300" stop="20261101061400 -0300">
     <title lang="pt-BR">Vale Tudo Soap Ivan e Afonso vão para a casa de Marco Aurélio tentar pegá-lo antes que ele fuja; Gildo conta à polícia o que ouviu; Marco Aurélio, Le</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261101051500 -0300" stop="20261101071500 -0300">
-    <title lang="pt-BR">VT - Porto x Estoril Esporte/Futebol NO AR --&gt; --&gt;</title>
-  </programme>
   <programme channel="Multishow.br" start="20261101051800 -0300" stop="20261101054500 -0300">
     <title lang="pt-BR">Chaves Sitcom Na vila, Seu Madruga fica irritadíssimo com todos e causa a maior confusão quando resolve empenhar sua espingarda; Chompiras e Peterete</title>
   </programme>
   <programme channel="SexyHot.br" start="20261101052200 -0300" stop="20261101062200 -0300">
-    <title lang="pt-BR">Chocolate com Morango Adults only Kiara Hot é como um chocolate para o grande morango de Oscar Luz. Sobre mi.tv A mi.tv é um guia de TV inteligente,</title>
+    <title lang="pt-BR">Chocolate com Morango Adults only Kiara Hot é como um chocolate para o grande morango de Oscar Luz. googletag.cmd.push(function() { googletag.display</title>
   </programme>
   <programme channel="Viva.br" start="20261101052400 -0300" stop="20261101060300 -0300">
     <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado.</title>
@@ -1900,6 +1906,9 @@
   <programme channel="ESPN3.br" start="20261101053000 -0300" stop="20261101063000 -0300">
     <title lang="pt-BR">Golfe: Abu Dhabi Aldar Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261101053000 -0300" stop="20261101063000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261101053000 -0300" stop="20261101063000 -0300">
     <title lang="pt-BR">Sinais de um Psicopata Temporada 4 Episódio 2 - Belas Adormecidas Socorristas chegam a uma casa em Ontário e encontram os corpos de duas crianças. Um</title>
   </programme>
@@ -1925,13 +1934,13 @@
     <title lang="pt-BR">Adult Film School Temporada 1 Episódio 8 Um casal "new age" tenta posições inusitadas para uma filmagem de "Karma Sutra". googletag.cmd.push(function</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261101053700 -0300" stop="20261101063700 -0300">
-    <title lang="pt-BR">Adult Film School Temporada 1 Episódio 8 Um casal "new age" tenta posições inusitadas para uma filmagem de "Karma Sutra". Sobre mi.tv A mi.tv é um gu</title>
+    <title lang="pt-BR">Adult Film School Temporada 1 Episódio 8 Um casal "new age" tenta posições inusitadas para uma filmagem de "Karma Sutra". googletag.cmd.push(function</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261101054000 -0300" stop="20261101064000 -0300">
-    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de</title>
+    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="MeioNorteHD.br" start="20261101054000 -0300" stop="20261101064000 -0300">
-    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de</title>
+    <title lang="pt-BR">Meio Norte News Special Resumo das principais notícias do estado do Piauí. googletag.cmd.push(function() { googletag.display('div-gpt-ad-157078660502</title>
   </programme>
   <programme channel="Multishow.br" start="20261101054500 -0300" stop="20261101064500 -0300">
     <title lang="pt-BR">Chapolin Temporada 1 Episódio 52 - Por favor, É Aqui que Vive o Morto? Uma moça chama o Chapolin pedindo ajuda para atravessar o cemitério, pois o Dr</title>
@@ -1973,7 +1982,7 @@
     <title lang="pt-BR">Moto 2: GP do Catar: Treino Livre Esporte/Motociclismo --&gt; --&gt;</title>
   </programme>
   <programme channel="TNT.br" start="20261101055500 -0300" stop="20261101065500 -0300">
-    <title lang="pt-BR">TNT Buzz Entertainment Interview style program, reporting on world news and entertainment. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais</title>
+    <title lang="pt-BR">TNT Buzz Entertainment Interview style program, reporting on world news and entertainment. googletag.cmd.push(function() { googletag.display('div-gpt</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261101055800 -0300" stop="20261101065800 -0300">
     <title lang="pt-BR">Big Boobs Are a Massive Distraction Adults only / 2024 Mulheres com seios naturais e bumbuns grandes se jogam em seus amantes bem-dotados e extraem c</title>
@@ -2007,9 +2016,6 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261101060000 -0300" stop="20261101063000 -0300">
     <title lang="pt-BR">VT - Atlético-MG x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261101060000 -0300" stop="20261101063000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Cruzeiro Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101060000 -0300" stop="20261101063000 -0300">
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
@@ -2051,7 +2057,7 @@
     <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN.</title>
   </programme>
   <programme channel="ESPN.br" start="20261101060000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">Mina de Passe Sports talk Acompanhe tudo sobre o futebol feminino. 7 min restantes</title>
+    <title lang="pt-BR">Mina de Passe Sports talk Acompanhe tudo sobre o futebol feminino.</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101060000 -0300" stop="20261101070000 -0300">
     <title lang="pt-BR">Sportscenter Jornalismo/Esportivo --&gt; --&gt;</title>
@@ -2084,13 +2090,13 @@
     <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</title>
   </programme>
   <programme channel="SporTV.br" start="20261101060000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">Argentina x Burkina Faso Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo. 1</title>
+    <title lang="pt-BR">Argentina x Burkina Faso Amistoso Internacional de Futebol Masculino Seleções masculinas de futebol se enfrentam em partidas amistosas pelo mundo. 07</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261101060000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus. 8 min restantes</title>
+    <title lang="pt-BR">Programação IURD Religious Atração é transmitida pela Igreja Universal do Reino de Deus.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261101060000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia. 8 min restantes</title>
+    <title lang="pt-BR">SBT Notícias News Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</title>
   </programme>
   <programme channel="TVCultura.br" start="20261101060000 -0300" stop="20261101070000 -0300">
     <title lang="pt-BR">Viola, Minha Viola Music Uma celebração à música caipira, valorizando a cultura das pessoas do campo em toda sua diversidade.</title>
@@ -2135,7 +2141,7 @@
     <title lang="pt-BR">Sneaky A... Adults only / 2019 Mulheres depravadas tentam ficar em silêncio enquanto homens ousados as invadem por trás. Elas sabem que podem ser peg</title>
   </programme>
   <programme channel="VenusTV.br" start="20261101060000 -0300" stop="20261101072900 -0300">
-    <title lang="pt-BR">Black Porn Stars 4 Adults only / 2023 As novas estrelas mais deliciosas do mundo adulto estão trabalhando com os maiores astros. 19 min restantes 07:</title>
+    <title lang="pt-BR">Black Porn Stars 4 Adults only / 2023 As novas estrelas mais deliciosas do mundo adulto estão trabalhando com os maiores astros.</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261101060000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Gostosas P...s A...s Adults only De roubar o namorado da amiga até dar uma lição nos namorados sem graça, essas beldades de seios fartos usam todos o</title>
@@ -2153,19 +2159,19 @@
     <title lang="pt-BR">VT - Nascar O'Reilly Auto Parts: GP de Homestead-Miami Esporte/Automobilismo --&gt; --&gt;</title>
   </programme>
   <programme channel="Premiere2.br" start="20261101060000 -0300" stop="20261101140000 -0300">
-    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 7 horas 3 min restantes</title>
+    <title lang="pt-BR">Premiere 2 Acompanhe a programação pay-per-view. 6 horas 39 min restantes</title>
   </programme>
   <programme channel="Premiere3.br" start="20261101060000 -0300" stop="20261101140000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 7 horas 3 min restantes</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. 6 horas 39 min restantes</title>
   </programme>
   <programme channel="Premiere4.br" start="20261101060000 -0300" stop="20261101140000 -0300">
-    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 7 horas 3 min restantes</title>
+    <title lang="pt-BR">Premiere 4 Acompanhe a programação pay-per-view. 6 horas 39 min restantes</title>
   </programme>
   <programme channel="Premiere6.br" start="20261101060000 -0300" stop="20261101140000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 7 horas 2 min restantes</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. 6 horas 38 min restantes</title>
   </programme>
   <programme channel="Premiere7.br" start="20261101060000 -0300" stop="20261101140000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 7 horas 2 min restantes</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. 6 horas 38 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101060000 -0300" stop="20261102060000 -0300">
     <title lang="pt-BR">– PROGRAMAÇÃO LIVRE DOMINGO</title>
@@ -2195,7 +2201,7 @@
     <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado.</title>
   </programme>
   <programme channel="SporTV3.br" start="20261101060500 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">GP do México: 1º Treino Livre Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1. 1 min restantes 07:</title>
+    <title lang="pt-BR">GP do México: 1º Treino Livre Fórmula 1 Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</title>
   </programme>
   <programme channel="Multishow.br" start="20261101061300 -0300" stop="20261101063800 -0300">
     <title lang="pt-BR">Chapolin Temporada 1 Episódio 107 - O Abominável Homem das Neves Uma excursionista conta a lenda do Yeti, ela acha que viu ele na janela de uma caban</title>
@@ -2246,6 +2252,9 @@
     <title lang="pt-BR">VT - Grêmio x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101063000 -0300" stop="20261101070000 -0300">
+    <title lang="pt-BR">VT - Grêmio x Athletico-PR Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261101063000 -0300" stop="20261101070000 -0300">
     <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261101063000 -0300" stop="20261101070000 -0300">
@@ -2260,9 +2269,6 @@
   <programme channel="TVJustica.br" start="20261101063000 -0300" stop="20261101070000 -0300">
     <title lang="pt-BR">Saber Direito - Aula Séries/Educativo --&gt; --&gt;</title>
   </programme>
-  <programme channel="TVJustica.br" start="20261101063000 -0300" stop="20261101070000 -0300">
-    <title lang="pt-BR">Saber Direito - Aula Séries/Educativo Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
-  </programme>
   <programme channel="ESPN5.br" start="20261101063000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">VT - NFL: Buffalo Bills x Minnesota Vikings Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
@@ -2276,16 +2282,19 @@
     <title lang="pt-BR">VT - ESPN KnockOut: Eveling Ortega x Alma Meraz Esporte/Boxe --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101063000 -0300" stop="20261101090000 -0300">
-    <title lang="pt-BR">VT - MLB: Milwaukee Brewers x Tampa Bay Rays Esporte/Beisebol NO AR --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - MLB: Milwaukee Brewers x Tampa Bay Rays Esporte/Beisebol NO AR Ver Jogos Basebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101063000 -0300" stop="20261101093000 -0300">
     <title lang="pt-BR">Golfe: Abu Dhabi Aldar Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261101063000 -0300" stop="20261101093000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="TNT.br" start="20261101063400 -0300" stop="20261101070900 -0300">
-    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects. 8 min r</title>
+    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261101063700 -0300" stop="20261101065400 -0300">
-    <title lang="pt-BR">A Bíblia no Meu Dia a Dia Religious Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus. 2 min restantes</title>
+    <title lang="pt-BR">A Bíblia no Meu Dia a Dia Religious Padre Roger Luís incentiva fiéis a se aprofundarem na palavra de Deus.</title>
   </programme>
   <programme channel="Multishow.br" start="20261101063800 -0300" stop="20261101070000 -0300">
     <title lang="pt-BR">Chaves Sitcom Na vila, Seu Madruga fica irritadíssimo com todos e causa a maior confusão quando resolve empenhar sua espingarda; Chompiras e Peterete</title>
@@ -2303,7 +2312,7 @@
     <title lang="pt-BR">Globo Repórter Newsmagazine O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exó</title>
   </programme>
   <programme channel="Viva.br" start="20261101064200 -0300" stop="20261101072200 -0300">
-    <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado. 13 min restantes</title>
+    <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101064500 -0300" stop="20261101075500 -0300">
     <title lang="pt-BR">MotoGP: GP do Catar: Treino Livre Esporte/Motociclismo --&gt; --&gt;</title>
@@ -2327,7 +2336,7 @@
     <title lang="pt-BR">CSI: Miami Temporada 9 Episódio 13 - Last Stand The murderer of Horatio's wife returns to take control of Miami, causing crime and chaos to explode a</title>
   </programme>
   <programme channel="BandPiaui.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Agro Band Piauí Agriculture Programa destaca a força e a transformação do agronegócio no estado do Piauí.</title>
+    <title lang="pt-BR">Agro Band Piauí Agriculture Programa destaca a força e a transformação do agronegócio no estado do Piauí. 14 min restantes</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">F1: The Inside Line Esporte/Automobilismo --&gt; --&gt;</title>
@@ -2351,22 +2360,19 @@
     <title lang="pt-BR">VT - Internacional x Botafogo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol NO AR --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">VT - Vitória x Athletico-PR Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="SBT.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança. 27 min restantes</title>
+    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança. 3 min restantes</title>
   </programme>
   <programme channel="SBTPiaui.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança. 15 min restantes</title>
+    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança.</title>
   </programme>
   <programme channel="TVCidadeVerde.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança.</title>
+    <title lang="pt-BR">Pé na Estrada Public affairs Matérias que abordam diferentes temas como cidadania e segurança. 14 min restantes</title>
   </programme>
   <programme channel="TVCultura.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Brasil, Mostra a Tua Cara! Interview Pessoas famosas e anônimas que ajudam a construir um novo país, mais ético, produtivo e justo são entrevistadas</title>
@@ -2374,14 +2380,8 @@
   <programme channel="TVJustica.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Inteiro Teor Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
-  <programme channel="TVJustica.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Inteiro Teor Jornalismo/Informativo NO AR --&gt; --&gt;</title>
-  </programme>
   <programme channel="TVSenado.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Sankofa, A África Que Te Habita Séries/Documentário --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261101070000 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Sankofa, A África Que Te Habita Séries/Documentário NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101070000 -0300" stop="20261101073000 -0300">
     <title lang="pt-BR">Tela Brasil: A Menina de 60 Documentário/Diversos --&gt; --&gt;</title>
@@ -2405,10 +2405,10 @@
     <title lang="pt-BR">- PIAUÍ QUE PRODUZ - INÉDITO</title>
   </programme>
   <programme channel="CNNBrasil.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 54 min rest</title>
+    <title lang="pt-BR">CNN Newsroom News Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN. 29 min rest</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Santa Missa Religious As principais missas realizadas por Vossa Santidade, o Papa.</title>
+    <title lang="pt-BR">Santa Missa Religious As principais missas realizadas por Vossa Santidade, o Papa. 44 min restantes</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">ATP Masters 1000: Paris - Ao Vivo Esporte/Tênis --&gt; --&gt;</title>
@@ -2429,6 +2429,9 @@
     <title lang="pt-BR">Bola da Vez: Joyce Ardies Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101070000 -0300" stop="20261101080000 -0300">
+    <title lang="pt-BR">Bola da Vez: Joyce Ardies Jornalismo/Esportivo Publicidade: Descobrir mais Eventos Esportivos Futebol Canais TV Bilhetes Corridas Ver Jogos da NFL Ma</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Resenha Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101070000 -0300" stop="20261101080000 -0300">
@@ -2438,19 +2441,19 @@
     <title lang="pt-BR">VT - NFL: Kansas City Chiefs x Denver Broncos Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
   <programme channel="GloboNews.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Jornal GloboNews - Edição das 7 Horas News Acompanhe os principais fatos que acontecem no Brasil e no Mundo. 54 min restantes</title>
+    <title lang="pt-BR">Jornal GloboNews - Edição das 7 Horas News Acompanhe os principais fatos que acontecem no Brasil e no Mundo. 29 min restantes</title>
   </programme>
   <programme channel="RecordTV.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Santo Culto em Seu Lar Religious O programa aborda um tema específico, discutido sempre em base de um texto bíblico. 57 min restantes</title>
+    <title lang="pt-BR">Santo Culto em Seu Lar Religious O programa aborda um tema específico, discutido sempre em base de um texto bíblico. 33 min restantes</title>
   </programme>
   <programme channel="RedeTV.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Santuário de São Judas Tadeu Religious As missas e eventos do Santuário de São Judas Tadeu. 57 min restantes</title>
+    <title lang="pt-BR">Santuário de São Judas Tadeu Religious As missas e eventos do Santuário de São Judas Tadeu. 33 min restantes</title>
   </programme>
   <programme channel="SporTV.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Final: Cruzeiro x Corinthians Copa Libertadores Feminina Todas as emoções da principal competição entre clubes do futebol feminino da América do Sul.</title>
   </programme>
   <programme channel="TVAntena10.br" start="20261101070000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Santo Culto em Seu Lar Religious O programa aborda um tema específico, discutido sempre em base de um texto bíblico.</title>
+    <title lang="pt-BR">Santo Culto em Seu Lar Religious O programa aborda um tema específico, discutido sempre em base de um texto bíblico. 44 min restantes</title>
   </programme>
   <programme channel="TVBrasil.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Palavras de Vida Religious Vinicius Arouca apresenta a Catequese com o Papa Francisco, direto do Vaticano, a mensagem do Cardeal Arcebispo do Rio, Do</title>
@@ -2460,6 +2463,9 @@
   </programme>
   <programme channel="TVJustica.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Revista Rádio Justiça Jornalismo/Informativo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVJustica.br" start="20261101070000 -0300" stop="20261101080000 -0300">
+    <title lang="pt-BR">Revista Rádio Justiça Jornalismo/Informativo Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101070000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">- JORNAL BOM DIA ASSEMBLEIA - AO VIVO</title>
@@ -2480,7 +2486,7 @@
     <title lang="pt-BR">VT - Goiás x Ponte Preta Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101070000 -0300" stop="20261101090000 -0300">
-    <title lang="pt-BR">VT - Trabzonspor x Gaziantep Esporte/Futebol Publicidade: Descobrir mais Sportscenter Americano Calendário da NFL Canais em Direto Bolas de Futebol V</title>
+    <title lang="pt-BR">VT - Trabzonspor x Gaziantep Esporte/Futebol Publicidade: Descobrir mais Ver Programas TV Calendário da NFL Canais em Direto Bolas de Futebol Futebol</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101070000 -0300" stop="20261101090000 -0300">
     <title lang="pt-BR">VT - West Bromwich x Southampton Esporte/Futebol --&gt; --&gt;</title>
@@ -2498,10 +2504,10 @@
     <title lang="pt-BR">VT - NBB: Flamengo x Franca Esporte/Basquete --&gt; --&gt;</title>
   </programme>
   <programme channel="SporTV2.br" start="20261101070000 -0300" stop="20261101090000 -0300">
-    <title lang="pt-BR">Osasco x Londrina Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.</title>
+    <title lang="pt-BR">Osasco x Londrina Superliga Feminina de Vôlei Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras. 1 hora 37 min res</title>
   </programme>
   <programme channel="SporTV3.br" start="20261101070000 -0300" stop="20261101090000 -0300">
-    <title lang="pt-BR">Programação SporTV3 Acompanhe a programação do canal.</title>
+    <title lang="pt-BR">Programação SporTV3 Acompanhe a programação do canal. 1 hora 36 min restantes</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101070000 -0300" stop="20261101100000 -0300">
     <title lang="pt-BR">Golfe: Abu Dhabi Aldar Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
@@ -2513,7 +2519,7 @@
     <title lang="pt-BR">Golfe: DP World Tour Championship - Ao Vivo Esporte/Golfe --&gt; --&gt;</title>
   </programme>
   <programme channel="JovemPanNews.br" start="20261101070000 -0300" stop="20261101100000 -0300">
-    <title lang="pt-BR">Jornal da Manhã News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 2 horas 54 min restantes</title>
+    <title lang="pt-BR">Jornal da Manhã News O time de comentaristas da Jovem Pan analisa os principais assuntos do dia. 2 horas 29 min restantes</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101070000 -0300" stop="20261101103000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
@@ -2524,26 +2530,23 @@
   <programme channel="InvestigacaoDiscovery.br" start="20261101071200 -0300" stop="20261101075300 -0300">
     <title lang="pt-BR">Luigi Mangione: O Assassino do CEO Special Escritos e postagens nas redes sociais ajudam a revelar a vida de Luigi Mangione, o homem acusado do assas</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261101071500 -0300" stop="20261101073000 -0300">
-    <title lang="pt-BR">Momento ESPN Documentário/Esportivo --&gt; --&gt;</title>
-  </programme>
   <programme channel="BandSports.br" start="20261101071500 -0300" stop="20261101074500 -0300">
     <title lang="pt-BR">The Golf Brasil O programa traz os atletas e o mundo que rodeia o golfe, como o seu círculo de tomadores de decisão, empresários, executivos, empreen</title>
   </programme>
   <programme channel="SexyHot.br" start="20261101071500 -0300" stop="20261101080300 -0300">
-    <title lang="pt-BR">Provando Novos Sabores Adults only / 2022 Uma festa com pegação fica ainda mais gostosa quando começa a rolar o after, com muito sexo.</title>
+    <title lang="pt-BR">Provando Novos Sabores Adults only / 2022 Uma festa com pegação fica ainda mais gostosa quando começa a rolar o after, com muito sexo. 47 min restant</title>
   </programme>
   <programme channel="TNT.br" start="20261101071900 -0300" stop="20261101072800 -0300">
-    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</title>
+    <title lang="pt-BR">Hollywood One on One Talk Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects. 3 min r</title>
   </programme>
   <programme channel="Viva.br" start="20261101072200 -0300" stop="20261101080100 -0300">
-    <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado.</title>
+    <title lang="pt-BR">Tropicaliente Soap Vítor e Ramiro discutem; Gaspar diz a Vítor que ele assinou um contrato muito arriscado. 27 min restantes</title>
   </programme>
   <programme channel="Playboy.br" start="20261101072300 -0300" stop="20261101074800 -0300">
-    <title lang="pt-BR">e-Rotic Temporada 1 Episódio 3 Catalina Cruz transmite um threesome pela webcam. Veja a galeria sensual de Ken Francis.</title>
+    <title lang="pt-BR">e-Rotic Temporada 1 Episódio 3 Catalina Cruz transmite um threesome pela webcam. Veja a galeria sensual de Ken Francis. 14 min restantes</title>
   </programme>
   <programme channel="PlayboyHD.br" start="20261101072300 -0300" stop="20261101074800 -0300">
-    <title lang="pt-BR">e-Rotic Temporada 1 Episódio 3 Catalina Cruz transmite um threesome pela webcam. Veja a galeria sensual de Ken Francis.</title>
+    <title lang="pt-BR">e-Rotic Temporada 1 Episódio 3 Catalina Cruz transmite um threesome pela webcam. Veja a galeria sensual de Ken Francis. 14 min restantes</title>
   </programme>
   <programme channel="TNT.br" start="20261101072800 -0300" stop="20261101092600 -0300">
     <title lang="pt-BR">Miss Simpatia Comedy / 2000 O FBI descobre que terroristas planejam um atentado durante o concurso de Miss Estados Unidos e decide infiltrar a desaje</title>
@@ -2555,7 +2558,7 @@
     <title lang="pt-BR">De Tudo um Pouco House/garden Confira as melhores dicas de jardinagem, artesanato, design, construção, renovação e pintura.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101073000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">Inside Serie A Jornalismo/Esportivo --&gt; --&gt;</title>
+    <title lang="pt-BR">Inside Serie A Jornalismo/Esportivo NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="GloboSP.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Antena Paulista Community O programa de cidadania e serviço aborda os principais acontecimentos do Estado de São Paulo, incluindo o interior. É uma r</title>
@@ -2570,7 +2573,7 @@
     <title lang="pt-BR">VT - Atlético-MG x Cruzeiro Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101073000 -0300" stop="20261101080000 -0300">
-    <title lang="pt-BR">VT - Coritiba x Grêmio Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Coritiba x Grêmio Esporte/Futebol NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">VT - Flamengo x Atlético-MG Esporte/Futebol --&gt; --&gt;</title>
@@ -2593,6 +2596,9 @@
   <programme channel="TVJustica.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Interlocução Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
+  <programme channel="TVJustica.br" start="20261101073000 -0300" stop="20261101080000 -0300">
+    <title lang="pt-BR">Interlocução Variedades/Entrevista NO AR --&gt; --&gt;</title>
+  </programme>
   <programme channel="TVSenado.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Agenda Econômica Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
@@ -2610,6 +2616,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Super Libris Séries/Cultural --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261101073000 -0300" stop="20261101080000 -0300">
+    <title lang="pt-BR">Super Libris Séries/Cultural NO AR --&gt; --&gt;</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261101073000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Carona do Ted Adults only Se tudo pode acontecer entre quatro paredes, também pode sobre quatro rodas. Seguindo a onda das startups de mobilidade urb</title>
@@ -2642,7 +2651,7 @@
     <title lang="pt-BR">NWSL Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101073000 -0300" stop="20261101100000 -0300">
-    <title lang="pt-BR">VT - NFL: Kansas City Chiefs x Denver Broncos Esporte/Futebol Americano --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - NFL: Kansas City Chiefs x Denver Broncos Esporte/Futebol Americano Ver Jogos da NFL --&gt; --&gt;</title>
   </programme>
   <programme channel="RedeGloboTeresina.br" start="20261101074000 -0300" stop="20261101080000 -0300">
     <title lang="pt-BR">Clube Rural News O agronegócio apresenta números que impressionam no Piauí e exige um canal de comunicação direcionado ao setor. Pequenos e grandes e</title>
@@ -3038,7 +3047,7 @@
     <title lang="pt-BR">ATP Masters 1000: Paris - Ao Vivo Esporte/Tênis --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101090000 -0300" stop="20261101100000 -0300">
-    <title lang="pt-BR">ATP Masters 1000: Paris - Ao Vivo Esporte/Tênis Publicidade: Descobrir mais Bolas de Futebol Sportscenter Ver Programas TV Bilhetes jogos NFL Futebol</title>
+    <title lang="pt-BR">ATP Masters 1000: Paris - Ao Vivo Esporte/Tênis Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101090000 -0300" stop="20261101100000 -0300">
     <title lang="pt-BR">US Open Review Show Esporte/Tênis --&gt; --&gt;</title>
@@ -3215,7 +3224,7 @@
     <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101093000 -0300" stop="20261101100000 -0300">
-    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol Publicidade: Descobrir mais Treinos Desporto Esporte Esportivo (adsbygoogle = window.adsbygoogle || []).p</title>
+    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101093000 -0300" stop="20261101100000 -0300">
     <title lang="pt-BR">VT - Cruzeiro x Remo Esporte/Futebol --&gt; --&gt;</title>
@@ -3240,9 +3249,6 @@
   </programme>
   <programme channel="TVSenado.br" start="20261101093000 -0300" stop="20261101100000 -0300">
     <title lang="pt-BR">Que Brasil é Este? Variedades/Entrevista --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261101093000 -0300" stop="20261101100000 -0300">
-    <title lang="pt-BR">Que Brasil é Este? Variedades/Entrevista Publicidade: Descobrir mais Destaques programação TV Aplicativo guia TV Notícias TV (adsbygoogle = window.ad</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101093000 -0300" stop="20261101100000 -0300">
     <title lang="pt-BR">- CINE KIDS</title>
@@ -3276,6 +3282,9 @@
   </programme>
   <programme channel="ESPN4.br" start="20261101094500 -0300" stop="20261101110000 -0300">
     <title lang="pt-BR">Moto 3: GP do Catar - Ao Vivo Esporte/Motociclismo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101094500 -0300" stop="20261101110000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101094500 -0300" stop="20261101110000 -0300">
     <title lang="pt-BR">Mundial de Motovelocidade: GP do Catar: Moto 2 Esporte/Motociclismo --&gt; --&gt;</title>
@@ -3311,7 +3320,7 @@
     <title lang="pt-BR">Show da Rodada do Italiano Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101100000 -0300" stop="20261101103000 -0300">
-    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Atlético-MG x Coritiba Esporte/Futebol Publicidade: Descobrir mais Jogos do Flamengo Jogos do Santos Corinthians x Vitória (adsbygoogle = window</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101100000 -0300" stop="20261101103000 -0300">
     <title lang="pt-BR">VT - Coritiba x Grêmio Esporte/Futebol --&gt; --&gt;</title>
@@ -3381,6 +3390,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261101100000 -0300" stop="20261101110000 -0300">
     <title lang="pt-BR">Concertos em Geral Variedades/Espetáculo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261101100000 -0300" stop="20261101110000 -0300">
+    <title lang="pt-BR">Concertos em Geral Variedades/Espetáculo Publicidade: Descobrir mais Filmes Explorar Filmes Ver Programas TV (adsbygoogle = window.adsbygoogle || [])</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261101100000 -0300" stop="20261101113000 -0300">
     <title lang="pt-BR">Acampamento - A Cura dos Traumas da Morte Religious</title>
@@ -3595,6 +3607,9 @@
   <programme channel="ESPN3.br" start="20261101105000 -0300" stop="20261101130000 -0300">
     <title lang="pt-BR">Ipswich x Bournemouth - Ao Vivo Esporte/Futebol --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261101105000 -0300" stop="20261101130000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="Space.br" start="20261101105300 -0300" stop="20261101113900 -0300">
     <title lang="pt-BR">CSI Investigação Criminal Temporada 15 Episódio 3 - Bad Blood Quando o cenário de um crime se mostra contaminado com um patógeno mortal, o Centro de</title>
   </programme>
@@ -3691,6 +3706,9 @@
   <programme channel="ESPN4.br" start="20261101110000 -0300" stop="20261101121500 -0300">
     <title lang="pt-BR">Moto 2: GP do Catar - Ao Vivo Esporte/Motociclismo --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261101110000 -0300" stop="20261101121500 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN5.br" start="20261101110000 -0300" stop="20261101121500 -0300">
     <title lang="pt-BR">Mundial de Motovelocidade: GP da Malásia: Moto 3 Esporte/Motociclismo --&gt; --&gt;</title>
   </programme>
@@ -3714,6 +3732,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261101110000 -0300" stop="20261101130000 -0300">
     <title lang="pt-BR">ATP Masters 1000: Paris: Final - Ao Vivo Esporte/Tênis --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261101110000 -0300" stop="20261101130000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101110000 -0300" stop="20261101130000 -0300">
     <title lang="pt-BR">VT - NBB: Flamengo x Franca Esporte/Basquete --&gt; --&gt;</title>
@@ -3816,9 +3837,6 @@
   </programme>
   <programme channel="TVJustica.br" start="20261101113000 -0300" stop="20261101120000 -0300">
     <title lang="pt-BR">Direito sem Fronteiras Variedades/Diversos --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVJustica.br" start="20261101113000 -0300" stop="20261101120000 -0300">
-    <title lang="pt-BR">Direito sem Fronteiras Variedades/Diversos Publicidade: Descobrir mais Rádio Justiça Ouvir Rádio Apoio em Tribunal (adsbygoogle = window.adsbygoogle</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101113000 -0300" stop="20261101120000 -0300">
     <title lang="pt-BR">Diálogos com TCU Variedades/Debate --&gt; --&gt;</title>
@@ -3931,6 +3949,9 @@
   <programme channel="TVJustica.br" start="20261101120000 -0300" stop="20261101123000 -0300">
     <title lang="pt-BR">Como Funciona Aí? Variedades/Diversos --&gt; --&gt;</title>
   </programme>
+  <programme channel="TVJustica.br" start="20261101120000 -0300" stop="20261101123000 -0300">
+    <title lang="pt-BR">Como Funciona Aí? Variedades/Diversos Publicidade: Descobrir mais Ouvir Rádio Rádio Justiça Apoio em Tribunal (adsbygoogle = window.adsbygoogle || []</title>
+  </programme>
   <programme channel="TVSenado.br" start="20261101120000 -0300" stop="20261101123000 -0300">
     <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
@@ -3971,7 +3992,7 @@
     <title lang="pt-BR">Etapa de Chapecó, SC Copa Truck Todas as emoções da competição nacional de velocidade que envolve caminhões preparados para corrida.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101120000 -0300" stop="20261101133000 -0300">
-    <title lang="pt-BR">Maratona de Nova Iorque (EUA) - Ao Vivo Esporte/Diversos Publicidade: Descobrir mais Notícias Desporto Canais em Direto Bolas de Futebol (adsbygoogle</title>
+    <title lang="pt-BR">Maratona de Nova Iorque (EUA) - Ao Vivo Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="SextremeBrazil.br" start="20261101120000 -0300" stop="20261101133000 -0300">
     <title lang="pt-BR">Gostosas P...s A...s Adults only De roubar o namorado da amiga até dar uma lição nos namorados sem graça, essas beldades de seios fartos usam todos o</title>
@@ -4035,6 +4056,9 @@
   </programme>
   <programme channel="ESPN4.br" start="20261101121500 -0300" stop="20261101140000 -0300">
     <title lang="pt-BR">MotoGP: GP do Catar - Ao Vivo Esporte/Motociclismo --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101121500 -0300" stop="20261101140000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="Viva.br" start="20261101121600 -0300" stop="20261101130100 -0300">
     <title lang="pt-BR">Rock Story Soap Néia implora a Zac para não contar tudo a Gui. Néia conta a Ramon sobre o roubo do CD de Gui. Ramon e Néia deixam o HD com as músicas</title>
@@ -4214,9 +4238,6 @@
     <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101130000 -0300" stop="20261101133000 -0300">
-    <title lang="pt-BR">VT - Mirassol x Internacional Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
-  </programme>
-  <programme channel="PremiereClubes.br" start="20261101130000 -0300" stop="20261101133000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vasco Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="RedeTV.br" start="20261101130000 -0300" stop="20261101133000 -0300">
@@ -4331,7 +4352,7 @@
     <title lang="pt-BR">Momento ESPN Documentário/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101133000 -0300" stop="20261101135000 -0300">
-    <title lang="pt-BR">Vem Aí ATP Masters 1000 Paris Esporte/Tênis Publicidade: Descobrir mais Sportscenter Notícias Desporto Ver Programas TV (adsbygoogle = window.adsbygo</title>
+    <title lang="pt-BR">Vem Aí ATP Masters 1000 Paris Esporte/Tênis Publicidade: Descobrir mais Transmissão de desporto Programação desportiva Transmissões desportivas (adsb</title>
   </programme>
   <programme channel="Cancaonova.br" start="20261101133000 -0300" stop="20261101140000 -0300">
     <title lang="pt-BR">Preservação Ambiental Religious Com uma abordagem séria e comprometida, Marcelo Chaves promove a educação ambiental e a divulgação da fauna e flora b</title>
@@ -4347,6 +4368,9 @@
   </programme>
   <programme channel="PremiereClubes.br" start="20261101133000 -0300" stop="20261101140000 -0300">
     <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol --&gt; --&gt;</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261101133000 -0300" stop="20261101140000 -0300">
+    <title lang="pt-BR">VT - Botafogo x Chapecoense Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101133000 -0300" stop="20261101140000 -0300">
     <title lang="pt-BR">VT - Fluminense x Internacional Esporte/Futebol --&gt; --&gt;</title>
@@ -4439,7 +4463,7 @@
     <title lang="pt-BR">Bino e Fino Temporada 1 Episódio 8 - Para Onde Foi a Minha Poça? Bino e Fino aprendem o ciclo da água.</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101134500 -0300" stop="20261101150000 -0300">
-    <title lang="pt-BR">Nascar Brasil: Etapa de Chapecó - Ao Vivo Esporte/Automobilismo --&gt; --&gt;</title>
+    <title lang="pt-BR">Nascar Brasil: Etapa de Chapecó - Ao Vivo Esporte/Automobilismo Publicidade: Descobrir mais Notícias Desporto Canais em Direto Bolas de Futebol (adsb</title>
   </programme>
   <programme channel="BandSports.br" start="20261101134500 -0300" stop="20261101154500 -0300">
     <title lang="pt-BR">Lokomotiv Moscou x Spartak Moscou Campeonato Russo Acompanhe as emoções da elite do futebol masculino da Rússia.</title>
@@ -4643,7 +4667,7 @@
     <title lang="pt-BR">Sportscenter Abre o Jogo: NFL - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101143000 -0300" stop="20261101150000 -0300">
-    <title lang="pt-BR">Sportscenter Abre o Jogo: NFL - Ao Vivo Jornalismo/Esportivo Publicidade: Descobrir mais Esporte Notícias Desporto Canais em Direto (adsbygoogle = wi</title>
+    <title lang="pt-BR">Sportscenter Abre o Jogo: NFL - Ao Vivo Jornalismo/Esportivo Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101143000 -0300" stop="20261101150000 -0300">
     <title lang="pt-BR">Clássicos ESPN Esporte/Diversos --&gt; --&gt;</title>
@@ -4727,7 +4751,7 @@
     <title lang="pt-BR">A Ninfomaníaca Precisa de um Grande P.. Preto Adults only / 2025 A luxúria desenfreada de quatro beldades em uma missão para saciar o desejo por um g</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101143000 -0300" stop="20261101163000 -0300">
-    <title lang="pt-BR">VT - ATP 500: Basileia: Final Esporte/Tênis Masculino Publicidade: Descobrir mais Esporte Sport Ver Jogos da NFL Futebol Bolas de Futebol Notícias fu</title>
+    <title lang="pt-BR">VT - ATP 500: Basileia: Final Esporte/Tênis Masculino Publicidade: Descobrir mais Futebol Notícias futebol Notícias Desporto Canais em Direto Futebol</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101143000 -0300" stop="20261101163000 -0300">
     <title lang="pt-BR">VT - Novorizontino x Fortaleza Esporte/Futebol --&gt; --&gt;</title>
@@ -4816,6 +4840,9 @@
   <programme channel="ESPN4.br" start="20261101150000 -0300" stop="20261101160000 -0300">
     <title lang="pt-BR">NFL Redzone - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261101150000 -0300" stop="20261101160000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="JovemPanNews.br" start="20261101150000 -0300" stop="20261101160000 -0300">
     <title lang="pt-BR">Papo de Setorista News Grandes atletas discutem as principais notícias e tendências do mundo dos esportes.</title>
   </programme>
@@ -4873,6 +4900,9 @@
   <programme channel="ESPN2.br" start="20261101150000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">NFL: Minnesota Vikings x Detroit Lions - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN2.br" start="20261101150000 -0300" stop="20261101180000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="Premiere2.br" start="20261101150000 -0300" stop="20261101183000 -0300">
     <title lang="pt-BR">Charla no Premiere: Palmeiras x Vasco Copa do Brasil Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculi</title>
   </programme>
@@ -4901,7 +4931,7 @@
     <title lang="pt-BR">Belíssima Soap Vitória encontra uma meia de mulher na cama de Pascoal e faz um escândalo; Katina garante a Mônica que Cemil nunca a traiu; André conv</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101153000 -0300" stop="20261101154500 -0300">
-    <title lang="pt-BR">Momento ESPN Documentário/Esportivo Publicidade: Descobrir mais Ver Jogos Basebol Guia programação TV Basquete (adsbygoogle = window.adsbygoogle || [</title>
+    <title lang="pt-BR">Momento ESPN Documentário/Esportivo Publicidade: Descobrir mais Transmissão jogos desportivos Notícias desportivas Documentários desportivos (adsbygo</title>
   </programme>
   <programme channel="GloboSP.br" start="20261101153000 -0300" stop="20261101154500 -0300">
     <title lang="pt-BR">Bora Pro Jogo Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas.</title>
@@ -5110,6 +5140,9 @@
   <programme channel="ESPN4.br" start="20261101160000 -0300" stop="20261101170000 -0300">
     <title lang="pt-BR">NFL Redzone - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261101160000 -0300" stop="20261101170000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="SporTV3.br" start="20261101160000 -0300" stop="20261101170000 -0300">
     <title lang="pt-BR">Aquecimento SporTV As últimas informações e os preparativos para os principais eventos esportivos no Brasil e no mundo.</title>
   </programme>
@@ -5135,13 +5168,16 @@
     <title lang="pt-BR">ATP Challenger 125: Costa do Sauipe: Final - Ao Vivo Esporte/Tênis --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101160000 -0300" stop="20261101180000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261101160000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">VT - Basquete Universitário: Michigan State x Duke Esporte/Basquete --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101160000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">VT - Goiás x Ponte Preta Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101160000 -0300" stop="20261101180000 -0300">
-    <title lang="pt-BR">VT - Juventus x Napoli Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Juventus x Napoli Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101160000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">VT - Rugby Nations Championship: Irlanda x Argentina Esporte/Rugby --&gt; --&gt;</title>
@@ -5340,6 +5376,9 @@
   </programme>
   <programme channel="ESPN4.br" start="20261101170000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">NFL Redzone - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101170000 -0300" stop="20261101180000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101170000 -0300" stop="20261101180000 -0300">
     <title lang="pt-BR">Resenha: Luan Jornalismo/Esportivo --&gt; --&gt;</title>
@@ -5602,6 +5641,9 @@
   <programme channel="ESPN4.br" start="20261101180000 -0300" stop="20261101190000 -0300">
     <title lang="pt-BR">NFL Redzone - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN4.br" start="20261101180000 -0300" stop="20261101190000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN5.br" start="20261101180000 -0300" stop="20261101190000 -0300">
     <title lang="pt-BR">Bola da Vez: Damián Bobadilla Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
@@ -5667,6 +5709,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261101180000 -0300" stop="20261101210000 -0300">
     <title lang="pt-BR">NFL: Las Vegas Raiders x San Francisco 49ers - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261101180000 -0300" stop="20261101210000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101180000 -0300" stop="20261101210000 -0300">
     <title lang="pt-BR">Nascar O'Reilly Auto Parts: GP de Homestead-Miami - Ao Vivo Esporte/Automobilismo --&gt; --&gt;</title>
@@ -5870,9 +5915,6 @@
     <title lang="pt-BR">Leituras Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101190000 -0300" stop="20261101193000 -0300">
-    <title lang="pt-BR">Leituras Variedades/Entrevista Publicidade: Descobrir mais Canais em Direto Notícias Políticas Seguir Debates Ver Guia TV Canais TV Guia programação</title>
-  </programme>
-  <programme channel="TVSenado.br" start="20261101190000 -0300" stop="20261101193000 -0300">
     <title lang="pt-BR">Parlamento Brasil Jornalismo/Informativo --&gt; --&gt;</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261101190000 -0300" stop="20261101193000 -0300">
@@ -5937,6 +5979,9 @@
   </programme>
   <programme channel="ESPN4.br" start="20261101190000 -0300" stop="20261101213000 -0300">
     <title lang="pt-BR">NFL Redzone - Ao Vivo Esporte/Futebol Americano --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101190000 -0300" stop="20261101213000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101190000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">Campeonato Brasileiro de Futebol Esporte/Diversos --&gt; --&gt;</title>
@@ -6051,6 +6096,9 @@
   </programme>
   <programme channel="TVSenado.br" start="20261101193000 -0300" stop="20261101203000 -0300">
     <title lang="pt-BR">Estúdio A Séries/Musical --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVSenado.br" start="20261101193000 -0300" stop="20261101203000 -0300">
+    <title lang="pt-BR">Estúdio A Séries/Musical Publicidade: Descobrir mais Programação documentários Discovery Destaques programação TV Aplicativo guia TV Notícias TV List</title>
   </programme>
   <programme channel="TVSenado.br" start="20261101193000 -0300" stop="20261101203000 -0300">
     <title lang="pt-BR">Estúdio A Variedades/Diversos --&gt; --&gt;</title>
@@ -6211,11 +6259,14 @@
   <programme channel="ESPN3.br" start="20261101200000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">Monday Night Countdown - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
+  <programme channel="ESPN3.br" start="20261101200000 -0300" stop="20261101220000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos --&gt; --&gt;</title>
+  </programme>
   <programme channel="ESPN4.br" start="20261101200000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">VT - Tottenham Hotspur x Crystal Palace Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101200000 -0300" stop="20261101220000 -0300">
-    <title lang="pt-BR">VT - Udinese x Roma Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Udinese x Roma Esporte/Futebol Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101200000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">Monday Night Countdown - Ao Vivo Jornalismo/Esportivo --&gt; --&gt;</title>
@@ -6288,9 +6339,6 @@
   </programme>
   <programme channel="TVJustica.br" start="20261101203000 -0300" stop="20261101210000 -0300">
     <title lang="pt-BR">Repórter Eco Séries/Documentário --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVJustica.br" start="20261101203000 -0300" stop="20261101210000 -0300">
-    <title lang="pt-BR">Repórter Eco Séries/Documentário Publicidade: Descobrir mais Apoio Jurídico Aprender Ética Ler Filosofia Canais em Direto Legal Direitos Laborais Cur</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101203000 -0300" stop="20261101210000 -0300">
     <title lang="pt-BR">Saber Direito - Aula Séries/Educativo --&gt; --&gt;</title>
@@ -6439,6 +6487,9 @@
   <programme channel="TVJustica.br" start="20261101210000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">Arena dos Saberes Variedades/Entrevista --&gt; --&gt;</title>
   </programme>
+  <programme channel="TVJustica.br" start="20261101210000 -0300" stop="20261101220000 -0300">
+    <title lang="pt-BR">Arena dos Saberes Variedades/Entrevista Publicidade: Descobrir mais Canais TV paga Programação filmes HBO Programação documentários Discovery Canais</title>
+  </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101210000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">- SARAU 17.1</title>
   </programme>
@@ -6494,7 +6545,7 @@
     <title lang="pt-BR">NHL: Tampa Bay Lightning x Buffalo Sabres - Ao Vivo Esporte/Hóquei --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101210000 -0300" stop="20261101233000 -0300">
-    <title lang="pt-BR">NBA: Oklahoma City Thunder x Cleveland Cavaliers - Ao Vivo Esporte/Basquete --&gt; --&gt;</title>
+    <title lang="pt-BR">NBA: Oklahoma City Thunder x Cleveland Cavaliers - Ao Vivo Esporte/Basquete Canais TV --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101210000 -0300" stop="20261101233000 -0300">
     <title lang="pt-BR">NBA: Washington Wizards x Detroit Pistons - Ao Vivo Esporte/Basquete --&gt; --&gt;</title>
@@ -6596,7 +6647,7 @@
     <title lang="pt-BR">Show da Rodada do Italiano Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101213000 -0300" stop="20261101220000 -0300">
-    <title lang="pt-BR">Show da Rodada da Premier League Jornalismo/Esportivo Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
+    <title lang="pt-BR">Show da Rodada da Premier League Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101213000 -0300" stop="20261101220000 -0300">
     <title lang="pt-BR">UEFA Nations League Preview Esporte/Futebol --&gt; --&gt;</title>
@@ -6627,9 +6678,6 @@
   </programme>
   <programme channel="ESPN2.br" start="20261101213000 -0300" stop="20261101223000 -0300">
     <title lang="pt-BR">ESPN League - Ao Vivo Esporte/Diversos --&gt; --&gt;</title>
-  </programme>
-  <programme channel="ESPN2.br" start="20261101213000 -0300" stop="20261101223000 -0300">
-    <title lang="pt-BR">Programação ESPN Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||functio</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101213000 -0300" stop="20261101223000 -0300">
     <title lang="pt-BR">ESPN FIlmes: Saban Documentário/Esportivo --&gt; --&gt;</title>
@@ -6669,6 +6717,9 @@
   </programme>
   <programme channel="ESPN2.br" start="20261101213000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">NHL: Edmonton Oilers x New Jersey Devils - Ao Vivo Esporte/Hóquei quarta-feira, 4/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN2.br" start="20261101213000 -0300" stop="20261102000000 -0300">
+    <title lang="pt-BR">Programação ESPN Esporte/Diversos domingo, 15/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101213000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Nascar Truck Series: GP de Homestead-Miami - Ao Vivo Esporte/Automobilismo sábado, 7/11 --&gt; --&gt;</title>
@@ -6760,14 +6811,23 @@
   <programme channel="ESPN.br" start="20261101220000 -0300" stop="20261101230000 -0300">
     <title lang="pt-BR">SportsCenter Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião</title>
   </programme>
+  <programme channel="ESPN2.br" start="20261101220000 -0300" stop="20261101230000 -0300">
+    <title lang="pt-BR">VT - Crystal Palace x Liverpool Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]</title>
+  </programme>
   <programme channel="ESPN3.br" start="20261101220000 -0300" stop="20261101230000 -0300">
-    <title lang="pt-BR">Golfe: Asia-Pacific Amateur Championship: Segunda Rodada - Ao Vivo Esporte/Golfe meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){</title>
+    <title lang="pt-BR">VT - Nascar O'Reilly Auto Parts: GP de Homestead-Miami Esporte/Automobilismo meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['G</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101220000 -0300" stop="20261101230000 -0300">
+    <title lang="pt-BR">VT - Manchester United x Aston Villa Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r</title>
   </programme>
   <programme channel="Premiere3.br" start="20261101220000 -0300" stop="20261101230000 -0300">
-    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 3 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="Premiere7.br" start="20261101220000 -0300" stop="20261101230000 -0300">
-    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 7 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
+  </programme>
+  <programme channel="PremiereClubes.br" start="20261101220000 -0300" stop="20261101230000 -0300">
+    <title lang="pt-BR">Campeonato Brasileiro de Futebol Esporte/Diversos meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101220000 -0300" stop="20261101230000 -0300">
     <title lang="pt-BR">Jazz Sinfônica Brasil Espetáculo/Musical --&gt; --&gt;</title>
@@ -6821,13 +6881,16 @@
     <title lang="pt-BR">Futebol Americano Universitário: Memphis x South Florida - Ao Vivo Esporte/Futebol Americano sexta-feira, 13/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN3.br" start="20261101220000 -0300" stop="20261102010000 -0300">
+    <title lang="pt-BR">Golfe: Asia-Pacific Amateur Championship: Segunda Rodada - Ao Vivo Esporte/Golfe domingo, 15/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN3.br" start="20261101220000 -0300" stop="20261102010000 -0300">
     <title lang="pt-BR">VT - ESPN KnockOut: Joshua Buatsi x Willy Hutchinson Esporte/Boxe terça-feira, 10/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101220000 -0300" stop="20261102010000 -0300">
     <title lang="pt-BR">ESPN Knockout: Camila Zamorano x Brenda Balderas - Ao Vivo Esporte/Boxe sexta-feira, 13/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101220000 -0300" stop="20261102010000 -0300">
-    <title lang="pt-BR">VT - ESPN KnockOut: Eveling Ortega x Alma Meraz Esporte/Boxe terça-feira, 3/11 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - ESPN KnockOut: Eveling Ortega x Alma Meraz Esporte/Boxe Transmissão jogos desportivos terça-feira, 3/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="tv.assembleia.piaui.br" start="20261101220000 -0300" stop="20261102060000 -0300">
     <title lang="pt-BR">ÁS</title>
@@ -6845,7 +6908,7 @@
     <title lang="pt-BR">Giro Da Rodada - Brasileirão - 31ª Rodada Jornalismo/Esportivo --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101221000 -0300" stop="20261101224000 -0300">
-    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol Publicidade: Descobrir mais Jogos do Athletico-PR Notícias Desporto Ver em Streaming Jogos do Mirassol Jo</title>
+    <title lang="pt-BR">VT - Grêmio x Internacional Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101221000 -0300" stop="20261101224000 -0300">
     <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
@@ -6926,7 +6989,7 @@
     <title lang="pt-BR">Roland Garros 2026: Tournament Review Esporte/Tênis --&gt; --&gt;</title>
   </programme>
   <programme channel="Premiere6.br" start="20261101223000 -0300" stop="20261101233000 -0300">
-    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. Sobre mi.tv A mi.tv é um guia de TV inteligente, com mais de 200 canais de programação, personalizáv</title>
+    <title lang="pt-BR">Premiere 6 Acompanhe a programação pay-per-view. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1570786605020-0'); }); Sobre mi.tv A m</title>
   </programme>
   <programme channel="RedeTV.br" start="20261101223000 -0300" stop="20261101233000 -0300">
     <title lang="pt-BR">Amor em Risco Reality O programa acompanha histórias reais em um processo de descobertas que pode terminar em reconciliação ou na decisão de seguir c</title>
@@ -6995,7 +7058,7 @@
     <title lang="pt-BR">VT - Flamengo x Fluminense Esporte/Futebol --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101224000 -0300" stop="20261101231000 -0300">
-    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Palmeiras x Corinthians Esporte/Futebol Publicidade: Descobrir mais Treinos Desporto Esporte Esportivo Jogos do Athletico-PR Notícias Desporto V</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101224000 -0300" stop="20261101231000 -0300">
     <title lang="pt-BR">VT - São Paulo x Vitória Esporte/Futebol --&gt; --&gt;</title>
@@ -7028,9 +7091,6 @@
     <title lang="pt-BR">Trabalho Legal Variedades/Diversos --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101230000 -0300" stop="20261101233000 -0300">
-    <title lang="pt-BR">Trabalho Legal Variedades/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVJustica.br" start="20261101230000 -0300" stop="20261101233000 -0300">
     <title lang="pt-BR">Via Justiça Variedades/Debate --&gt; --&gt;</title>
   </programme>
   <programme channel="Band.br" start="20261101230000 -0300" stop="20261102000000 -0300">
@@ -7047,9 +7107,6 @@
   </programme>
   <programme channel="ESPN4.br" start="20261101230000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Especial Rally dos Sertões: Cada Qual No Seu Tempo Documentário/Esportivo quinta-feira, 12/11 --&gt; --&gt;</title>
-  </programme>
-  <programme channel="ESPN5.br" start="20261101230000 -0300" stop="20261102000000 -0300">
-    <title lang="pt-BR">VT - NFL: Dallas Cowboys x Philadelphia Eagles Esporte/Futebol Americano meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['Googl</title>
   </programme>
   <programme channel="MeioNorte.br" start="20261101230000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Café com Leite Interview Carlos Leite recebe convidados para conversar a respeito de assuntos de interesse geral.</title>
@@ -7083,6 +7140,9 @@
   </programme>
   <programme channel="ESPN5.br" start="20261101230000 -0300" stop="20261102003000 -0300">
     <title lang="pt-BR">Mundo F Jornalismo/Esportivo sexta-feira, 13/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="ESPN5.br" start="20261101230000 -0300" stop="20261102003000 -0300">
+    <title lang="pt-BR">VT - NFL: Dallas Cowboys x Philadelphia Eagles Esporte/Futebol Americano domingo, 15/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="sexprive-brasileirinhas.br" start="20261101230000 -0300" stop="20261102003000 -0300">
     <title lang="pt-BR">DPravação Adults only / 2017 Uma mulher está prestes a realizar uma antiga fantasia: ir para cama com dois companheiros. A experiência é boa para tod</title>
@@ -7181,6 +7241,9 @@
     <title lang="pt-BR">VT - Santos x Palmeiras Esporte/Futebol sexta-feira, 6/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101233000 -0300" stop="20261102000000 -0300">
+    <title lang="pt-BR">Evento Variedades/Diversos Publicidade: (adsbygoogle = window.adsbygoogle || []).push({}); terça-feira, 3/11 --&gt; --&gt;</title>
+  </programme>
+  <programme channel="TVJustica.br" start="20261101233000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Evento Variedades/Diversos quarta-feira, 11/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="TVJustica.br" start="20261101233000 -0300" stop="20261102000000 -0300">
@@ -7206,9 +7269,6 @@
   </programme>
   <programme channel="TVJustica.br" start="20261101233000 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Evento Variedades/Diversos terça-feira, 10/11 --&gt; --&gt;</title>
-  </programme>
-  <programme channel="TVJustica.br" start="20261101233000 -0300" stop="20261102000000 -0300">
-    <title lang="pt-BR">Evento Variedades/Diversos terça-feira, 3/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="RedeTV.br" start="20261101233000 -0300" stop="20261102001500 -0300">
     <title lang="pt-BR">O Melhor de Tudo Romantic comedy O médico He Su Ye trata a gerente de hotel Shen Xi Fan. Marcados por relacionamentos passados, eles aos poucos baixa</title>
@@ -7252,9 +7312,6 @@
   <programme channel="ESPN2.br" start="20261101233000 -0300" stop="20261102020000 -0300">
     <title lang="pt-BR">NHL: Nashville Predators x Colorado Avalanche - Ao Vivo Esporte/Hóquei sexta-feira, 6/11 --&gt; --&gt;</title>
   </programme>
-  <programme channel="ESPN4.br" start="20261101233500 -0300" stop="20261102003500 -0300">
-    <title lang="pt-BR">MotoGP: GP da Malásia: Treinos Livres - Ao Vivo Esporte/Motociclismo meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAna</title>
-  </programme>
   <programme channel="GloboSP.br" start="20261101233500 -0300" stop="20261102012500 -0300">
     <title lang="pt-BR">Creed II Drama / 2018 / 7.2 Adonis enfrenta o maior desafio de sua vida: um inimigo que está ligado ao passado de sua família. Ao lado de Rocky Balbo</title>
   </programme>
@@ -7266,6 +7323,9 @@
   </programme>
   <programme channel="TVClube.br" start="20261101233500 -0300" stop="20261102012500 -0300">
     <title lang="pt-BR">Creed II Drama / 2018 / 7.2 Adonis enfrenta o maior desafio de sua vida: um inimigo que está ligado ao passado de sua família. Ao lado de Rocky Balbo</title>
+  </programme>
+  <programme channel="ESPN4.br" start="20261101233500 -0300" stop="20261102013000 -0300">
+    <title lang="pt-BR">MotoGP: GP da Malásia: Treinos Livres - Ao Vivo Esporte/Motociclismo domingo, 15/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN2.br" start="20261101233500 -0300" stop="20261102020500 -0300">
     <title lang="pt-BR">NBA: Dallas Mavericks x San Antonio Spurs - Ao Vivo Esporte/Basquete quinta-feira, 5/11 --&gt; --&gt;</title>
@@ -7310,16 +7370,19 @@
     <title lang="pt-BR">VT - Internacional x Botafogo Esporte/Futebol sábado, 7/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="PremiereClubes.br" start="20261101234000 -0300" stop="20261102001000 -0300">
-    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol domingo, 8/11 --&gt; --&gt;</title>
+    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol domingo, 15/11 --&gt; --&gt;</title>
   </programme>
-  <programme channel="PremiereClubes.br" start="20261101234000 -0300" stop="20261102004000 -0300">
-    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||funct</title>
+  <programme channel="PremiereClubes.br" start="20261101234000 -0300" stop="20261102001000 -0300">
+    <title lang="pt-BR">VT - Santos x Bahia Esporte/Futebol domingo, 8/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="ESPN5.br" start="20261101234500 -0300" stop="20261102000000 -0300">
     <title lang="pt-BR">Momento ESPN Documentário/Esportivo segunda-feira, 9/11 --&gt; --&gt;</title>
   </programme>
   <programme channel="InvestigacaoDiscovery.br" start="20261101234500 -0300" stop="20261102002900 -0300">
     <title lang="pt-BR">Michael Jackson: A Faking It Special Special Michael Jackson enfrenta graves acusações de abuso infantil há anos. Usando imagens de entrevistas e dec</title>
+  </programme>
+  <programme channel="ESPN5.br" start="20261101234500 -0300" stop="20261102004500 -0300">
+    <title lang="pt-BR">Momento ESPN Documentário/Esportivo meuguia.TV 5.1.0 - Política de Privacidade (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||funct</title>
   </programme>
   <programme channel="ESPN4.br" start="20261101234500 -0300" stop="20261102010000 -0300">
     <title lang="pt-BR">Moto 2: GP da Malásia Esporte/Motociclismo segunda-feira, 2/11 --&gt; --&gt;</title>
