@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:20:16.645571-03:00",
+  "generated_at": "2026-11-02T20:44:46.011262-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 50
   },
   "programs": {
-    "total": 2388,
+    "total": 2387,
     "by_source": {
-      "fallback": 2388
+      "fallback": 2387
     },
     "by_channel": {
       "Band.br": 17,
@@ -111,7 +111,7 @@
       "TVCidadeVerde.br": 18,
       "TVClube.br": 22,
       "TVCultura.br": 69,
-      "TVJustica.br": 151,
+      "TVJustica.br": 150,
       "TVSenado.br": 157,
       "VenusTV.br": 16,
       "Viva.br": 30,
@@ -2383,7 +2383,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2416,7 +2416,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
