@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:35:43.927113-03:00",
+  "generated_at": "2026-11-06T21:53:34.702694-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 50
   },
   "programs": {
-    "total": 2442,
+    "total": 2430,
     "by_source": {
-      "fallback": 2442
+      "fallback": 2430
     },
     "by_channel": {
       "Band.br": 19,
@@ -74,10 +74,10 @@
       "Cancaonova.br": 40,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 18,
-      "ESPN2.br": 183,
-      "ESPN3.br": 198,
-      "ESPN4.br": 236,
-      "ESPN5.br": 203,
+      "ESPN2.br": 180,
+      "ESPN3.br": 197,
+      "ESPN4.br": 232,
+      "ESPN5.br": 201,
       "GloboNews.br": 13,
       "GloboSP.br": 26,
       "InvestigacaoDiscovery.br": 38,
@@ -92,7 +92,7 @@
       "Premiere4.br": 3,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 225,
+      "PremiereClubes.br": 224,
       "RecordTV.br": 26,
       "RedeGloboTeresina.br": 25,
       "RedeTV.br": 20,
@@ -112,7 +112,7 @@
       "TVClube.br": 25,
       "TVCultura.br": 65,
       "TVJustica.br": 151,
-      "TVSenado.br": 150,
+      "TVSenado.br": 149,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 36,
@@ -2053,7 +2053,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 183,
+      "programs": 180,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2086,7 +2086,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 183,
+      "programs": 180,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2119,7 +2119,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2152,7 +2152,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2185,7 +2185,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 236,
+      "programs": 232,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2218,7 +2218,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 236,
+      "programs": 232,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2251,7 +2251,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 203,
+      "programs": 201,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2284,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 203,
+      "programs": 201,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2317,7 +2317,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 225,
+      "programs": 224,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2350,7 +2350,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 225,
+      "programs": 224,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2449,7 +2449,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 149,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2482,7 +2482,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 149,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
