@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:03:27.773037-03:00",
+  "generated_at": "2026-11-08T21:36:48.738617-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,24 +59,25 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 49
+    "with_programs": 50
   },
   "programs": {
-    "total": 2161,
+    "total": 2222,
     "by_source": {
-      "fallback": 2161
+      "fallback": 2222
     },
     "by_channel": {
       "Band.br": 18,
       "BandPiaui.br": 22,
       "BandSports.br": 21,
       "CNNBrasil.br": 20,
+      "Cancaonova.br": 38,
       "DiscoveryChannel.br": 27,
       "ESPN.br": 17,
-      "ESPN2.br": 161,
-      "ESPN3.br": 182,
-      "ESPN4.br": 214,
-      "ESPN5.br": 192,
+      "ESPN2.br": 166,
+      "ESPN3.br": 192,
+      "ESPN4.br": 219,
+      "ESPN5.br": 190,
       "GloboNews.br": 21,
       "GloboSP.br": 17,
       "InvestigacaoDiscovery.br": 34,
@@ -91,7 +92,7 @@
       "Premiere4.br": 5,
       "Premiere6.br": 5,
       "Premiere7.br": 4,
-      "PremiereClubes.br": 220,
+      "PremiereClubes.br": 221,
       "RecordTV.br": 19,
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 23,
@@ -110,8 +111,8 @@
       "TVCidadeVerde.br": 12,
       "TVClube.br": 17,
       "TVCultura.br": 32,
-      "TVJustica.br": 150,
-      "TVSenado.br": 142,
+      "TVJustica.br": 151,
+      "TVSenado.br": 145,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 27,
@@ -119,9 +120,9 @@
     }
   },
   "attempts": {
-    "total": 220,
-    "successful": 98,
-    "failed": 122
+    "total": 216,
+    "successful": 100,
+    "failed": 116
   },
   "files": {
     "epg": "output/epg.xml",
@@ -159,32 +160,10 @@
       "date": "2026-11-08",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 38,
       "url": "https://mi.tv/br/canais/canc-o-nova",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Cancaonova.br",
-      "channel_name": "TV CANÇÃO NOVA",
-      "date": "2026-11-08",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/canc-o-nova: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "Cancaonova.br",
-      "channel_name": "TV CANÇÃO NOVA",
-      "date": "2026-11-08",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/canc-o-nova: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Cancaonova.br",
@@ -192,32 +171,10 @@
       "date": "2026-11-09",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 38,
       "url": "https://mi.tv/br/canais/canc-o-nova",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Cancaonova.br",
-      "channel_name": "TV CANÇÃO NOVA",
-      "date": "2026-11-09",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/canc-o-nova: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "Cancaonova.br",
-      "channel_name": "TV CANÇÃO NOVA",
-      "date": "2026-11-09",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/canc-o-nova: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "BandPiaui.br",
@@ -2096,7 +2053,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 166,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2129,7 +2086,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 166,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2162,7 +2119,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 192,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2195,7 +2152,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 192,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2228,7 +2185,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 214,
+      "programs": 219,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2261,7 +2218,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 214,
+      "programs": 219,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2294,7 +2251,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 192,
+      "programs": 190,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2327,7 +2284,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 192,
+      "programs": 190,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2360,7 +2317,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 220,
+      "programs": 221,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2393,7 +2350,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 220,
+      "programs": 221,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2426,7 +2383,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2459,7 +2416,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2492,7 +2449,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 142,
+      "programs": 145,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2525,7 +2482,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 142,
+      "programs": 145,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
