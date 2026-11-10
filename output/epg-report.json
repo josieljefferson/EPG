@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:01:34.685686-03:00",
+  "generated_at": "2026-11-09T21:26:38.271361-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 50
+    "with_programs": 49
   },
   "programs": {
-    "total": 2312,
+    "total": 2280,
     "by_source": {
-      "fallback": 2312
+      "fallback": 2280
     },
     "by_channel": {
       "Band.br": 18,
@@ -74,10 +74,10 @@
       "Cancaonova.br": 41,
       "DiscoveryChannel.br": 30,
       "ESPN.br": 16,
-      "ESPN2.br": 161,
+      "ESPN2.br": 159,
       "ESPN3.br": 182,
-      "ESPN4.br": 210,
-      "ESPN5.br": 178,
+      "ESPN4.br": 209,
+      "ESPN5.br": 177,
       "GloboNews.br": 15,
       "GloboSP.br": 23,
       "InvestigacaoDiscovery.br": 38,
@@ -92,8 +92,7 @@
       "Premiere4.br": 3,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 221,
-      "RecordTV.br": 26,
+      "PremiereClubes.br": 220,
       "RedeGloboTeresina.br": 22,
       "RedeTV.br": 20,
       "SBT.br": 15,
@@ -111,7 +110,7 @@
       "TVCidadeVerde.br": 17,
       "TVClube.br": 22,
       "TVCultura.br": 68,
-      "TVJustica.br": 151,
+      "TVJustica.br": 150,
       "TVSenado.br": 140,
       "VenusTV.br": 16,
       "Viva.br": 29,
@@ -120,9 +119,9 @@
     }
   },
   "attempts": {
-    "total": 216,
-    "successful": 100,
-    "failed": 116
+    "total": 220,
+    "successful": 98,
+    "failed": 122
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1260,10 +1259,32 @@
       "date": "2026-11-09",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 26,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/record",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "RecordTV.br",
+      "channel_name": "RECORD TV",
+      "date": "2026-11-09",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/record: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "RecordTV.br",
+      "channel_name": "RECORD TV",
+      "date": "2026-11-09",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/record: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "RecordTV.br",
@@ -1271,10 +1292,32 @@
       "date": "2026-11-10",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 26,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/record",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "RecordTV.br",
+      "channel_name": "RECORD TV",
+      "date": "2026-11-10",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/record: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "RecordTV.br",
+      "channel_name": "RECORD TV",
+      "date": "2026-11-10",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/record: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "RedeTV.br",
@@ -2053,7 +2096,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 159,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2086,7 +2129,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 159,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2185,7 +2228,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2218,7 +2261,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2251,7 +2294,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 178,
+      "programs": 177,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2327,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 178,
+      "programs": 177,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2317,7 +2360,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 221,
+      "programs": 220,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2350,7 +2393,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 221,
+      "programs": 220,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2383,7 +2426,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2416,7 +2459,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
