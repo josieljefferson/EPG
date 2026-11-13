@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:04:14.478705-03:00",
+  "generated_at": "2026-11-13T18:28:01.940893-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 50
   },
   "programs": {
-    "total": 2556,
+    "total": 2540,
     "by_source": {
-      "fallback": 2556
+      "fallback": 2540
     },
     "by_channel": {
       "Band.br": 21,
@@ -74,16 +74,16 @@
       "Cancaonova.br": 41,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 16,
-      "ESPN2.br": 202,
-      "ESPN3.br": 210,
-      "ESPN4.br": 251,
-      "ESPN5.br": 211,
+      "ESPN2.br": 196,
+      "ESPN3.br": 205,
+      "ESPN4.br": 245,
+      "ESPN5.br": 206,
       "GloboNews.br": 15,
       "GloboSP.br": 24,
       "InvestigacaoDiscovery.br": 36,
       "JovemPanNews.br": 14,
       "MeioNorte.br": 17,
-      "MeioNorteHD.br": 17,
+      "MeioNorteHD.br": 19,
       "Multishow.br": 47,
       "Playboy.br": 43,
       "PlayboyHD.br": 43,
@@ -110,8 +110,8 @@
       "TVBrasil.br": 54,
       "TVCidadeVerde.br": 18,
       "TVClube.br": 23,
-      "TVCultura.br": 65,
-      "TVJustica.br": 151,
+      "TVCultura.br": 70,
+      "TVJustica.br": 150,
       "TVSenado.br": 162,
       "VenusTV.br": 16,
       "Viva.br": 30,
@@ -1415,7 +1415,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 65,
+      "programs": 70,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1426,7 +1426,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 65,
+      "programs": 70,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1921,7 +1921,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -1932,7 +1932,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 17,
+      "programs": 19,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
       "error": ""
     },
@@ -2053,7 +2053,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 196,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2086,7 +2086,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 202,
+      "programs": 196,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2119,7 +2119,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 205,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2152,7 +2152,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 210,
+      "programs": 205,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2185,7 +2185,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 251,
+      "programs": 245,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2218,7 +2218,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 251,
+      "programs": 245,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2251,7 +2251,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 211,
+      "programs": 206,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2284,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 211,
+      "programs": 206,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2383,7 +2383,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2416,7 +2416,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
