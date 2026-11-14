@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:23:10.672279-03:00",
+  "generated_at": "2026-11-14T16:55:03.394979-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 50
+    "with_programs": 52
   },
   "programs": {
-    "total": 2504,
+    "total": 2503,
     "by_source": {
-      "fallback": 2504
+      "fallback": 2503
     },
     "by_channel": {
       "Band.br": 22,
@@ -74,14 +74,15 @@
       "Cancaonova.br": 34,
       "DiscoveryChannel.br": 34,
       "ESPN.br": 19,
-      "ESPN2.br": 191,
-      "ESPN3.br": 206,
-      "ESPN4.br": 251,
-      "ESPN5.br": 216,
+      "ESPN2.br": 183,
+      "ESPN3.br": 200,
+      "ESPN4.br": 243,
+      "ESPN5.br": 212,
+      "GETV.br": 6,
       "GloboNews.br": 20,
       "GloboSP.br": 23,
       "InvestigacaoDiscovery.br": 35,
-      "JovemPanNews.br": 14,
+      "JovemPanNews.br": 13,
       "MeioNorte.br": 16,
       "MeioNorteHD.br": 16,
       "Multishow.br": 41,
@@ -97,6 +98,7 @@
       "RedeGloboTeresina.br": 22,
       "RedeTV.br": 24,
       "SBT.br": 15,
+      "SBTNews.br": 18,
       "SBTPiaui.br": 17,
       "SextremeBrazil.br": 19,
       "SexyHot.br": 33,
@@ -110,9 +112,9 @@
       "TVBrasil.br": 57,
       "TVCidadeVerde.br": 17,
       "TVClube.br": 22,
-      "TVCultura.br": 63,
+      "TVCultura.br": 66,
       "TVJustica.br": 151,
-      "TVSenado.br": 159,
+      "TVSenado.br": 158,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 25,
@@ -120,9 +122,9 @@
     }
   },
   "attempts": {
-    "total": 216,
-    "successful": 100,
-    "failed": 116
+    "total": 208,
+    "successful": 104,
+    "failed": 104
   },
   "files": {
     "epg": "output/epg.xml",
@@ -490,32 +492,10 @@
       "date": "2026-11-14",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/ge-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-14",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ge-tv: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-14",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/ge-tv: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "GETV.br",
@@ -523,32 +503,10 @@
       "date": "2026-11-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 6,
       "url": "https://mi.tv/br/canais/ge-tv",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/ge-tv: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "GETV.br",
-      "channel_name": "GE TV",
-      "date": "2026-11-15",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/ge-tv: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "NSports.br",
@@ -1415,7 +1373,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 63,
+      "programs": 66,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1426,7 +1384,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 63,
+      "programs": 66,
       "url": "https://mi.tv/br/canais/cultura-hd",
       "error": ""
     },
@@ -1613,7 +1571,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 14,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1624,7 +1582,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 14,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1700,32 +1658,10 @@
       "date": "2026-11-14",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-14",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-14",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/sbt-news: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "SBTNews.br",
@@ -1733,32 +1669,10 @@
       "date": "2026-11-15",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 18,
       "url": "https://mi.tv/br/canais/sbt-news",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-15",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/sbt-news: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "SBTNews.br",
-      "channel_name": "SBT NEWS",
-      "date": "2026-11-15",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/sbt-news: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Multishow.br",
@@ -2053,7 +1967,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 183,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2086,7 +2000,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 183,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2119,7 +2033,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 206,
+      "programs": 200,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2152,7 +2066,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 206,
+      "programs": 200,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2185,7 +2099,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 251,
+      "programs": 243,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2218,7 +2132,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 251,
+      "programs": 243,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2251,7 +2165,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 216,
+      "programs": 212,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2284,7 +2198,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 216,
+      "programs": 212,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2449,7 +2363,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 159,
+      "programs": 158,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2482,7 +2396,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 159,
+      "programs": 158,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
