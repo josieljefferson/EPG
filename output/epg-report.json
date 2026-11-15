@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:22:39.533123-03:00",
+  "generated_at": "2026-11-15T17:45:03.348437-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 52
   },
   "programs": {
-    "total": 2337,
+    "total": 2335,
     "by_source": {
-      "fallback": 2337
+      "fallback": 2335
     },
     "by_channel": {
       "Band.br": 19,
@@ -77,7 +77,7 @@
       "ESPN2.br": 177,
       "ESPN3.br": 189,
       "ESPN4.br": 239,
-      "ESPN5.br": 198,
+      "ESPN5.br": 197,
       "GETV.br": 7,
       "GloboNews.br": 21,
       "GloboSP.br": 17,
@@ -93,7 +93,7 @@
       "Premiere4.br": 6,
       "Premiere6.br": 5,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 270,
+      "PremiereClubes.br": 269,
       "RecordTV.br": 19,
       "RedeGloboTeresina.br": 17,
       "RedeTV.br": 23,
@@ -2165,7 +2165,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2198,7 +2198,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2231,7 +2231,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 270,
+      "programs": 269,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2264,7 +2264,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 270,
+      "programs": 269,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
