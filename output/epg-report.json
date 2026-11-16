@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:38:55.860588-03:00",
+  "generated_at": "2026-11-16T08:07:34.246168-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 52
   },
   "programs": {
-    "total": 2409,
+    "total": 2419,
     "by_source": {
-      "fallback": 2409
+      "fallback": 2419
     },
     "by_channel": {
       "Band.br": 17,
@@ -74,9 +74,9 @@
       "Cancaonova.br": 37,
       "DiscoveryChannel.br": 30,
       "ESPN.br": 16,
-      "ESPN2.br": 170,
-      "ESPN3.br": 182,
-      "ESPN4.br": 233,
+      "ESPN2.br": 174,
+      "ESPN3.br": 184,
+      "ESPN4.br": 234,
       "ESPN5.br": 190,
       "GETV.br": 6,
       "GloboNews.br": 15,
@@ -93,7 +93,7 @@
       "Premiere4.br": 3,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 265,
+      "PremiereClubes.br": 266,
       "RecordTV.br": 26,
       "RedeGloboTeresina.br": 22,
       "RedeTV.br": 19,
@@ -113,8 +113,8 @@
       "TVCidadeVerde.br": 17,
       "TVClube.br": 22,
       "TVCultura.br": 64,
-      "TVJustica.br": 150,
-      "TVSenado.br": 150,
+      "TVJustica.br": 151,
+      "TVSenado.br": 151,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 34,
@@ -1967,7 +1967,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 170,
+      "programs": 174,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2000,7 +2000,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 170,
+      "programs": 174,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2033,7 +2033,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 184,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2066,7 +2066,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 182,
+      "programs": 184,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2099,7 +2099,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 233,
+      "programs": 234,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2132,7 +2132,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 233,
+      "programs": 234,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2231,7 +2231,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 265,
+      "programs": 266,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2264,7 +2264,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 265,
+      "programs": 266,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2297,7 +2297,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2330,7 +2330,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2363,7 +2363,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2396,7 +2396,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
