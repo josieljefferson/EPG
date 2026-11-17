@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:02:00.052158-03:00",
+  "generated_at": "2026-11-17T20:05:49.079146-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 51
+    "with_programs": 52
   },
   "programs": {
-    "total": 2397,
+    "total": 2369,
     "by_source": {
-      "fallback": 2397
+      "fallback": 2369
     },
     "by_channel": {
       "Band.br": 18,
@@ -74,15 +74,15 @@
       "Cancaonova.br": 39,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 16,
-      "ESPN2.br": 169,
-      "ESPN3.br": 175,
-      "ESPN4.br": 217,
-      "ESPN5.br": 178,
+      "ESPN2.br": 161,
+      "ESPN3.br": 171,
+      "ESPN4.br": 209,
+      "ESPN5.br": 169,
       "GETV.br": 6,
       "GloboNews.br": 15,
       "GloboSP.br": 25,
       "InvestigacaoDiscovery.br": 39,
-      "JovemPanNews.br": 15,
+      "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
       "MeioNorteHD.br": 20,
       "Multishow.br": 45,
@@ -90,6 +90,7 @@
       "PlayboyHD.br": 41,
       "Premiere2.br": 3,
       "Premiere3.br": 3,
+      "Premiere4.br": 3,
       "Premiere6.br": 5,
       "Premiere7.br": 3,
       "PremiereClubes.br": 266,
@@ -121,9 +122,9 @@
     }
   },
   "attempts": {
-    "total": 212,
-    "successful": 102,
-    "failed": 110
+    "total": 208,
+    "successful": 104,
+    "failed": 104
   },
   "files": {
     "epg": "output/epg.xml",
@@ -623,32 +624,10 @@
       "date": "2026-11-17",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-11-17",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-11-17",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/premiere-4: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere4.br",
@@ -656,32 +635,10 @@
       "date": "2026-11-18",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 3,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-11-18",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "Premiere4.br",
-      "channel_name": "PREMIERE 4",
-      "date": "2026-11-18",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/premiere-4: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Premiere5.br",
@@ -1614,7 +1571,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 15,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -1625,7 +1582,7 @@
       "source": "mitv",
       "priority": 1,
       "success": true,
-      "programs": 15,
+      "programs": 13,
       "url": "https://mi.tv/br/canais/jovem-pan-news",
       "error": ""
     },
@@ -2010,7 +1967,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 169,
+      "programs": 161,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2043,7 +2000,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 169,
+      "programs": 161,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2076,7 +2033,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 171,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2109,7 +2066,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 175,
+      "programs": 171,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2142,7 +2099,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 217,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2175,7 +2132,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 217,
+      "programs": 209,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2208,7 +2165,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 178,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2241,7 +2198,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 178,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
