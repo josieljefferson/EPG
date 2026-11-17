@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:38:59.856895-03:00",
+  "generated_at": "2026-11-17T09:02:00.052158-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 52
+    "with_programs": 51
   },
   "programs": {
-    "total": 2396,
+    "total": 2397,
     "by_source": {
-      "fallback": 2396
+      "fallback": 2397
     },
     "by_channel": {
       "Band.br": 18,
@@ -74,8 +74,8 @@
       "Cancaonova.br": 39,
       "DiscoveryChannel.br": 29,
       "ESPN.br": 16,
-      "ESPN2.br": 167,
-      "ESPN3.br": 173,
+      "ESPN2.br": 169,
+      "ESPN3.br": 175,
       "ESPN4.br": 217,
       "ESPN5.br": 178,
       "GETV.br": 6,
@@ -90,7 +90,6 @@
       "PlayboyHD.br": 41,
       "Premiere2.br": 3,
       "Premiere3.br": 3,
-      "Premiere4.br": 3,
       "Premiere6.br": 5,
       "Premiere7.br": 3,
       "PremiereClubes.br": 266,
@@ -122,9 +121,9 @@
     }
   },
   "attempts": {
-    "total": 208,
-    "successful": 104,
-    "failed": 104
+    "total": 212,
+    "successful": 102,
+    "failed": 110
   },
   "files": {
     "epg": "output/epg.xml",
@@ -624,10 +623,32 @@
       "date": "2026-11-17",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere4.br",
+      "channel_name": "PREMIERE 4",
+      "date": "2026-11-17",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "Premiere4.br",
+      "channel_name": "PREMIERE 4",
+      "date": "2026-11-17",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/premiere-4: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "Premiere4.br",
@@ -635,10 +656,32 @@
       "date": "2026-11-18",
       "source": "mitv",
       "priority": 1,
-      "success": true,
-      "programs": 3,
+      "success": false,
+      "programs": 0,
       "url": "https://mi.tv/br/canais/premiere-4",
-      "error": ""
+      "error": "Nenhuma programação válida encontrada (0)."
+    },
+    {
+      "channel_id": "Premiere4.br",
+      "channel_name": "PREMIERE 4",
+      "date": "2026-11-18",
+      "source": "guiadetv",
+      "priority": 2,
+      "success": false,
+      "programs": 0,
+      "url": "https://www.guiadetv.com/busca",
+      "error": "https://www.guiadetv.com/canal/premiere-4: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
+    },
+    {
+      "channel_id": "Premiere4.br",
+      "channel_name": "PREMIERE 4",
+      "date": "2026-11-18",
+      "source": "meuguia",
+      "priority": 4,
+      "success": false,
+      "programs": 0,
+      "url": "https://meuguia.tv",
+      "error": "https://meuguia.tv/programacao/canal/premiere-4: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
     },
     {
       "channel_id": "Premiere5.br",
@@ -1967,7 +2010,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 167,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2000,7 +2043,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 167,
+      "programs": 169,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2033,7 +2076,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 173,
+      "programs": 175,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2066,7 +2109,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 173,
+      "programs": 175,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
