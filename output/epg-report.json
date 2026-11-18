@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:45:50.298061-03:00",
+  "generated_at": "2026-11-18T20:07:40.765485-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -78,7 +78,7 @@
       "ESPN2.br": 154,
       "ESPN3.br": 158,
       "ESPN4.br": 197,
-      "ESPN5.br": 158,
+      "ESPN5.br": 157,
       "GETV.br": 6,
       "GloboNews.br": 15,
       "GloboSP.br": 24,
@@ -115,7 +115,7 @@
       "TVClube.br": 23,
       "TVCultura.br": 69,
       "TVJustica.br": 151,
-      "TVSenado.br": 150,
+      "TVSenado.br": 151,
       "VenusTV.br": 17,
       "Viva.br": 29,
       "sexprive-brasileirinhas.br": 35,
@@ -2122,7 +2122,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 158,
+      "programs": 157,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2155,7 +2155,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 158,
+      "programs": 157,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2320,7 +2320,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2353,7 +2353,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
