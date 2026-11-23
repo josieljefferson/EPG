@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:37:04.379365-03:00",
+  "generated_at": "2026-11-22T22:34:23.696130-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 51
+    "with_programs": 53
   },
   "programs": {
-    "total": 2355,
+    "total": 2409,
     "by_source": {
-      "fallback": 2355
+      "fallback": 2409
     },
     "by_channel": {
       "Band.br": 18,
@@ -76,17 +76,19 @@
       "DiscoveryChannel.br": 27,
       "ESPN.br": 18,
       "ESPN2.br": 191,
-      "ESPN3.br": 172,
+      "ESPN3.br": 170,
       "ESPN4.br": 236,
-      "ESPN5.br": 191,
+      "ESPN5.br": 188,
       "GETV.br": 7,
       "GloboNews.br": 21,
       "GloboSP.br": 17,
       "InvestigacaoDiscovery.br": 31,
       "JovemPanNews.br": 15,
       "MeioNorte.br": 16,
+      "MeioNorteHD.br": 16,
       "Multishow.br": 47,
       "Playboy.br": 43,
+      "PlayboyHD.br": 43,
       "Premiere2.br": 5,
       "Premiere3.br": 3,
       "Premiere4.br": 3,
@@ -121,9 +123,9 @@
     }
   },
   "attempts": {
-    "total": 212,
-    "successful": 102,
-    "failed": 110
+    "total": 204,
+    "successful": 106,
+    "failed": 98
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1789,32 +1791,10 @@
       "date": "2026-11-22",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-22",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/meio-norte-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-22",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/meio-norte-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "MeioNorteHD.br",
@@ -1822,32 +1802,10 @@
       "date": "2026-11-23",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 16,
       "url": "https://mi.tv/br/canais/meio-norte-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-23",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/meio-norte-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "MeioNorteHD.br",
-      "channel_name": "MEIO NORTE HD",
-      "date": "2026-11-23",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/meio-norte-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Playboy.br",
@@ -1877,32 +1835,10 @@
       "date": "2026-11-22",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 43,
       "url": "https://mi.tv/br/canais/playboy-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "PlayboyHD.br",
-      "channel_name": "PLAYBOY HD",
-      "date": "2026-11-22",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/playboy-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "PlayboyHD.br",
-      "channel_name": "PLAYBOY HD",
-      "date": "2026-11-22",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/playboy-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "PlayboyHD.br",
@@ -1910,32 +1846,10 @@
       "date": "2026-11-23",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 43,
       "url": "https://mi.tv/br/canais/playboy-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "PlayboyHD.br",
-      "channel_name": "PLAYBOY HD",
-      "date": "2026-11-23",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/playboy-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "PlayboyHD.br",
-      "channel_name": "PLAYBOY HD",
-      "date": "2026-11-23",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/playboy-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "VenusTV.br",
@@ -2076,7 +1990,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 172,
+      "programs": 170,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2109,7 +2023,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 172,
+      "programs": 170,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2208,7 +2122,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 188,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2241,7 +2155,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 191,
+      "programs": 188,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
