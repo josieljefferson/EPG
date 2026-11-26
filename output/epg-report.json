@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:45:52.596328-03:00",
+  "generated_at": "2026-11-25T21:08:02.716815-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 52
+    "with_programs": 53
   },
   "programs": {
-    "total": 2292,
+    "total": 2322,
     "by_source": {
-      "fallback": 2292
+      "fallback": 2322
     },
     "by_channel": {
       "Band.br": 21,
@@ -76,12 +76,13 @@
       "DiscoveryChannel.br": 38,
       "ESPN.br": 20,
       "ESPN2.br": 164,
-      "ESPN3.br": 142,
-      "ESPN4.br": 198,
+      "ESPN3.br": 140,
+      "ESPN4.br": 197,
       "ESPN5.br": 151,
       "GETV.br": 6,
       "GloboNews.br": 15,
       "GloboSP.br": 23,
+      "InvestigacaoDiscovery.br": 34,
       "JovemPanNews.br": 13,
       "MeioNorte.br": 20,
       "MeioNorteHD.br": 20,
@@ -114,7 +115,7 @@
       "TVClube.br": 23,
       "TVCultura.br": 69,
       "TVJustica.br": 151,
-      "TVSenado.br": 162,
+      "TVSenado.br": 161,
       "VenusTV.br": 17,
       "Viva.br": 30,
       "sexprive-brasileirinhas.br": 35,
@@ -122,9 +123,9 @@
     }
   },
   "attempts": {
-    "total": 208,
-    "successful": 104,
-    "failed": 104
+    "total": 204,
+    "successful": 106,
+    "failed": 98
   },
   "files": {
     "epg": "output/epg.xml",
@@ -1086,32 +1087,10 @@
       "date": "2026-11-25",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 34,
       "url": "https://mi.tv/br/canais/investigacao-discovery",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-11-25",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/investigacao-discovery: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-11-25",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/investigacao-discovery: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "InvestigacaoDiscovery.br",
@@ -1119,32 +1098,10 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 34,
       "url": "https://mi.tv/br/canais/investigacao-discovery",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-11-26",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/investigacao-discovery: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "InvestigacaoDiscovery.br",
-      "channel_name": "INVESTIGAÇÃO DISCOVERY",
-      "date": "2026-11-26",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/investigacao-discovery: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "Band.br",
@@ -2033,7 +1990,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 142,
+      "programs": 140,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2066,7 +2023,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 142,
+      "programs": 140,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2099,7 +2056,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2132,7 +2089,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 198,
+      "programs": 197,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2363,7 +2320,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 162,
+      "programs": 161,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2396,7 +2353,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 162,
+      "programs": 161,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
