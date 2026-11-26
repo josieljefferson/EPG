@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:00:41.380271-03:00",
+  "generated_at": "2026-11-26T09:22:10.284274-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -59,12 +59,12 @@
   ],
   "channels": {
     "configured": 64,
-    "with_programs": 52
+    "with_programs": 53
   },
   "programs": {
-    "total": 2249,
+    "total": 2277,
     "by_source": {
-      "fallback": 2249
+      "fallback": 2277
     },
     "by_channel": {
       "Band.br": 21,
@@ -75,10 +75,10 @@
       "Cancaonova.br": 36,
       "DiscoveryChannel.br": 31,
       "ESPN.br": 16,
-      "ESPN2.br": 157,
-      "ESPN3.br": 133,
-      "ESPN4.br": 189,
-      "ESPN5.br": 143,
+      "ESPN2.br": 158,
+      "ESPN3.br": 137,
+      "ESPN4.br": 191,
+      "ESPN5.br": 144,
       "GETV.br": 6,
       "GloboNews.br": 13,
       "GloboSP.br": 25,
@@ -94,7 +94,7 @@
       "Premiere4.br": 3,
       "Premiere6.br": 3,
       "Premiere7.br": 3,
-      "PremiereClubes.br": 236,
+      "PremiereClubes.br": 238,
       "RecordTV.br": 25,
       "RedeGloboTeresina.br": 25,
       "RedeTV.br": 19,
@@ -111,9 +111,10 @@
       "TVAlvoradaDoSul.br": 25,
       "TVAntena10.br": 17,
       "TVBrasil.br": 55,
+      "TVCidadeVerde.br": 17,
       "TVClube.br": 25,
       "TVCultura.br": 65,
-      "TVJustica.br": 150,
+      "TVJustica.br": 151,
       "TVSenado.br": 161,
       "VenusTV.br": 17,
       "Viva.br": 31,
@@ -122,9 +123,9 @@
     }
   },
   "attempts": {
-    "total": 208,
-    "successful": 104,
-    "failed": 104
+    "total": 204,
+    "successful": 106,
+    "failed": 98
   },
   "files": {
     "epg": "output/epg.xml",
@@ -206,32 +207,10 @@
       "date": "2026-11-26",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-11-26",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-cidade-verde-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-11-26",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/tv-cidade-verde-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVCidadeVerde.br",
@@ -239,32 +218,10 @@
       "date": "2026-11-27",
       "source": "mitv",
       "priority": 1,
-      "success": false,
-      "programs": 0,
+      "success": true,
+      "programs": 17,
       "url": "https://mi.tv/br/canais/tv-cidade-verde-hd",
-      "error": "Nenhuma programação válida encontrada (0)."
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-11-27",
-      "source": "guiadetv",
-      "priority": 2,
-      "success": false,
-      "programs": 0,
-      "url": "https://www.guiadetv.com/busca",
-      "error": "https://www.guiadetv.com/canal/tv-cidade-verde-hd: nenhum programa; https://www.guiadetv.com: nenhum programa; https://www.guiadetv.com/busca: nenhum programa"
-    },
-    {
-      "channel_id": "TVCidadeVerde.br",
-      "channel_name": "TV CIDADE VERDE",
-      "date": "2026-11-27",
-      "source": "meuguia",
-      "priority": 4,
-      "success": false,
-      "programs": 0,
-      "url": "https://meuguia.tv",
-      "error": "https://meuguia.tv/programacao/canal/tv-cidade-verde-hd: nenhum programa; https://meuguia.tv/programacao: nenhum programa; https://meuguia.tv: nenhum programa"
+      "error": ""
     },
     {
       "channel_id": "TVAntena10.br",
@@ -1967,7 +1924,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 157,
+      "programs": 158,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2000,7 +1957,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 157,
+      "programs": 158,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2033,7 +1990,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 133,
+      "programs": 137,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2066,7 +2023,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 133,
+      "programs": 137,
       "url": "https://meuguia.tv/programacao/canal/ES3",
       "error": ""
     },
@@ -2099,7 +2056,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 189,
+      "programs": 191,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2132,7 +2089,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 189,
+      "programs": 191,
       "url": "https://meuguia.tv/programacao/canal/ES4",
       "error": ""
     },
@@ -2165,7 +2122,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 143,
+      "programs": 144,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2198,7 +2155,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 143,
+      "programs": 144,
       "url": "https://meuguia.tv/programacao/canal/ES5",
       "error": ""
     },
@@ -2231,7 +2188,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 236,
+      "programs": 238,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2264,7 +2221,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 236,
+      "programs": 238,
       "url": "https://meuguia.tv/programacao/canal/121",
       "error": ""
     },
@@ -2297,7 +2254,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2330,7 +2287,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 150,
+      "programs": 151,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
