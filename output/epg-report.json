@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:45:02.090281-03:00",
+  "generated_at": "2026-11-26T21:06:27.970899-03:00",
   "epg_url": "https://raw.githubusercontent.com/josieljefferson/EPG/refs/heads/main/output/epg.xml.gz",
   "settings": {
     "days": 2,
@@ -62,9 +62,9 @@
     "with_programs": 53
   },
   "programs": {
-    "total": 2253,
+    "total": 2249,
     "by_source": {
-      "fallback": 2253
+      "fallback": 2249
     },
     "by_channel": {
       "Band.br": 21,
@@ -75,7 +75,7 @@
       "Cancaonova.br": 36,
       "DiscoveryChannel.br": 31,
       "ESPN.br": 16,
-      "ESPN2.br": 154,
+      "ESPN2.br": 152,
       "ESPN3.br": 132,
       "ESPN4.br": 185,
       "ESPN5.br": 137,
@@ -114,8 +114,8 @@
       "TVCidadeVerde.br": 17,
       "TVClube.br": 25,
       "TVCultura.br": 65,
-      "TVJustica.br": 151,
-      "TVSenado.br": 161,
+      "TVJustica.br": 150,
+      "TVSenado.br": 160,
       "VenusTV.br": 17,
       "Viva.br": 31,
       "sexprive-brasileirinhas.br": 35,
@@ -1924,7 +1924,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 154,
+      "programs": 152,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -1957,7 +1957,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 154,
+      "programs": 152,
       "url": "https://meuguia.tv/programacao/canal/ES2",
       "error": ""
     },
@@ -2254,7 +2254,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2287,7 +2287,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 151,
+      "programs": 150,
       "url": "https://meuguia.tv/programacao/canal/JUS",
       "error": ""
     },
@@ -2320,7 +2320,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 160,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
@@ -2353,7 +2353,7 @@
       "source": "meuguia",
       "priority": 4,
       "success": true,
-      "programs": 161,
+      "programs": 160,
       "url": "https://meuguia.tv/programacao/canal/SEN",
       "error": ""
     },
